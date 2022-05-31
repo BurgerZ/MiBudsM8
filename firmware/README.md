@@ -3,6 +3,7 @@ This directory contains firmware files for different Xiaomi Bluetooth TWS earbud
  - Redmi AirDots 3 Pro
  - Redmi Buds 3 Pro
  - Redmi Buds 3
+ - Xiaomi Buds 3
  - FlipBuds Pro
 
 If you have any firmware files for earbuds not listed here, please, contact me to add the to the list. 
@@ -94,6 +95,7 @@ If you have any firmware files for earbuds not listed here, please, contact me t
 |China |white|2717|5027|
 
 ### 1.0.3.15  
+
 **File name:** m8_ota_image_v1.0.3.15_50a21d70_7011_buds3.bin  
 **MD5:** 7011fc57c9b948ef96a98a65fdc83378  
 **Comment:** original image  
@@ -101,6 +103,39 @@ If you have any firmware files for earbuds not listed here, please, contact me t
 - Bug fixes, optimizations, and product experience improvements
 - This version takes a long time to upgrade, about 5-10 minutes depending on environmental factors, please wait patiently
 
+## Xiaomi Buds 3
+
+|Region|    Color   |VID |PID |
+|:----:|:----------:|:--:|:--:|
+|China |black, white|2717|5026|
+
+### 5.1.5.1 
+
+**File name:** m8_ota_image_v5.1.5.1_k75.bin  
+**MD5:** 0fea7e6e04f6540bc2cf4db1b4ee53ef  
+**Comment:** original image  
+**Changelog:**  
+- Solve the problem with no sound from one earpod during phone calls  
+- Lower the wearing threshold  
+- Solve the problems with charging  
+- Fix the problem when the music does not play when wearing a single earpod, and then wearing the slave earpod  
+- Optimize master-slave switching  
+
+## Xiaomi Buds 3
+
+|Region |    Color   |VID |PID |
+|:-----:|:----------:|:--:|:--:|
+|Global |black, white|2717|502b|
+
+### 5.3.3.9 
+
+**File name:** m8_ota_image_v5.3.3.9_k75a.bin  
+**MD5:** 8a099f6fcd0108e244c9070369ddb772  
+**Comment:** original image  
+**Changelog:**  
+- Optimize ANC performance.  
+- Update mode saving function.  
+- Save ANC/transparency mode after use.  
 ## FlipBuds Pro
 
 |Region|Color|VID |PID |
