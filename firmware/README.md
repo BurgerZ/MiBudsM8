@@ -195,6 +195,13 @@ If you have any firmware files for earbuds not listed here, please, contact me t
 |:----:|:----------:|:--:|:--:|
 |Global|black, white|5a4d|ea0f|
 
+### 2.0.1.7  
+**File name:** m8_ota_image_v2.0.1.7_redmibuds4pro_gl.bin  
+**MD5:** 1d45e45c3dd9870fdc01a66956e6becf  
+**Comment:** original image  
+**Changelog:**  
+- Various bug fixes and performance improvements.
+
 ### 2.0.2.2  
 **File name:** m8_ota_image_v2.0.2.2_redmibuds4pro_gl.bin  
 **MD5:** 716e00dbf58bd7bf56a9ad2ff905af76  
