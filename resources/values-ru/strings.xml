@@ -1,0 +1,290 @@
+<resources>
+
+    <string name="app_current_lang">ru</string>
+    <string name="app_translator_name">XiaomiSir - <a href="https://t.me/XiaomiSir/">https://t.me/XiaomiSir</a></string>
+
+    <!-- Main screen -->
+    <string name="miheadset_disconnected_summary">Подключите наушники</string>
+    <string name="miheadset_supported_eartips">Приложение поддерживает следующие наушники:</string>
+    <string name="miheadset_disconnected_click_bt_settings">Открыть настройки Bluetooth</string>
+
+    <!-- Device config -->
+    <!-- Battery -->
+    <string name="device_config_battery_case">Кейс</string>
+    <string name="device_config_battery_left">Левый</string>
+    <string name="device_config_battery_right">Правый</string>
+
+    <!-- ANC -->
+    <string name="device_config_anc_on">Шумоподавление</string>
+    <string name="device_config_anc_off">Отключено</string>
+    <string name="device_config_transparency">Прозрачность</string>
+
+    <string name="device_config_anc_mode_adaptive">Адаптивное</string>
+    <string name="device_config_anc_mode_off">Отключено</string>
+    <string name="device_config_anc_mode_deep">Глубокое</string>
+    <string name="device_config_anc_mode_balanced">Баланс</string>
+    <string name="device_config_anc_mode_airplane">В самолете</string>
+    <string name="device_config_anc_mode_office">Офис</string>
+    <string name="device_config_anc_mode_daily">Обычное</string>
+    <string name="device_config_anc_mode_light">Слабое</string>
+    <string name="device_config_anc_mode_wind">Ветер</string>
+    <string name="device_config_anc_mode_enhance_voice">Усиление голоса</string>
+    <string name="device_config_anc_mode_transparent">Прозрачность</string>
+    <!-- Errors -->
+    <string name="device_config_anc_alert_put_on">Подключите и наденьте наушники</string>
+    <string name="device_config_anc_alert_single_ear">Наденьте оба наушника для использования шумоподавления</string>
+
+    <!-- Gestures -->
+    <string name="device_config_gestures_title">Жесты</string>
+    <string name="device_config_gestures_summary">Настройки жестов для каждого наушника</string>
+    <string name="device_config_gestures_double_click_left">Двойное касание (левый)</string>
+    <string name="device_config_gestures_double_click_right">Двойное касание (правый)</string>
+    <string name="device_config_gestures_double_press_left">Двойное нажатие (левый)</string>
+    <string name="device_config_gestures_double_press_right">Двойное нажатие (правый)</string>
+    <string name="device_config_gestures_triple_click_left">Тройное касание (левый)</string>
+    <string name="device_config_gestures_triple_click_right">Тройное касание (правый)</string>
+    <string name="device_config_gestures_triple_press_left">Тройное нажатие (левый)</string>
+    <string name="device_config_gestures_triple_press_right">Тройное нажатие (правый)</string>
+    <string name="device_config_gestures_press_left">Долгое нажатие (левый)</string>
+    <string name="device_config_gestures_press_right">Долгое нажатие (правый)</string>
+    <!-- Modes -->
+    <string name="device_config_gestures_action_volume_down">Уменьшение громкости</string>
+    <string name="device_config_gestures_action_volume_up">Увеличение громкости</string>
+    <string name="device_config_gestures_action_next_track">Следующий трек</string>
+    <string name="device_config_gestures_action_previous_track">Предыдущий трек</string>
+    <string name="device_config_gestures_action_play_pause">Воспроизведение/Пауза</string>
+    <string name="device_config_gestures_action_voice_assistant">Голосовой помощник</string>
+    <string name="device_config_gestures_action_noise_control">Управление шумом</string>
+    <string name="device_config_gestures_action_noise_control_summary">Нажмите и удерживайте для переключения между выбранными режимами шумоподавления</string>
+    <string name="device_config_gestures_action_off">Откл.</string>
+    <string name="device_config_gestures_action_off_summary">Отключить шумоподавление и прозрачность</string>
+    <string name="device_config_gestures_action_noise_summary">Блокировать все внешние шумы</string>
+    <string name="device_config_gestures_action_trans_summary">Пропускать внешние шумы</string>
+
+    <!-- Sound settings -->
+    <string name="device_config_sound_settings">Настройки звука</string>
+    <string name="device_config_sound_settings_summary">Кастомизация звучания наушников</string>
+    <string name="device_config_sound_settings_spatial_audio">Пространственный звук</string>
+    <string name="device_config_sound_settings_spatial_audio_summary">Испытайте эффект погружения и ощущение пространства для поддерживаемых аудио и видео</string>
+    <string name="device_config_sound_settings_sound_quality">Качество звука</string>
+    <string name="device_config_sound_settings_sound_quality_low_latency">Низкая задержка</string>
+    <string name="device_config_sound_settings_sound_quality_high_quality">Высокое качество</string>
+    <string name="device_config_sound_settings_head_tracking">Отслеживание движения головы</string>
+    <string name="device_config_sound_settings_head_tracking_summary">Улучшенное ощущение пространства и направления для поддерживаемых аудио и видео</string>
+    <string name="device_config_sound_settings_surround_sound_summary">Увеличение глубины звука при воспроизведения медиа файлов в наушниках (эта функция не будет работать, когда воспроизводится звук %.1f).</string>
+    <string name="device_config_sound_settings_surround_sound_title">Виртуальный объемный звук</string>
+
+    <!-- More settings -->
+    <string name="device_config_more_settings">Расширенные настройки</string>
+    <string name="device_config_more_settings_in_ear_check">Обнаружение уха</string>
+    <string name="device_config_more_settings_in_ear_check_summary">Останавливать воспроизведение, когда наушники вынуты из ушей, и автоматически возобновлять, когда наушники находятся в ушах.</string>
+    <string name="device_config_more_settings_dual_connect_mode">Подключение к двум устройствам</string>
+    <string name="device_config_more_settings_dual_connect_mode_summary">Одновременное подключение наушников к двум Bluetooth-устройствам</string>
+    <string name="device_config_more_settings_auto_ack_mode_summary">Автоматический ответ</string>
+    <string name="device_config_more_settings_auto_ack_mode">Отвечать на вызовы автоматически, когда наушники надеты.</string>
+    <string name="device_config_more_settings_notification_widget_title">Виджет в панели уведомлений</string>
+    <string name="device_config_more_settings_notification_widget_summary">Показывать состояние через виджет в панели уведомлений, когда наушники подключены.</string>
+    <string name="device_config_more_settings_silent_upgrade_title">Обновлять автоматически</string>
+    <string name="device_config_more_settings_silent_upgrade_summary">Автоматически обновлять встроенное ПО наушников при соблюдении всех необходимых условий.</string>
+    <!-- Intelligent pickup -->
+    <string name="device_config_more_settings_detect_voice">Распознавание голоса</string>
+    <string name="device_config_more_settings_detect_voice_summary">Когда включено шумоподавление, при обнаружении голоса наушники на короткое время автоматически переключаются в режим прозрачности.</string>
+    <string name="device_config_more_settings_detect_voice_silent_off">Отключено</string>
+    <string name="device_config_more_settings_detect_voice_auto_anc_five_recover">5 сек</string>
+    <string name="device_config_more_settings_detect_voice_auto_anc_ten_recover">10 сек</string>
+    <string name="device_config_more_settings_detect_voice_auto_anc_fifteen_recover">15 сек</string>
+    <string name="device_config_more_settings_detect_voice_auto_anc_not_recover">Не отключать</string>
+
+    <!-- Ear tip fit test -->
+    <string name="device_config_fit_check">Проверка прилегания к ушам</string>
+    <string name="device_config_fit_check_testing">Проверка…</string>
+    <string name="device_config_fit_check_next">Далее</string>
+    <string name="device_config_fit_check_done">Готово</string>
+    <string name="device_config_fit_check_restart">Начать сначала</string>
+    <string name="device_config_fit_check_result_dialog1">Перед началом проверки поместите наушники в оба уха.</string>
+    <string name="device_config_fit_check_result_dialog2">Перед началом проверки необходимо завершить текущий вызов.</string>
+    <string name="device_config_fit_check_result_dialog_title">Предупреждение</string>
+    <string name="device_config_fit_check_result_l_not_ok">Поправьте наушник</string>
+    <string name="device_config_fit_check_result_not_ok">Плохое прилегание</string>
+    <string name="device_config_fit_check_result_ok">Хорошее прилегание</string>
+    <string name="device_config_fit_check_result_r_not_ok">Поправьте наушник</string>
+    <string name="device_config_fit_check_result_summary1">Эти вкладыши отлично подходят вам!</string>
+    <string name="device_config_fit_check_result_summary2">Поправьте или смените вкладыш и повторите попытку.</string>
+    <string name="device_config_fit_check_start">Начать</string>
+    <string name="device_config_fit_check_summary1">Воспользуйтесь проверкой прилегания к ушам, чтобы подобрать вкладыши, которые обеспечат наилучшее качество звука и комфорт.</string>
+    <string name="device_config_fit_check_summary2">Поместите наушники в оба уха и нажмите \"Начать\".</string>
+    <string name="device_config_fit_check_summary3">Не вынимайте наушники.</string>
+
+    <!-- Missing earphone alert -->
+    <string name="device_config_anti_lost_title">Предупреждение об утере наушника</string>
+    <string name="device_config_anti_lost_summary">Оповещать, когда один из наушников находится вне уха или кейса больше %d минут.</string>
+    <string name="device_config_find_title">Поиск наушников</string>
+    <string name="device_config_find_status_connected">Подключено</string>
+    <string name="device_config_find_status_disconnected">Нет соединения. Подключите и повторите попытку.</string>
+    <string name="device_config_find_tip_title">Внимание!</string>
+    <string name="device_config_find_tip">Поиск наушников доступен только когда они находятся рядом с вашим устройством, а также подключены к нему. Перед воспроизведением звукового сигнала убедитесь, что наушники не находятся у вас в ушах, так как это может негативно повлиять на остроту вашего слуха.</string>
+    <string name="device_config_find_left">Левый</string>
+    <string name="device_config_find_both">Оба</string>
+    <string name="device_config_find_right">Правый</string>
+    <string name="device_config_find_cancel">Отмена</string>
+    <string name="device_config_find_handle_tip">Нажмите, чтобы воспроизвести звуковой сигнал</string>
+    <string name="device_config_find_query_play">Воспроизвести</string>
+    <string name="device_config_find_playing">Воспроизведение…</string>
+    <string name="device_config_find_connected">Подключено</string>
+    <string name="device_config_find_disconnect">Не подключено</string>
+    <string name="device_config_find_volume_warning">Предупреждение о шуме</string>
+    <string name="device_config_find_play_warning">По крайней мере один из наушников находится у вас в ухе. Воспроизведение громкого звукового сигнала может негативно повлиять на остроту вашего слуха. Прежде чем продолжить, выньте наушники из ушей.</string>
+    <!-- Missing notification -->
+    <string name="device_config_find_loss_notify_title">Уведомление о потере наушника</string>
+    <string name="device_config_find_loss_notify_summary">Один из наушников отсутствует в кейсе. Проверьте!</string>
+
+
+    <!-- Firmware update -->
+    <string name="device_config_firmware">Прошивка</string>
+    <string name="device_config_firmware_not_connected">Подключите наушники для просмотра версии ПО</string>
+    <string name="device_config_firmware_up_to_date">Обновление не требуется</string>
+
+    <string name="device_config_firmware_downloading">Загрузка…</string>
+    <string name="device_config_firmware_downloading_dots">Подождите. Идет загрузка…</string>
+    <string name="device_config_firmware_download_failed">Ошибка загрузки</string>
+
+    <string name="device_config_firmware_update_done">Готово</string>
+    <string name="device_config_firmware_update_success">Успешно обновлено</string>
+    <string name="device_config_firmware_update_failed">Сбой обновления</string>
+    <string name="device_config_firmware_update_error">Ошибка</string>
+
+    <string name="device_config_firmware_updating">Обновление</string>
+
+    <string name="device_config_firmware_device_sync">Синхронизация…</string>
+    <string name="device_config_firmware_connect_device">Подключите устройство</string>
+
+    <!-- FW flash. Inquire firmware data -->
+    <string name="device_config_firmware_fail_battery_low">Низкий заряд</string>
+    <string name="device_config_firmware_fail_wrong_firmware">Некорректные данные обновления</string>
+    <string name="device_config_firmware_fail_device_check_failed">Сбой при проверке обновлений</string>
+    <!-- FW flash. Enter upgrade mode -->
+    <string name="device_config_firmware_flash_device_not_move">Не перемещайте устройство</string>
+    <string name="device_config_firmware_flash_enter_upgrade_failed">Сбой при попытке начать обновление</string>
+    <!-- FW flash. Get file info -->
+    <string name="device_config_firmware_flash_file_position_failed">Нет доступа к файлу обновления</string>
+    <string name="device_config_firmware_flash_file_read_failed">Сбой получения данных об обновлении</string>
+    <!-- FW flash. Sync -->
+    <string name="device_config_firmware_flash_device_sync_wait_connect">Синхронизация… Не используйте наушники во время синхронизации, дождитесь автоподключения по окончанию</string>
+    <string name="device_config_firmware_flash_device_sync_read_state">Сбой получения данных об обновлении</string>
+    <!-- FW fail messages -->
+    <string name="device_config_firmware_flash_error_disconnected">Оба наушника отсоединены, закройте и снова откройте крышку</string>
+    <string name="device_config_firmware_flash_error_case_closed">Кейс закрыт</string>
+    <string name="device_config_firmware_flash_error_earbud_missing">Кейс пуст или не хватает наушника</string>
+    <string name="device_config_firmware_flash_error_single_earbud">Не удается обновить наушник, выполните повторное сопряжение</string>
+    <string name="device_config_firmware_flash_error_multiconnect">Обновление недоступно, когда подключено нескольких устройств</string>
+    <string name="device_config_firmware_flash_error_failed">Сбой при обновлении</string>
+    <!-- Network error -->
+    <string name="device_config_network_not_available">Проверьте настройки сети и повторите попытку</string>
+    <!-- Update from file -->
+    <string name="device_config_firmware_local_ota">Обновить из файла</string>
+    <string name="device_config_firmware_local_ota_summary">Выберите ota.bin файл прошивки.\nОбновляйте прошивку на свой страх и риск</string>
+
+    <!-- Unpair device -->
+    <string name="device_config_unpair_title">Удалить устройство</string>
+    <string name="device_config_unpair_message">Сопряжение с %1$s будет разорвано на данном устройстве</string>
+
+    <!-- Settings -->
+    <string name="app_settings_title">Настройки</string>
+
+    <!-- Information -->
+    <string name="app_settings_information_title">Информация</string>
+
+    <!-- UI preferences -->
+    <string name="prefs_ui_title">Интерфейс</string>
+    <string name="prefs_ui_theme">Тема</string>
+    <string name="prefs_ui_theme_follow_system">По умолчанию (как в системе)</string>
+    <string name="prefs_ui_theme_dark">Тёмная</string>
+    <string name="prefs_ui_theme_light">Светлая</string>
+    <string name="prefs_ui_theme_battery">С учетом режима энергосбережения</string>
+
+    <!-- Battery icons style -->
+    <string name="prefs_battery_icons_theme">Тема иконок батарей</string>
+    <string name="prefs_battery_icons_color">Цветная</string>
+    <string name="prefs_battery_icons_gray">Серая</string>
+
+    <!-- App language -->
+    <string name="prefs_app_language">Язык</string>
+
+    <!-- Firmware server -->
+    <string name="prefs_alternative_server_title">Альтернативный сервер</string>
+    <string name="prefs_alternative_server_desc">Использовать альтернативный сервер для проверки обновлений прошивок наушников (для китайских версий)</string>
+
+    <!-- Popup dialog -->
+    <string name="prefs_popup_dialog_title">Всплывающий диалог</string>
+    <string name="prefs_popup_dialog_summary">Показывать всплывающий диалог со статусом наушников при их подключении</string>
+
+    <!-- Animation or still image -->
+    <string name="prefs_headset_show_animation_title">Показывать анимацию</string>
+    <string name="prefs_headset_show_animation_desc">Показывать анимацию наушников вместо статических изображений, если она доступна</string>
+
+    <!-- Bluetooth SPP -->
+
+    <!-- Widgets -->
+    <string name="prefs_widgets_title">Виджеты</string>
+    <string name="prefs_widgets_not_found">Нет установленных виджетов</string>
+    <!-- Widget config -->
+    <string name="widget_config_title">Настройки виджета</string>
+    <string name="widget_config_background_title">Фон</string>
+    <string name="widget_config_use_background_title">Показывать фон виджета</string>
+    <string name="widget_config_background_color_title">Цвет фона</string>
+    <string name="widget_config_font_title">Шрифты</string>
+    <string name="widget_config_font_color_title">Цвет шрифта</string>
+    <string name="widget_config_ring_color_title">Цвет колец уровня заряда</string>
+
+    <!-- FAQ -->
+    <string name="prefs_faq">Часто задаваемые вопросы</string>
+
+    <!-- Feedback -->
+    <string name="prefs_feedback">Написать разработчику</string>
+    <!-- Contact developer dialog -->
+    <string name="dialog_contact_dev_send_email">Отправить email</string>
+    <string name="dialog_contact_dev_send_email_message">Опишите вашу проблему:\n\n</string>
+    <string name="dialog_contact_dev_send_email_report_bug">Сообщить о проблеме</string>
+    <string name="dialog_contact_dev_send_email_request_new_feature">Запросить новый функционал</string>
+    <string name="dialog_contact_dev_send_email_other">Другое</string>
+
+    <string name="prefs_policy_title">Политика конфиденциальности</string>
+    <string name="prefs_about_title">О программе</string>
+    <string name="prefs_donation_title">Поддержать</string>
+
+    <string name="not_implemented">Пока не реализовано</string>
+    <string name="laboratory">Лаборатория</string>
+
+    <!-- Color picker -->
+    <string name="press_color_to_apply">Нажмите на цвет, чтобы применить</string>
+    <string name="dialog_color_picker">Выбор цвета</string>
+    <string name="color_picker_use_default_color">Использовать цвет по умолчанию</string>
+
+
+    <!-- Notification -->
+    <string name="notification_headset_service_channel_name">Статус наушников</string>
+    <string name="notification_service_title">Приложение работает в фоне</string>
+    <string name="notification_service_summary">Нажмите, чтобы скрыть это уведомление</string>
+    <string name="notification_headset_box">Кейс</string>
+    <string name="notification_headset_disconnect">Отключить</string>
+    <string name="notification_headset_left">Левый</string>
+    <string name="notification_headset_right">Правый</string>
+
+    <!-- Dialogs -->
+    <!-- About App dialog -->
+    <string name="dialog_about_app_copyright">Разработчик</string>
+    <string name="dialog_about_app_version">Версия</string>
+    <string name="dialog_about_app_short_app_description">Данное приложение позволит управлять вашими Bluetooth наушниками от компании Xiaomi.\n\nОсновные возможности (зависит от модели наушников):\n• Управление режимами шумоподавления\n• Настройка жестов управления\n• Предупреждение об утере наушника\n• Тест прилегания наушников к уху\n• Одновременное подключение к нескольким устройствам\n• Обновление прошивки наушников\n• Другие возможности\n\nПеревод: %1$s\nПоддержка: %2$s</string>
+
+    <!-- Popup dialog -->
+    <string name="dialog_headset_popup_btn_settings_title">Настройки</string>
+    <string name="dialog_headset_popup_btn_close_title">Закрыть</string>
+
+    <!-- Update firmware dialog -->
+    <string name="headset_find_new_version">Доступно обновление</string>
+    <string name="headset_download_fw">Загрузить</string>
+
+    <!-- Device status -->
+    <string name="device_status_connected">Подключено</string>
+    <string name="device_status_disconnected">Отключено</string>
+</resources>

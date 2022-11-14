@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="device_guide_empty" translatable="false" />
+
+    <string name="device_guide_title_5001">連接指南</string>
+    <string name="device_guide_title_5005">重置指南</string>
+
+    <!-- FlipBuds Pro (K71) -->
+    <string name="device_guide_message_flipbuds_pro_5001">\u2460 將耳機放入充電盒，打開蓋子，放在手機附近。 \n\u2461 長按耳機盒底部功能鍵2秒，直到白燈顯示。鬆開按鍵後，耳機進入配對狀態。 \n\u2462 如需重置設備，打開盒子，長按底部功能鍵10秒，直到白燈顯示。 鬆開按鍵後，耳機恢復出廠設置，重新進入配對狀態</string>
+    <string name="device_guide_message_flipbuds_pro_5005" />
+
+    <!-- Redmi Buds 3 Pro, Redmi AirDots 3 Pro (K76) -->
+    <string name="device_guide_message_redmi_airdots_3_pro_5001">\u2460 將耳機放入充電盒\n\u2461 長按功能鍵2秒左右，充電盒白色指示燈閃爍，等待耳機連接\n\u2462 耳機恢復出廠設置，舊連接記錄被清除，充電盒白色指示燈閃爍，耳機重新進入配對模式\n\n提醒：由於藍牙信號的連接特性，可能會出現連接斷斷續續或沒有聲音的情況尤其是2.4GHz電磁信號干擾比較強烈的地方</string>
+    <string name="device_guide_message_redmi_airdots_3_pro_5005">\u2460 開蓋將耳機放入盒子中，將充電盒靠近手機。 （第一次打開盒蓋，耳機自動進入配對狀態）\n\u2461 長按底部功能鍵2秒直到耳機指示燈閃爍，鬆開按鍵後耳機進入配對狀態。 \n\u2462 如需恢復出廠設置，打開蓋子，兩個耳機在充電盒內，按住底部功能鍵10秒，直到耳機指示燈白燈閃爍，然後鬆開按鍵，紅燈閃爍，耳機恢復出廠設置，重新進入配對狀態</string>
+
+    <!-- Redmi Buds 3 (K77S) -->
+    <string name="device_guide_message_redmi_buds_3_5001">\u2460 將耳機放入充電盒並靠近手機 \n\u2461 長按充電盒按鍵10秒，充電盒白燈閃3秒熄滅，耳機白燈常亮5秒——重置成功</string>
+    <string name="device_guide_message_redmi_buds_3_5005" />
+
+    <!-- Xiaomi Buds 3 Pro (K73) -->
+    <string name="device_guide_message_xiaomi_buds_3_pro_5001">\u2460 將耳機放入充電盒\n\u2461 長按功能鍵約2秒，充電盒白色指示燈閃爍，等待耳機連接\n\u2462 耳機恢復出廠設置 ，舊連接記錄被清除，充電盒白色指示燈閃爍，耳機重新進入配對模式\n\n提醒：由於藍牙信號的連接特性，可能會出現連接斷斷續續或沒有聲音的情況尤其是2.4GHz電磁信號干擾比較強烈的地方</string>
+    <string name="device_guide_message_xiaomi_buds_3_pro_5005">\u2460 開蓋將耳機放入充電盒，將充電盒靠近手機。 (第一次打開盒蓋，耳機會自動進入配對狀態)\n\u2461 長按底部功能鍵2秒，直到耳機指示燈閃爍。鬆開按鍵後，耳機會進入配對狀態。.\n\u2462 如需恢復出廠設置，打開蓋子，兩個耳機在充電盒內，按住底部功能鍵10秒，直到耳機指示燈白燈閃爍，然後鬆開按鍵，紅燈閃爍，耳機就會恢復出廠設置，重新進入配對狀態</string>
+</resources>

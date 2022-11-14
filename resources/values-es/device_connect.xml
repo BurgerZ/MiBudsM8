@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="device_guide_empty" translatable="false" />
+
+    <string name="device_guide_title_5001">Guía de conexión</string>
+    <string name="device_guide_title_5005">Guía de reinicio</string>
+
+    <!-- FlipBuds Pro (K71) -->
+    <string name="device_guide_message_flipbuds_pro_5001">\u2460 Coloca los auriculares en el estuche de carga, abre el estuche y colócalo junto al teléfono. \n\u2461 Mantén pulsado el botón de función en la parte inferior del estuche durante 2 segundos hasta que la luz blanca aparezca. Tras dejar de presionar el botón, los auriculares inician el modo de emparejamiento. \n\u2462 Si necesitas reiniciar el dispositivo, abre el estuche y mantén pulsado el botón de función durante 10 segundos hasta que la luz blanca aparezca. Tras dejar de presionar el botón, los auriculares restaurarán los valores de fábrica y volverán al modo de emparejamiento.</string>
+    <string name="device_guide_message_flipbuds_pro_5005" />
+
+    <!-- Redmi Buds 3 Pro, Redmi AirDots 3 Pro (K76) -->
+    <string name="device_guide_message_redmi_airdots_3_pro_5001">\u2460 Coloca los auriculares en el estuche de carga\n\u2461 Mantén pulsado el botón de función durante 2 segundos, el indicador de luz blanca parpadea y los auriculares esperan para conectar.\n\u2462 Los auriculares han restaurado los valores de fábrica, la conexión anterior es borrada y el indicador de luz blanca del estuche parpadea, los auriculares vuelven al modo de emparejamiento.\n\nAviso: Debido a las características de conexión de la señal Bluetooth, puede experimentar una conexión intermitente o ausencia de sonido en lugares donde la interferencia sobre la señal electromagnética 2.4GHz sea alta.</string>
+    <string name="device_guide_message_redmi_airdots_3_pro_5005">\u2460 Coloca los auriculares en el estuche con la tapa abierta y junto al teléfono. (Al abrir la tapa por primera vez, los auriculares entran automáticamente en modo emparejamiento)\n\u2461 Mantén pulsado durante 2 segundos el botón de función hasta que el indicador de luz del estuche parpadee, los auriculares entrarán en modo emparejamiento tras dejar de pulsar el botón. \n\u2462 Si necesita restaurar los valores de fábrica, abre la tapa e introduce los auriculares en el estuche. Luego mantén pulsado durante 10 segundos el botón de función hasta que la luz blanca de los auriculares parpadee. Entonces deja de pulsar el botón, la luz roja parpadeará y los auriculares restaurarán los valores de fábrica para volver al estado de emparejamiento.</string>
+
+    <!-- Redmi Buds 3 (K77S) -->
+    <string name="device_guide_message_redmi_buds_3_5001">\u2460 Coloca los auriculares en el estuche junto al teléfono.\n\u2461 Mantén pulsado el botón del estuche durante 10 segundos, la luz blanca del estuche parpadeará durante 3 segundos y se apagará. La luz blanca de los auriculares se mantendrá encendida durante 5 segundos. La restauración se habrá completado con éxito.</string>
+    <string name="device_guide_message_redmi_buds_3_5005" />
+
+    <!-- Xiaomi Buds 3 Pro (K73) -->
+    <string name="device_guide_message_xiaomi_buds_3_pro_5001">\u2460 Coloca los auriculares en el estuche\n\u2461 Mantén pulsado el botón de función durante 2 segundos, el indicador de luz blanca del estuche parpadeará y los auriculares quedarán en espera para conectar.\n\u2462 Los auriculares restaurarán los valores de fábrica, la anterior conexión será borrada y el indicador de luz blanca del estuche parpadeará. Los auricualres volverán al modo de emparejamiento.\n\nAviso: Debido a las características de conexión de la señal Bluetooth, puede experimentar una conexión intermitente o ausencia de sonido en lugares donde la interferencia sobre la señal electromagnética 2.4GHz sea alta.</string>
+    <string name="device_guide_message_xiaomi_buds_3_pro_5005">\u2460 Coloca los auriculares en el estuche con la tapa abierta y junto al teléfono. (Al abrir la tapa por primera vez, los auriculares entran automáticamente en modo emparejamiento)\n\u2461 Mantén pulsado el botón de función durante 2 seghundos hasta que el indicador de luz de los auriculares parpadee. Tras dejar de pulsar el botón, los auricualres entrarán en modo emparejamiento. \n\u2462 Si necesitas restaurar los valores de fábrica, abre la tapa, y coloca los auriculares en el estuche. Mantén pulsado el botón de función durante 10 segundos hasta que el indicador de luz blanca de los auriculares parpadee. Entonces, deje de pulsar el botón, la luz roja parpaderá y los auriculares restaurarán los valores de fábrica y volverán al modo de emparejamiento.</string>
+</resources>

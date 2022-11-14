@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="device_guide_empty" translatable="false" />
+
+    <string name="device_guide_title_5001">Connect guide</string>
+    <string name="device_guide_title_5005">Reset guide</string>
+
+    <!-- FlipBuds Pro (K71) -->
+    <string name="device_guide_message_flipbuds_pro_5001">\u2460 Put the earphones into the charging box, open the box and place it near the phone. \n\u2461 Long press the function button at the bottom of the headset box for 2 seconds until the white light prompts. After releasing the button, the headset enters the pairing state. \n\u2462 If you need to reset the device, open the box, press and hold the bottom function button for 10 seconds until the white light prompts. After releasing the button, the headset will restore the factory settings and re-enter the pairing state</string>
+    <string name="device_guide_message_flipbuds_pro_5005" />
+
+    <!-- Redmi Buds 3 Pro, Redmi AirDots 3 Pro (K76) -->
+    <string name="device_guide_message_redmi_airdots_3_pro_5001">\u2460 Put the earphones into the charging box\n\u2461 Long press the function button for about 2 seconds, the white indicator light of the charging box flashes, and the headset is waiting to be connected\n\u2462 The headset is restored to factory settings, the old connection record is cleared, and the white indicator light of the charging box flashes, headset re-enter the pairing mode\n\nReminder: Due to the connection characteristics of the Bluetooth signal, there may be intermittent connection or no sound in places where the electromagnetic signal interference of 2.4 GHz is intensive</string>
+    <string name="device_guide_message_redmi_airdots_3_pro_5005">\u2460 Put the earphones into the box with lid open, put the charging box close to the phone. (Open the box cover for the first time, the headset automatically enters the pairing state)\n\u2461 Long press the bottom function button for 2 seconds until the headset indicator light flashes, and the headset enters the pairing state after releasing the button. \n\u2462 If you need to restore the factory settings, open the lid, and the two earphones are in the charging box, press and hold the bottom function button for 10 seconds until the white light of the headphone indicator flashes, then release the button, the red light flashes, and the headphone restores the factory settings and re-enters the pairing state</string>
+
+    <!-- Redmi Buds 3 (K77S) -->
+    <string name="device_guide_message_redmi_buds_3_5001">\u2460 Put the earphones into the charging box and close to the phone \n\u2461 Press and hold the button of the charging box for 10 seconds, the white light of the charging box flashes for 3 seconds and goes out, and the white light of the earphones is always on for 5 seconds - reset completed successfully</string>
+    <string name="device_guide_message_redmi_buds_3_5005" />
+
+    <!-- Xiaomi Buds 3 Pro (K73) -->
+    <string name="device_guide_message_xiaomi_buds_3_pro_5001">\u2460 Put the headset into the charging box\n\u2461 Long press the function button for about 2 seconds, the white indicator light of the charging box flashes, and the headset is waiting to be connected\n\u2462 The headset is restored to factory settings, the old connection record is cleared, and the white indicator light of the charging box flashes, headset re-enter the pairing mode\n\nReminder: Due to the connection characteristics of the Bluetooth signal, there may be intermittent connection or no sound in places where the electromagnetic signal interference of 2.4 GHz is intensive</string>
+    <string name="device_guide_message_xiaomi_buds_3_pro_5005">\u2460 Put the earphones into the box with lid open, put the charging box close to the phone. (Open the box cover for the first time, the headset will automatically enter the pairing state)\n\u2461 Press and hold the bottom function button for 2 seconds until the headset indicator light flashes. After releasing the button, the headset will enter the pairing state. \n\u2462 If you need to restore the factory settings, open the lid, and the two earphones are in the charging box, press and hold the bottom function button for 10 seconds until the white light of the headphone indicator flashes, then release the button, the red light flashes, and the headphone restores the factory settings and re-enters the pairing state</string>
+</resources>

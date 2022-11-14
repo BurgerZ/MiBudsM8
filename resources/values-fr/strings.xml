@@ -1,0 +1,290 @@
+<resources>
+
+    <string name="app_current_lang">fr</string>
+    <string name="app_translator_name">Andrei Zhukouski</string>
+
+    <!-- Main screen -->
+    <string name="miheadset_disconnected_summary">Connecter les écouteurs</string>
+    <string name="miheadset_supported_eartips">Modèles d\'écouteurs supportés :</string>
+    <string name="miheadset_disconnected_click_bt_settings">Ouvrir les paramètres Bluetooth</string>
+
+    <!-- Device config -->
+    <!-- Battery -->
+    <string name="device_config_battery_case">Boitier</string>
+    <string name="device_config_battery_left">Gauche</string>
+    <string name="device_config_battery_right">Droit</string>
+
+    <!-- ANC -->
+    <string name="device_config_anc_on">Annulation de bruit</string>
+    <string name="device_config_anc_off">Eteint</string>
+    <string name="device_config_transparency">Transparence</string>
+
+    <string name="device_config_anc_mode_adaptive">Adaptatif</string>
+    <string name="device_config_anc_mode_off">Désactivé</string>
+    <string name="device_config_anc_mode_deep">Profond</string>
+    <string name="device_config_anc_mode_balanced">Equilibré</string>
+    <string name="device_config_anc_mode_airplane">Avion</string>
+    <string name="device_config_anc_mode_office">Bureau</string>
+    <string name="device_config_anc_mode_daily">Quotidien</string>
+    <string name="device_config_anc_mode_light">Léger</string>
+    <string name="device_config_anc_mode_wind">Vent</string>
+    <string name="device_config_anc_mode_enhance_voice">Améliorer la voix</string>
+    <string name="device_config_anc_mode_transparent">Transparence</string>
+    <!-- Errors -->
+    <string name="device_config_anc_alert_put_on">Connecter et porter les écouteurs</string>
+    <string name="device_config_anc_alert_single_ear">Porter les deux écouteurs pour l\'annulation de bruit</string>
+
+    <!-- Gestures -->
+    <string name="device_config_gestures_title">Gestes</string>
+    <string name="device_config_gestures_summary">Personnaliser les gestes pour contrôler les écouteurs</string>
+    <string name="device_config_gestures_double_click_left">Double appui sur l\'écouteur gauche</string>
+    <string name="device_config_gestures_double_click_right">Double appui sur l\'écouteur droit</string>
+    <string name="device_config_gestures_double_press_left">Double pression de l\'écouteur gauche</string>
+    <string name="device_config_gestures_double_press_right">Double pression de l\'écouteur droit</string>
+    <string name="device_config_gestures_triple_click_left">Triple appui sur l\'écouteur gauche</string>
+    <string name="device_config_gestures_triple_click_right">Triple appui sur l\'écouteur droit</string>
+    <string name="device_config_gestures_triple_press_left">Triple pression de l\'écouteur gauche</string>
+    <string name="device_config_gestures_triple_press_right">Triple pression de l\'écouteur droit</string>
+    <string name="device_config_gestures_press_left">Presser et maintenir l\'écouteur gauche (L)</string>
+    <string name="device_config_gestures_press_right">Presser et maintenir l\'écouteur droit (R)</string>
+    <!-- Modes -->
+    <string name="device_config_gestures_action_volume_down">Baisser le volume</string>
+    <string name="device_config_gestures_action_volume_up">Monter le volume</string>
+    <string name="device_config_gestures_action_next_track">Chanson suivante</string>
+    <string name="device_config_gestures_action_previous_track">Chanson précédente</string>
+    <string name="device_config_gestures_action_play_pause">Lecture/pause</string>
+    <string name="device_config_gestures_action_voice_assistant">Assistant vocal</string>
+    <string name="device_config_gestures_action_noise_control">Contrôle du bruit</string>
+    <string name="device_config_gestures_action_noise_control_summary">Presser et maintenir pour basculer entre les deux modes de contrôle du bruit</string>
+    <string name="device_config_gestures_action_off">Eteint</string>
+    <string name="device_config_gestures_action_off_summary">Désactiver annulation du bruit et transparence</string>
+    <string name="device_config_gestures_action_noise_summary">Bloquer les sons extérieurs</string>
+    <string name="device_config_gestures_action_trans_summary">Autoriser sons extérieurs</string>
+
+    <!-- Sound settings -->
+    <string name="device_config_sound_settings">Sound settings</string>
+    <string name="device_config_sound_settings_summary">Customize the sound when using earphones</string>
+    <string name="device_config_sound_settings_spatial_audio">Spatial audio</string>
+    <string name="device_config_sound_settings_spatial_audio_summary">Experience immersion and sense of space for supported audio and video</string>
+    <string name="device_config_sound_settings_sound_quality">Preferences</string>
+    <string name="device_config_sound_settings_sound_quality_low_latency">Low latency</string>
+    <string name="device_config_sound_settings_sound_quality_high_quality">High quality</string>
+    <string name="device_config_sound_settings_head_tracking">Track head movement</string>
+    <string name="device_config_sound_settings_head_tracking_summary">Experience enhanced sense of space and direction for supported audio and video</string>
+    <string name="device_config_sound_settings_surround_sound_summary">Enrich sound depth for audio and video playback in headphones (This feature won\'t work when %.1f audio is played)</string>
+    <string name="device_config_sound_settings_surround_sound_title">Virtual immersive sound</string>
+
+    <!-- More settings -->
+    <string name="device_config_more_settings">Paramètres supplémentaires</string>
+    <string name="device_config_more_settings_in_ear_check">Détection de l\'oreille</string>
+    <string name="device_config_more_settings_in_ear_check_summary">Mise en pause lorsque les écouteurs sont retirés, et reprise automatique quand ils sont à nouveau portés.</string>
+    <string name="device_config_more_settings_dual_connect_mode">Connexion à deux appareils</string>
+    <string name="device_config_more_settings_dual_connect_mode_summary">Activer pour connecter vos écouteurs à deux appareils Bluetooth simultanément</string>
+    <string name="device_config_more_settings_auto_ack_mode_summary">Réponse automatique aux appels</string>
+    <string name="device_config_more_settings_auto_ack_mode">Réponse automatique aux appels lorsque vous portez les écouteurs</string>
+    <string name="device_config_more_settings_notification_widget_title">Notification persistante</string>
+    <string name="device_config_more_settings_notification_widget_summary">Affiche le statut sur la notification persistante lorsque les écouteurs sont connectés</string>
+    <string name="device_config_more_settings_silent_upgrade_title">Mettre à jour automatiquement</string>
+    <string name="device_config_more_settings_silent_upgrade_summary">Mettre à jour le micrologiciel des écouteurs automatiquement lorsque toutes les conditions requises sont remplies</string>
+    <!-- Intelligent pickup -->
+    <string name="device_config_more_settings_detect_voice">Détecter la voix</string>
+    <string name="device_config_more_settings_detect_voice_summary">Lorsque l\'annulation du bruit est activée, vos écouteurs passent automatiquement à la transparence pendant une courte période lorsqu\'ils détectent des voix</string>
+    <string name="device_config_more_settings_detect_voice_silent_off">Désactivé</string>
+    <string name="device_config_more_settings_detect_voice_auto_anc_five_recover">5 secondes</string>
+    <string name="device_config_more_settings_detect_voice_auto_anc_ten_recover">10 secondes</string>
+    <string name="device_config_more_settings_detect_voice_auto_anc_fifteen_recover">15 secondes</string>
+    <string name="device_config_more_settings_detect_voice_auto_anc_not_recover">Garder activé</string>
+
+    <!-- Ear tip fit test -->
+    <string name="device_config_fit_check">Test d\'ajustement des embouts des écouteurs</string>
+    <string name="device_config_fit_check_testing">Test…</string>
+    <string name="device_config_fit_check_next">Suivant</string>
+    <string name="device_config_fit_check_done">Terminé</string>
+    <string name="device_config_fit_check_restart">Recommencer</string>
+    <string name="device_config_fit_check_result_dialog1">Placer les écouteurs dans chaque oreille avant de commencer le test</string>
+    <string name="device_config_fit_check_result_dialog2">Terminer votre appel en cours avant de commencer le test</string>
+    <string name="device_config_fit_check_result_dialog_title">Attention</string>
+    <string name="device_config_fit_check_result_l_not_ok">Réajuster l\'écouteur</string>
+    <string name="device_config_fit_check_result_not_ok">Mal ajusté</string>
+    <string name="device_config_fit_check_result_ok">Bien ajusté</string>
+    <string name="device_config_fit_check_result_r_not_ok">Réajuster l\'écouteur</string>
+    <string name="device_config_fit_check_result_summary1">Cet embout fonctionne très bien pour vous !</string>
+    <string name="device_config_fit_check_result_summary2">Ajuster ou changer d\'embout, et recommencer le test</string>
+    <string name="device_config_fit_check_start">Commencer</string>
+    <string name="device_config_fit_check_summary1">Définir l\'embout le plus confortable et offrant la meilleure performance acoustique.</string>
+    <string name="device_config_fit_check_summary2">Placer les écouteurs dans chaque oreille et appuyer sur \"Commencer\".</string>
+    <string name="device_config_fit_check_summary3">Garder les écouteurs dans l\'oreille</string>
+
+    <!-- Missing earphone alert -->
+    <string name="device_config_anti_lost_title">Alerte écouteur manquant</string>
+    <string name="device_config_anti_lost_summary">Recevoir une alerte si un des écouteurs n\'est détecté ni dans l\'oreille, ni dans le boitier de recharge pendant plus de %d minutes</string>
+    <string name="device_config_find_title">Retrouver vos écouteurs</string>
+    <string name="device_config_find_status_connected">Connecté</string>
+    <string name="device_config_find_status_disconnected">Déconnecté. Connectez vous et réessayez.</string>
+    <string name="device_config_find_tip_title">Attention</string>
+    <string name="device_config_find_tip">Vos écouteurs doivent être à proximité et connectés à cet appareil pour pouvoir les retrouver. Lancer l\'alarme alors qu\'un écouteur est porté à l\'oreille pourrait endommager votre ouïe.</string>
+    <string name="device_config_find_left">Gauche</string>
+    <string name="device_config_find_both">Les deux</string>
+    <string name="device_config_find_right">Droit</string>
+    <string name="device_config_find_cancel">Annuler</string>
+    <string name="device_config_find_handle_tip">Appuyer pour lancer l\'alerte</string>
+    <string name="device_config_find_query_play">Lecture</string>
+    <string name="device_config_find_playing">Lecture…</string>
+    <string name="device_config_find_connected">Connecté</string>
+    <string name="device_config_find_disconnect">Non connecté</string>
+    <string name="device_config_find_volume_warning">Alerte volume</string>
+    <string name="device_config_find_play_warning">Un des écouteurs semble être porté. Lancer l\'alarme risque d\'endommager votre ouïe, retirer l\'écouteur pour continuer</string>
+    <!-- Missing notification -->
+    <string name="device_config_find_loss_notify_title">Alerte écouteur manquant</string>
+    <string name="device_config_find_loss_notify_summary">Au moins un des écouteurs n\'est pas dans le boitier. Regardez autour de vous !</string>
+
+
+    <!-- Firmware update -->
+    <string name="device_config_firmware">Firmware</string>
+    <string name="device_config_firmware_not_connected">Connecter les écouteurs pour voir la version du firmware</string>
+    <string name="device_config_firmware_up_to_date">Le firmware est à jour</string>
+
+    <string name="device_config_firmware_downloading">Téléchargement</string>
+    <string name="device_config_firmware_downloading_dots">Téléchargement…</string>
+    <string name="device_config_firmware_download_failed">Téléchargement impossible</string>
+
+    <string name="device_config_firmware_update_done">Terminé</string>
+    <string name="device_config_firmware_update_success">Mise à jour terminée</string>
+    <string name="device_config_firmware_update_failed">Mise à jour impossible</string>
+    <string name="device_config_firmware_update_error">Une erreur est survenue</string>
+
+    <string name="device_config_firmware_updating">Mise à jour</string>
+
+    <string name="device_config_firmware_device_sync">Synchronisation…</string>
+    <string name="device_config_firmware_connect_device">Connecter l\'appareil</string>
+
+    <!-- FW flash. Inquire firmware data -->
+    <string name="device_config_firmware_fail_battery_low">Recharger l\'appareil</string>
+    <string name="device_config_firmware_fail_wrong_firmware">Mise à jour impossible. Erreur du Firmware</string>
+    <string name="device_config_firmware_fail_device_check_failed">Recherche de mise à jour impossible</string>
+    <!-- FW flash. Enter upgrade mode -->
+    <string name="device_config_firmware_flash_device_not_move">Rapprocher l\'appareil</string>
+    <string name="device_config_firmware_flash_enter_upgrade_failed">Démarrage de la mise à jour impossible</string>
+    <!-- FW flash. Get file info -->
+    <string name="device_config_firmware_flash_file_position_failed">Accès au fichier impossible</string>
+    <string name="device_config_firmware_flash_file_read_failed">Erreur de lecture du fichier de mise à jour</string>
+    <!-- FW flash. Sync -->
+    <string name="device_config_firmware_flash_device_sync_wait_connect">Synchronisation… Attendre la fin de la connexion automatique avant d\'utiliser les écouteurs.</string>
+    <string name="device_config_firmware_flash_device_sync_read_state">Erreur de lecture du fichier de mise à jour</string>
+    <!-- FW fail messages -->
+    <string name="device_config_firmware_flash_error_disconnected">Les deux écouteurs sont déconnectés. Fermer et réouvrir le boitier pour recommencer la mise à jour.</string>
+    <string name="device_config_firmware_flash_error_case_closed">Le boitier de recharge est éteint</string>
+    <string name="device_config_firmware_flash_error_earbud_missing">Il mangue au moins un des écouteurs dans le boitier de recharge</string>
+    <string name="device_config_firmware_flash_error_single_earbud">Mise à jour impossible d\'un des écouteurs. Réappairer.</string>
+    <string name="device_config_firmware_flash_error_multiconnect">Mise à jour impossible lors d\'une connexion multiple</string>
+    <string name="device_config_firmware_flash_error_failed">Mise à jour impossible</string>
+    <!-- Network error -->
+    <string name="device_config_network_not_available">Vérifier les paramètres réseau et réessayer</string>
+    <!-- Update from file -->
+    <string name="device_config_firmware_local_ota">Mise à jour depuis un fichier</string>
+    <string name="device_config_firmware_local_ota_summary">Select ota.bin firmware file to flash.\nUpgrade your earbuds firmware on your own risk</string>
+
+    <!-- Unpair device -->
+    <string name="device_config_unpair_title">Désappairage de l\'appareil</string>
+    <string name="device_config_unpair_message">%1$s va être désappairé.</string>
+
+    <!-- Settings -->
+    <string name="app_settings_title">Paramètres</string>
+
+    <!-- Information -->
+    <string name="app_settings_information_title">Information</string>
+
+    <!-- UI preferences -->
+    <string name="prefs_ui_title">User interface</string>
+    <string name="prefs_ui_theme">Thème</string>
+    <string name="prefs_ui_theme_follow_system">Thème par défaut du système</string>
+    <string name="prefs_ui_theme_dark">Sombre</string>
+    <string name="prefs_ui_theme_light">Clair</string>
+    <string name="prefs_ui_theme_battery">Défini par l\'économiseur de batterie</string>
+
+    <!-- Battery icons style -->
+    <string name="prefs_battery_icons_theme">Thème des icônes de batterie</string>
+    <string name="prefs_battery_icons_color">Couleur</string>
+    <string name="prefs_battery_icons_gray">Gris</string>
+
+    <!-- App language -->
+    <string name="prefs_app_language">Langue</string>
+
+    <!-- Firmware server -->
+    <string name="prefs_alternative_server_title">Serveur alternatif</string>
+    <string name="prefs_alternative_server_desc">Utiliser un serveur alternatif pour vérifier les mises à jour du micrologiciel des écouteurs (pour les modèles chinois)</string>
+
+    <!-- Popup dialog -->
+    <string name="prefs_popup_dialog_title">Fenêtre Pop-up</string>
+    <string name="prefs_popup_dialog_summary">Affiche une bulle de notification avec le statut des écouteurs dès qu\'ils sont connectés</string>
+
+    <!-- Animation or still image -->
+    <string name="prefs_headset_show_animation_title">Afficher l\'animation</string>
+    <string name="prefs_headset_show_animation_desc">Afficher l\'animation du casque au lieu des images statiques lorsqu\'elles sont disponibles</string>
+
+    <!-- Bluetooth SPP -->
+
+    <!-- Widgets -->
+    <string name="prefs_widgets_title">Widgets</string>
+    <string name="prefs_widgets_not_found">Aucun widget installé trouvé</string>
+    <!-- Widget config -->
+    <string name="widget_config_title">Configuration du widget</string>
+    <string name="widget_config_background_title">Background</string>
+    <string name="widget_config_use_background_title">"Afficher l'arrière-plan du widget"</string>
+    <string name="widget_config_background_color_title">"Couleur de l'arrière plan"</string>
+    <string name="widget_config_font_title">Fonts</string>
+    <string name="widget_config_font_color_title">Font color</string>
+    <string name="widget_config_ring_color_title">Charge level rings color</string>
+
+    <!-- FAQ -->
+    <string name="prefs_faq">Frequently Asked Questions</string>
+
+    <!-- Feedback -->
+    <string name="prefs_feedback">Envoyer des commentaires</string>
+    <!-- Contact developer dialog -->
+    <string name="dialog_contact_dev_send_email">Send email</string>
+    <string name="dialog_contact_dev_send_email_message">Describe your problem:\n\n</string>
+    <string name="dialog_contact_dev_send_email_report_bug">Report a bug</string>
+    <string name="dialog_contact_dev_send_email_request_new_feature">Request new feature</string>
+    <string name="dialog_contact_dev_send_email_other">Other</string>
+
+    <string name="prefs_policy_title">Déclaration de confidentialité</string>
+    <string name="prefs_about_title">A propos</string>
+    <string name="prefs_donation_title">Faire un don</string>
+
+    <string name="not_implemented">Pas encore implémenté</string>
+    <string name="laboratory">Laboratory</string>
+
+    <!-- Color picker -->
+    <string name="press_color_to_apply">Appuyez sur la couleur pour appliquer</string>
+    <string name="dialog_color_picker">Palette</string>
+    <string name="color_picker_use_default_color">Use default color</string>
+
+
+    <!-- Notification -->
+    <string name="notification_headset_service_channel_name">Statut des écouteurs</string>
+    <string name="notification_service_title">L\'application fonctionne en arrière-plan</string>
+    <string name="notification_service_summary">Pour me cacher, décocher \" montrer notifications\"</string>
+    <string name="notification_headset_box">Boitier</string>
+    <string name="notification_headset_disconnect">Déconnecter</string>
+    <string name="notification_headset_left">Gauche</string>
+    <string name="notification_headset_right">Droit</string>
+
+    <!-- Dialogs -->
+    <!-- About App dialog -->
+    <string name="dialog_about_app_copyright">Développeur</string>
+    <string name="dialog_about_app_version">Version</string>
+    <string name="dialog_about_app_short_app_description">Cette application vous permet de contrôler vos écouteurs Bluetooth Xiaomi. \n\n Fonctionnalités compatibles (selon votre modèle d\'écouteurs):\nAnnulation de bruit active paramétrable \n Reparamétrage des gestes de contrôle des écouteurs \nAlerte d\'écouteur perdu \nTest des embouts \nConnexion multiple simultanée \nMise à jour du firmware des écouteurs \n et d\'autres ! \n\nLocalisation: %1$s\nSupport: %2$s</string>
+
+    <!-- Popup dialog -->
+    <string name="dialog_headset_popup_btn_settings_title">Paramètres</string>
+    <string name="dialog_headset_popup_btn_close_title">Fermer</string>
+
+    <!-- Update firmware dialog -->
+    <string name="headset_find_new_version">Une mise à jour est disponible</string>
+    <string name="headset_download_fw">Mise à jour</string>
+
+    <!-- Device status -->
+    <string name="device_status_connected">Connecté</string>
+    <string name="device_status_disconnected">Déconnecté</string>
+</resources>

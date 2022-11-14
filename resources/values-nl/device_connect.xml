@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="device_guide_empty" translatable="false" />
+
+    <string name="device_guide_title_5001">Verbinding handleiding</string>
+    <string name="device_guide_title_5005">Reset handleiding</string>
+
+    <!-- FlipBuds Pro (K71) -->
+    <string name="device_guide_message_flipbuds_pro_5001">\u2460 Plaats de oortelefoons in de oplaadcase en leg deze geopend bij de telefoon.\n\u2461 Houd de functieknop aan de onderkant van de oplaadcase 2 seconden lang ingedrukt totdat het witte lampje oplicht. Nadat de functieknop is losgelaten, gaan de oortelefoons naar de koppelingsstatus. \n\u2462 Als je het apparaat moet resetten, open je de case en houd je de onderste functieknop 10 seconden ingedrukt totdat het witte lampje oplicht. Nadat de functieknop is losgelaten, worden de fabrieksinstellingen hersteld en gaat hij opnieuw naar de koppelingsstatus</string>
+    <string name="device_guide_message_flipbuds_pro_5005" />
+
+    <!-- Redmi Buds 3 Pro, Redmi AirDots 3 Pro (K76) -->
+    <string name="device_guide_message_redmi_airdots_3_pro_5001">\u2460 Plaats de oortelefoons in de oplaadcase\n\u2461 Houdt de functieknop ongeveer 2 seconden ingedrukt, totat het witte lampje op de oplaadcase brand en de oortelefoons opnieuw gekoppeld worden\n\u2462 De oortelefoons zijn hersteld naar fabrieksinstellingen, de vorige verbinding is gewist en het witte indicatielampje knippert, de oortelefoons gaan opnieuw naar de koppelingsmodus\n\nLet op: vanwege de Bluetooth-signaal verbindingseigenschappen kunnen er storingen voorkomen indien er teveel 2.4Ghz signalen aanwezig zijn</string>
+    <string name="device_guide_message_redmi_airdots_3_pro_5005">\u2460 Plaats de oortelefoons in de oplaadcase en leg deze geopend bij de telefoon.\n\u2461 Houd de functieknop aan de onderkant van de oplaadcase 2 seconden lang ingedrukt totdat het lampje van de case knippert en de headset naar de koppelingsstatus. \n\u2462 Als je het apparaat moet resetten, open je de case en houd je de onderste functieknop 10 seconden ingedrukt totdat het witte lampje oplicht. Nadat de functieknop is losgelaten, worden de fabrieksinstellingen hersteld en gaat hij opnieuw naar de koppelingsstatus</string>
+
+    <!-- Redmi Buds 3 (K77S) -->
+    <string name="device_guide_message_redmi_buds_3_5001">\u2460 Plaats de oortelefoons in de oplaadcase en leg deze geopend bij de telefoon. \n\u2461 Houd de functieknop van de oplaadcase 10 seconden ingedrukt totdat het witte lampje van de oplaadcase knippert en na 3 seconden uitgaat. Indien het witte lampje 5 seconden brand is de reset succesvol voltooid</string>
+    <string name="device_guide_message_redmi_buds_3_5005" />
+
+    <!-- Xiaomi Buds 3 Pro (K73) -->
+    <string name="device_guide_message_xiaomi_buds_3_pro_5001">\u2460 Plaats de oortelefoons in de oplaadcase\n\u2461 Houdt de functieknop ongeveer 2 seconden ingedrukt, totat het witte lampje op de oplaadcase brand en de oortelefoons opnieuw gekoppeld worden\n\u2462 De oortelefoons zijn hersteld naar fabrieksinstellingen, de vorige verbinding is gewist en het witte indicatielampje knippert, de oortelefoons gaan opnieuw naar de koppelingsmodus\n\nLet op: vanwege de Bluetooth-signaal verbindingseigenschappen kunnen er storingen voorkomen indien er teveel 2.4Ghz signalen aanwezig zijn</string>
+    <string name="device_guide_message_xiaomi_buds_3_pro_5005">\u2460 Plaats de oortelefoons in de oplaadcase en leg deze geopend bij de telefoon.\n\u2461 Houd de functieknop onder de oplaadcase 2 seconden ingedrukt totdat het indicatielampje van de case knippert. Nadat de knop is losgelaten, gaat de headset naar de koppelingsstatus. \n\u2462 Als je de fabrieksinstellingen wilt herstellen, open dan de deksel en wanneer de oortelefoons in de oplaadcase zijn, houd dan de onderste functieknop 10 seconden ingedrukt totdat het witte lampje knippert en laat vervolgens de knop los. Wanneer het lampje rood knippert en de hoofdtelefoon herstelt is naar de fabrieksinstellingen gaat het opnieuw naar de koppelingsstatus</string>
+</resources>

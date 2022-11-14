@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="device_guide_empty" translatable="false" />
+
+    <string name="device_guide_title_5001">Guide de connexion</string>
+    <string name="device_guide_title_5005">Guide de réinitialisation</string>
+
+    <!-- FlipBuds Pro (K71) -->
+    <string name="device_guide_message_flipbuds_pro_5001">\u2460 Placer les écouteurs dans le boitier de recharge, l\'ouvrir et le placer proche du téléphone.\n\u2461 Faire un appui long (2s) sur le bouton situé sur le boitier, jusqu\'à l\'apparition du voyant lumineux. En relâchant le bouton, les écouteurs passent en mode appairage.\n\u2462 Si besoin de réinitialiser l\'appareil, ouvrir le boitier et presser le bouton pendant 10s jusqu\'à l\'apparition du voyant lumineux. En relâchant le bouton, les écouteurs vont retrouver leur configuration usine et passer en mode appairage.</string>
+    <string name="device_guide_message_flipbuds_pro_5005" />
+
+    <!-- Redmi Buds 3 Pro, Redmi AirDots 3 Pro (K76) -->
+    <string name="device_guide_message_redmi_airdots_3_pro_5001">\u2460 Placer les écouteurs dans le boitier de recharge\n\u2461 Faire un appui long (2s) sur le bouton situé en bas du boitier, jusqu\'à l\'apparition du voyant lumineux. En relâchant le bouton, les écouteurs sont prêts à être connectés.\n\u2462 Les écouteurs sont restaurés en configuration usine, l\'historique de connexions est nettoyé, et le voyant lumineux du boitier doit clignoter. Le casque repasse en mode d\'appairage. \n\nRappel : suite aux caractéristiques de connexion du signal Bluetooth, des pertes de connexion intempestives ou moments de silence peuvent survenir dans des endroits où la bande de 2,4 GHz est fortement utilisée</string>
+    <string name="device_guide_message_redmi_airdots_3_pro_5005">\u2460 Placer les écouteurs dans le boitier de recharge, couvercle ouvert, et rapprocher le boitier du téléphone. (en ouvrant le boitier pour la première fois, les écouteurs passent automatiquement en mode appairage).\n\u2461 Faire un appui long (2s) sur le bouton situé en bas du boitier, jusqu\'à l\'apparition du voyant lumineux. En relâchant le bouton, les écouteurs passent en mode appairage.\n\u2462 Si besoin de réinitialiser l\'appareil, ouvrir le boitier, réinsérer les écouteurs et presser le bouton du boitier pendant 10s jusqu\'à l\'apparition du voyant lumineux blanc des écouteurs. En relâchant le bouton, un voyant rouge va clignoter, les écouteurs vont retrouver leur configuration usine et passer en mode appairage.</string>
+
+    <!-- Redmi Buds 3 (K77S) -->
+    <string name="device_guide_message_redmi_buds_3_5001">\u2460 Placer les écouteurs dans le boitier de recharge, l\'ouvrir et le placer proche du téléphone.\n\u2461 Faire un appui long (10s) sur le bouton du boitier, jusqu\'à ce que le voyant lumineux clignote pendant 3s, puis disparaisse, et que les voyants des écouteurs restent allumés pendant 5s. La réinitialisation a été accomplie avec succès. </string>
+    <string name="device_guide_message_redmi_buds_3_5005" />
+
+    <!-- Xiaomi Buds 3 Pro (K73) -->
+    <string name="device_guide_message_xiaomi_buds_3_pro_5001">\u2460 Placer les écouteurs dans le boitier de recharge\n\u2461 Faire un appui long (2s) sur le bouton situé en bas du boitier, jusqu\'à l\'apparition du voyant lumineux. En relâchant le bouton, les écouteurs sont prêts à être connectés.\n\u2462 Les écouteurs sont restaurés en configuration usine, l\'historique de connexions est nettoyé, et le voyant lumineux blanc du boitier doit clignoter. Le casque repasse en mode d\'appairage. \n\nRappel : suite aux caractéristiques de connexion du signal Bluetooth, des pertes de connexion intempestives ou moments de silence peuvent survenir dans des endroits où la bande de 2,4 GHz est fortement utilisée</string>
+    <string name="device_guide_message_xiaomi_buds_3_pro_5005">\u2460 Placer les écouteurs dans le boitier de recharge, couvercle ouvert, et rapprocher le boitier du téléphone. (en ouvrant le boitier pour la première fois, les écouteurs passent automatiquement en mode appairage).\n\u2461 Faire un appui long (2s) sur le bouton du boitier, jusqu\'à l\'apparition du voyant lumineux. En relâchant le bouton, les écouteurs passent en mode appairage.\n\u2462 Si besoin de réinitialiser l\'appareil, ouvrir le boitier, réinsérer les écouteurs et presser le bouton du boitier pendant 10s jusqu\'à l\'apparition du voyant lumineux blanc des écouteurs. En relâchant le bouton, un voyant rouge va clignoter, les écouteurs vont retrouver leur configuration usine et passer en mode appairage.</string>
+
+</resources>
