@@ -286,5 +286,5 @@
 
     <!-- Device status -->
     <string name="device_status_connected">Verbunden</string>
-    <string name="device_status_disconnected">Trennt die Verbindung</string>
+    <string name="device_status_disconnected">Nicht verbunden</string>
 </resources>
