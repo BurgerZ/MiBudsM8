@@ -237,7 +237,8 @@
     <string name="widget_config_ring_color_title">Charge level rings color</string>
 
     <!-- FAQ -->
-    <string name="prefs_faq">Frequently Asked Questions</string>
+    <string name="prefs_faq">자주 묻는 질문</string>
+    <string name="prefs_website">웹사이트</string>
 
     <!-- Feedback -->
     <string name="prefs_feedback">피드백</string>

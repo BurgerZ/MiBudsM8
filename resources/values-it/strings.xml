@@ -238,6 +238,7 @@
 
     <!-- FAQ -->
     <string name="prefs_faq">Frequently Asked Questions</string>
+    <string name="prefs_website">Website</string>
 
     <!-- Feedback -->
     <string name="prefs_feedback">Invia commenti</string>
