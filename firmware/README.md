@@ -217,7 +217,7 @@ If you have any firmware files for earbuds not listed here, please, contact me t
 |:----:|:-------------------:|:--:|:--:|
 |China |black, silver, golden|2717|5035|
 
-### 2.0.1.7  
+### 2.5.5.7  
 **File name:** m8_ota_image_v2.5.5.7_xiaomibuds4pro_cn.bin  
 **MD5:** 8d2fdde70ec97af04eca688d504ffe0e  
 **Comment:** original image  
