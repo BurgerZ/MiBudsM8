@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="device_guide_empty" translatable="false" />
+
+    <string name="device_guide_title_5001">Savienošanas instrukcija</string>
+    <string name="device_guide_title_5005">Atiestatīšanas instrukcija</string>
+
+    <!-- FlipBuds Pro (K71) -->
+    <string name="device_guide_message_flipbuds_pro_5001">\u2460 Ievietojiet austiņas uzlādes kārbiņā, atveriet kārbiņu un novietojiet to pie tālruņa. \n\u2461 Turiet nospiestu funkciju pogu austiņu kastes apakšā un turiet 2 sekundes, līdz parādās baltais gaismas indikators. Pēc pogas atlaišanas austiņas pāriet savienošanas režīmā. \n\u2462 Ja nepieciešams atiestatīt ierīci, atveriet kārbiņu, nospiediet un 10 sekundes turiet apakšējo funkciju pogu, līdz parādās baltais gaismas indikators. Pēc pogas atlaišanas austiņas atjaunos rūpnīcas iestatījumus un pāries savienošanas režīmā.</string>
+    <string name="device_guide_message_flipbuds_pro_5005" />
+
+    <!-- Redmi Buds 3 Pro, Redmi AirDots 3 Pro (K76) -->
+    <string name="device_guide_message_redmi_airdots_3_pro_5001">\u2460 Ievietojiet austiņas uzlādes kārbiņā\n\u2461 Turiet nospiestu funkcijas pogu apmēram 2 sekundes, uzlādes kārbiņas baltā gaismiņa mirgo un austiņas gaida savienošanu.\n\u2462 Austiņas tiek atjaunotas uz rūpnīcas iestatījumiem, vecais savienojuma ieraksts ir notīrīts un uzlādes kārbiņas baltā indikatora gaisma mirgo, austiņas atkārtoti pāriet savienošanas režīmā.\n\nAtgādinājums: Bluetooth signāla savienojuma īpašību dēļ vietās, kur ir intensīvi 2,4 GHz elektromagnētiskā signāla traucējumi, var būt neregulārs savienojums vai nebūt skaņas.</string>
+    <string name="device_guide_message_redmi_airdots_3_pro_5005">\u2460 Ievietojiet austiņas kārbiņā ar atvērtu vāku, novietojiet uzlādes kastīti tuvu tālrunim. (Pirmo reizi atverot kārbiņas vāku, austiņas automātiski pāries savienošanas pārī režīmā)\n\u2461 Turiet nospiestu apakšējo funkciju pogu 2 sekundes, līdz sāk mirgot austiņu indikators, un pēc pogas atlaišanas austiņas pāriet savienošanas režīmā. \n\u2462 Ja nepieciešams atjaunot rūpnīcas iestatījumus, atveriet kārbiņas vāku un abas austiņas ielieciet uzlādes kārbiņā, nospiediet un 10 sekundes turiet apakšējo funkciju pogu, līdz sāk mirgot austiņu indikatora baltā gaismiņa, pēc tam atlaidiet pogu, nomirgo sarkanais indikators, un austiņas atjauno rūpnīcas iestatījumus un pāriet savienošanas režīmā</string>
+
+    <!-- Redmi Buds 3 (K77S) -->
+    <string name="device_guide_message_redmi_buds_3_5001">\u2460 Ievietojiet austiņas uzlādes kārbiņā un novietojiet tuvu tālrunim. \n\u2461 Nospiediet un 10 sekundes turiet nospiestu uzlādes kārbiņas pogu, uzlādes kārbiņas baltā gaismiņa mirgo 3 sekundes un nodziest, un austiņu baltā gaismiņa deg 5 sekundes - atiestatīšana ir veiksmīgi pabeigta</string>
+    <string name="device_guide_message_redmi_buds_3_5005" />
+
+    <!-- Xiaomi Buds 3 Pro (K73) -->
+    <string name="device_guide_message_xiaomi_buds_3_pro_5001">\u2460 Ievietojiet austiņas uzlādes kārbiņā\n\u2461 Turiet nospiestu funkcijas pogu apmēram 2 sekundes, uzlādes kārbiņas baltā indikatora gaisma mirgo un austiņas gaida savienošanu.\n\u2462 Austiņas tiek atjaunotas uz rūpnīcas iestatījumiem, vecais savienojuma ieraksts ir notīrīts un uzlādes kārbiņas baltā indikatora gaisma mirgo, austiņas atkārtoti pāriet savienošanas režīmā.\n\nAtgādinājums: Bluetooth signāla savienojuma īpašību dēļ vietās, kur ir intensīvi 2,4 GHz elektromagnētiskā signāla traucējumi, var būt neregulārs savienojums vai nebūt skaņas.</string>
+    <string name="device_guide_message_xiaomi_buds_3_pro_5005">\u2460 Put the earphones into the box with lid open, put the charging box close to the phone. (Open the box cover for the first time, the headset will automatically enter the pairing state)\n\u2461 Press and hold the bottom function button for 2 seconds until the headset indicator light flashes. After releasing the button, the headset will enter the pairing state. \n\u2462 Ja nepieciešams atjaunot rūpnīcas iestatījumus, atveriet kārbiņas vāku un abas austiņas ielieciet uzlādes kārbiņā, nospiediet un 10 sekundes turiet apakšējo funkciju pogu, līdz sāk mirgot austiņu indikatora baltā gaismiņa, pēc tam atlaidiet pogu, nomirgo sarkanais indikators, un austiņas atjauno rūpnīcas iestatījumus un pāriet savienošanas režīmā</string>
+</resources>
