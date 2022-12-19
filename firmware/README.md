@@ -191,6 +191,13 @@ If you have any firmware files for earbuds not listed here, please, contact me t
 **Changelog:**  
 - Various bug fixes and performance improvements.
 
+### 1.1.1.6  
+**File name:** m8_ota_image_v1.1.1.6_redmibuds4pro_cn.bin  
+**MD5:** 894e9442db8a6e5121a204e10af9bcc6  
+**Comment:** original image  
+**Changelog:**  
+- Optimizations and user experience improvements.
+
 ## Redmi Buds 4 Pro
 
 |Region|   Color    |VID |PID |
