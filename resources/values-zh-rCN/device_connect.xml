@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="device_guide_empty" translatable="false" />
+
+    <string name="device_guide_title_5001">连接指南</string>
+    <string name="device_guide_title_5005">重置指南</string>
+
+    <!-- FlipBuds Pro (K71) -->
+    <string name="device_guide_message_flipbuds_pro_5001">\u2460 耳机放进充电盒，打开盒子靠近手机 \n\u2461 长按耳机盒底部功能键2秒至白灯提示，松开按键后耳机进入配对状态 \n\u2462 如果需要重置设备，在开盒状态下，长按底部功能键10秒至白灯提示，松开按键后耳机恢复出厂设置并重新进入配对状态</string>
+    <string name="device_guide_message_flipbuds_pro_5005" />
+
+    <!-- Redmi Buds 3 Pro, Redmi AirDots 3 Pro (K76) -->
+    <string name="device_guide_message_redmi_airdots_3_pro_5001">\u2460 将耳机放入充电盒中 (首次打开盒子时，耳机将自动进入配对状态)\n\u2461 长按功能键约2秒，充电盒白色指示灯闪烁，耳机等待连接\n\u2462 耳机复位，旧连接记录被清除，充电盒白色指示灯闪烁，重新进入配对模式\n\n提示：由于蓝牙信号的连接特性，在2.4GHz的电磁信号干扰密集的地方，可能偶有间歇性连接或无声的情况</string>
+    <string name="device_guide_message_redmi_airdots_3_pro_5005">\u2460 将耳机放入充电盒中\n\u2461 长按充电盒功能键 10 秒以上，充电盒指示灯白色长亮，松开按键。 \n\u2462 耳机已恢复出厂设置，充电盒指示灯进入白色闪烁状态，重新进入配对模式。</string>
+
+    <!-- Redmi Buds 3 (K77S) -->
+    <string name="device_guide_message_redmi_buds_3_5001">\u2460 将耳机放入充电盒中并靠近手机 \n\u2461 长按充电盒按键10秒，充电盒白灯快闪3秒熄灭，耳机白灯常亮5秒即重置成功</string>
+    <string name="device_guide_message_redmi_buds_3_5005" />
+
+    <!-- Xiaomi Buds 3 Pro (K73) -->
+    <string name="device_guide_message_xiaomi_buds_3_pro_5001">\u2460 将耳机放入充电盒中 (首次打开盒子时，耳机将自动进入配对状态)\n\u2461 长按功能键约2秒，充电盒白色指示灯闪烁，耳机等待连接\n\u2462 耳机复位，旧连接记录被清除，充电盒白色指示灯闪烁，重新进入配对模式\n\n提示：由于蓝牙信号的连接特性，在2.4GHz的电磁信号干扰密集的地方，可能偶有间歇性连接或无声的情况</string>
+    <string name="device_guide_message_xiaomi_buds_3_pro_5005">\u2460 将耳机放入充电盒中\n\u2461 长按充电盒功能键 10 秒以上，充电盒指示灯白色长亮，松开按键。 \n\u2462 耳机已恢复出厂设置，充电盒指示灯进入白色闪烁状态，重新进入配对模式。</string>
+</resources>
