@@ -22,4 +22,5 @@ Mi Buds M8 translation files.
 |values-tr|Turkish|**Ufuk Karadavut**|
 |values-uk|Ukrainian|**aka_MrDC**|
 |values-zh-TW|Chinese (Taiwan)|**極雷PoleLei**|
+|values-zh-CN|Chinese (Mainland)|**sammary114**|
 
