@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Mi Buds M8</string>
     <string name="app_current_lang">zh-rCN</string>
     <string name="app_translator_name">Sammary114</string>
     <string name="miheadset_disconnected_summary">请连接耳机</string>
@@ -210,6 +209,4 @@
     <string name="headset_download_fw">更新</string>
     <string name="device_status_connected">已连接</string>
     <string name="device_status_disconnected">断开连接</string>
-    <string name="device_guide_title_5001">连接指南</string>
-    <string name="device_guide_title_5005">重置指南</string>
 </resources>
