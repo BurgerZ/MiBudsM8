@@ -230,3 +230,17 @@ If you have any firmware files for earbuds not listed here, please, contact me t
 **Comment:** original image  
 **Changelog:**  
 - Various bug fixes and performance improvements.
+
+## Xiaomi Buds 4 Pro
+
+| Region  |         Color         |  VID  |  PID  |
+| :-----: | :-------------------: | :---: | :---: |
+| Global  | black, silver, golden | 2717  | 503b  |
+
+### 4.5.6.3  
+**File name:** m8_ota_image_v4.5.6.3_xiaomibuds4pro_gl.dfu  
+**MD5:** d5273bd33f28395534046fc1cdfd7be2  
+**Comment:** original image  
+**Changelog:**  
+- Fix some known issues
+- Support Google Fast Pair Service
