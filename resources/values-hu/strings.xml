@@ -1,7 +1,7 @@
 <resources>
 
     <string name="app_current_lang">hu</string>
-    <string name="app_translator_name">Szeitz István</string>
+    <string name="app_translator_name">Szeitz István, Zan</string>
 
     <!-- Main screen -->
     <string name="miheadset_disconnected_summary">Csatlakoztassa a fülhallgatót</string>
@@ -62,17 +62,17 @@
     <string name="device_config_gestures_action_trans_summary">Külső hangok engedélyezése</string>
 
     <!-- Sound settings -->
-    <string name="device_config_sound_settings">Sound settings</string>
-    <string name="device_config_sound_settings_summary">Customize the sound when using earphones</string>
-    <string name="device_config_sound_settings_spatial_audio">Spatial audio</string>
-    <string name="device_config_sound_settings_spatial_audio_summary">Experience immersion and sense of space for supported audio and video</string>
-    <string name="device_config_sound_settings_sound_quality">Preferences</string>
-    <string name="device_config_sound_settings_sound_quality_low_latency">Low latency</string>
-    <string name="device_config_sound_settings_sound_quality_high_quality">High quality</string>
-    <string name="device_config_sound_settings_head_tracking">Track head movement</string>
-    <string name="device_config_sound_settings_head_tracking_summary">Experience enhanced sense of space and direction for supported audio and video</string>
-    <string name="device_config_sound_settings_surround_sound_summary">Enrich sound depth for audio and video playback in headphones (This feature won\'t work when %.1f audio is played)</string>
-    <string name="device_config_sound_settings_surround_sound_title">Virtual immersive sound</string>
+    <string name="device_config_sound_settings">Hangbeállítások</string>
+    <string name="device_config_sound_settings_summary">A hangzás testreszabása fülhallgató használatakor</string>
+    <string name="device_config_sound_settings_spatial_audio">Térhatású hang</string>
+    <string name="device_config_sound_settings_spatial_audio_summary">Élvezd az elmélyülést és a térérzetet a támogatott audió és videó esetében.</string>
+    <string name="device_config_sound_settings_sound_quality">Preferenciák</string>
+    <string name="device_config_sound_settings_sound_quality_low_latency">Alacsony késleltetés</string>
+    <string name="device_config_sound_settings_sound_quality_high_quality">Kiváló minőség</string>
+    <string name="device_config_sound_settings_head_tracking">Fejmozgás követése</string>
+    <string name="device_config_sound_settings_head_tracking_summary">Fokozott tér- és irányérzet a támogatott hang és videó esetében</string>
+    <string name="device_config_sound_settings_surround_sound_summary">Gazdagabb hangmélység audio- és videolejátszáshoz fejhallgatóban (Ez a funkció nem fog működni, ha %.1f hangot játszanak le)</string>
+    <string name="device_config_sound_settings_surround_sound_title">Virtuális, magával ragadó hangzás</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">További beállítások</string>
@@ -110,7 +110,7 @@
     <string name="device_config_fit_check_result_r_not_ok">Állítsa be újra a fülhallgatót</string>
     <string name="device_config_fit_check_result_summary1">Ez beállítás nagyszerűnek tűnik az Ön számára!</string>
     <string name="device_config_fit_check_result_summary2">Állítsa be, vagy próbáljon ki egy másik helyzetet, majd tesztelje újra.</string>
-    <string name="device_config_fit_check_start">Start</string>
+    <string name="device_config_fit_check_start">Kezdés</string>
     <string name="device_config_fit_check_summary1">Ismerje meg, mely pozíciók biztosítják a legkényelmesebb illeszkedést és a legjobb akusztikai teljesítményt.</string>
     <string name="device_config_fit_check_summary2">Helyezze a fülhallgatót mindkét fülébe, és koppintson a \"Start\" gombra.</string>
     <string name="device_config_fit_check_summary3">Tartsa a fülhallgatót a fülében.</string>
@@ -182,7 +182,7 @@
     <string name="device_config_network_not_available">Ellenőrizze a hálózati beállításokat, és próbálja újra</string>
     <!-- Update from file -->
     <string name="device_config_firmware_local_ota">Frissítés fájlból</string>
-    <string name="device_config_firmware_local_ota_summary">Select ota.bin firmware file to flash.\nUpgrade your earbuds firmware on your own risk</string>
+    <string name="device_config_firmware_local_ota_summary">Válassz ki egy ota.bin firmware fájlt a flash-eléshez.\nA fülhallgató firmware frissítése saját felelősségére történik</string>
 
     <!-- Unpair device -->
     <string name="device_config_unpair_title">Az eszköz párosításának megszüntetése</string>
@@ -192,10 +192,10 @@
     <string name="app_settings_title">Beállítások</string>
 
     <!-- Information -->
-    <string name="app_settings_information_title">Information</string>
+    <string name="app_settings_information_title">Információk</string>
 
     <!-- UI preferences -->
-    <string name="prefs_ui_title">User interface</string>
+    <string name="prefs_ui_title">Felhasználói felület</string>
     <string name="prefs_ui_theme">Téma</string>
     <string name="prefs_ui_theme_follow_system">Alapértelmezett</string>
     <string name="prefs_ui_theme_dark">Sötét</string>
@@ -225,20 +225,20 @@
     <!-- Bluetooth SPP -->
 
     <!-- Widgets -->
-    <string name="prefs_widgets_title">Widgets</string>
-    <string name="prefs_widgets_not_found">No installed widgets found</string>
+    <string name="prefs_widgets_title">Widgetek</string>
+    <string name="prefs_widgets_not_found">Nem találtunk telepített widgeteket</string>
     <!-- Widget config -->
     <string name="widget_config_title">Modul beállítása</string>
-    <string name="widget_config_background_title">Background</string>
-    <string name="widget_config_use_background_title">Show widget background</string>
-    <string name="widget_config_background_color_title">Background color</string>
-    <string name="widget_config_font_title">Fonts</string>
-    <string name="widget_config_font_color_title">Font color</string>
-    <string name="widget_config_ring_color_title">Charge level rings color</string>
+    <string name="widget_config_background_title">Háttér</string>
+    <string name="widget_config_use_background_title">Widget háttér megjelenítése</string>
+    <string name="widget_config_background_color_title">Háttér színe</string>
+    <string name="widget_config_font_title">Betűtípus</string>
+    <string name="widget_config_font_color_title">Betűk színe</string>
+    <string name="widget_config_ring_color_title">Töltési szint gyűrűk színe</string>
 
     <!-- FAQ -->
-    <string name="prefs_faq">Frequently Asked Questions</string>
-    <string name="prefs_website">Website</string>
+    <string name="prefs_faq">Gyakran ismételt kérdések</string>
+    <string name="prefs_website">Honlap</string>
 
     <!-- Feedback -->
     <string name="prefs_feedback">Visszajelzés</string>
@@ -254,7 +254,7 @@
     <string name="prefs_donation_title">Adomány</string>
 
     <string name="not_implemented">Még nincs végrehajtva</string>
-    <string name="laboratory">Laboratory</string>
+    <string name="laboratory">Kísérleti</string>
 
     <!-- Color picker -->
     <string name="press_color_to_apply">Érintse meg a színt a kiválasztáshoz</string>
@@ -283,7 +283,7 @@
 
     <!-- Update firmware dialog -->
     <string name="headset_find_new_version">Elérhető egy frissítés</string>
-    <string name="headset_download_fw">Frissíítés</string>
+    <string name="headset_download_fw">Frissítés</string>
 
     <!-- Device status -->
     <string name="device_status_connected">Csatlakoztatva</string>
