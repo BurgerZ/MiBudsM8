@@ -157,7 +157,7 @@
     <string name="prefs_ui_theme_follow_system">跟随系统主题</string>
     <string name="prefs_ui_theme_dark">黑夜</string>
     <string name="prefs_ui_theme_light">白天</string>
-    <string name="prefs_ui_theme_battery">跟隨省电模式选择主題</string>
+    <string name="prefs_ui_theme_battery">跟随省电模式选择主題</string>
     <string name="prefs_battery_icons_theme">电池图标主题</string>
     <string name="prefs_battery_icons_color">颜色</string>
     <string name="prefs_battery_icons_gray">灰色</string>
