@@ -251,7 +251,7 @@ If you have any firmware files for earbuds not listed here, please, contact me t
 | :----: | :-------------------: | :---: | :---: |
 | China  | black, purple, white  | 2717  | 506a  |
 
-### 4.5.6.3  
+### 1.0.3.8  
 **File name:** m8_ota_image_v1.0.3.8_redmibuds5_cn.bin  
 **MD5:** c66d1aef1b183675b9f35730664a6313  
 **Comment:** original image  
@@ -264,9 +264,22 @@ If you have any firmware files for earbuds not listed here, please, contact me t
 | :----: | :-------------------: | :---: | :---: |
 | China  |       camouflage      | 2717  | 506b  |
 
-### 4.5.6.3  
+### 1.0.3.8  
 **File name:** m8_ota_image_v1.0.3.8_redmibuds5_cn.bin  
 **MD5:** c66d1aef1b183675b9f35730664a6313  
 **Comment:** original image  
 **Changelog:**  
 - Improve user experience
+
+## Redmi Buds 5 Pro
+
+| Region |        Color       |  VID  |  PID  |
+| :----: | :----------------: | :---: | :---: |
+| China  | black, blue, white | 2717  | 506c  |
+
+### 4.1.8.8 
+**File name:** m8_ota_image_v4.1.8.8_redmibuds5pro_cn.bin  
+**MD5:** 7ac252dfcd776a67d6fef05070e96d47  
+**Comment:** original image  
+**Changelog:**  
+- Optimized user experience and improved LHDC compatibility
