@@ -19,6 +19,9 @@
     <string name="device_config_anc_off">끄기</string>
     <string name="device_config_transparency">외부 소리 듣기</string>
 
+    <string name="device_config_anc_mode">노이즈 캔슬링 모드</string>
+    <string name="device_config_anc_mode_auto">자동</string>
+    <string name="device_config_anc_mode_manual">수동</string>
     <string name="device_config_anc_mode_adaptive">적응형</string>
     <string name="device_config_anc_mode_off">끄기</string>
     <string name="device_config_anc_mode_deep">강하게</string>
@@ -30,6 +33,9 @@
     <string name="device_config_anc_mode_wind">바람 소리</string>
     <string name="device_config_anc_mode_enhance_voice">음성 향상</string>
     <string name="device_config_anc_mode_transparent">외부 소리 듣기</string>
+    <string name="device_config_anc_mode_ambient_sound">주변 소리</string>
+    <string name="device_config_transparency_normal">일반</string>
+    <string name="device_config_transparency_surroundings">앰비언트</string>
     <!-- Errors -->
     <string name="device_config_anc_alert_put_on">이어폰을 연결하고 착용해주세요</string>
     <string name="device_config_anc_alert_single_ear">노이즈 캔슬링 사용을 위해 양쪽 모두 착용해주세요</string>
@@ -37,6 +43,9 @@
     <!-- Gestures -->
     <string name="device_config_gestures_title">제스처</string>
     <string name="device_config_gestures_summary">이어폰의 제스처 조작을 조정</string>
+    <string name="device_config_gestures_single_warning">단일 누름 조작으로 잘못 발동할 가능성이 있다는 것을 유념하십시오</string>
+    <string name="device_config_gestures_single_press_left">왼쪽 이어폰을 한 번 누르기</string>
+    <string name="device_config_gestures_single_press_right">오른쪽 이어폰을 한 번 누르기</string>
     <string name="device_config_gestures_double_click_left">왼쪽 이어폰 두번 탭</string>
     <string name="device_config_gestures_double_click_right">오른쪽 이어폰 두번 탭</string>
     <string name="device_config_gestures_double_press_left">왼쪽 이어폰 두번 누르기</string>
@@ -48,6 +57,7 @@
     <string name="device_config_gestures_press_left">왼쪽 이어폰 버튼 누르고 있기</string>
     <string name="device_config_gestures_press_right">오른쪽 이어폰 버튼 누르고 있기</string>
     <!-- Modes -->
+    <string name="device_config_gestures_action_none">없음</string>
     <string name="device_config_gestures_action_volume_down">음량 낮추기</string>
     <string name="device_config_gestures_action_volume_up">음량 올리기</string>
     <string name="device_config_gestures_action_next_track">다음 곡</string>

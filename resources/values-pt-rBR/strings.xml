@@ -19,6 +19,9 @@
     <string name="device_config_anc_off">Desligado</string>
     <string name="device_config_transparency">Transparência</string>
 
+    <string name="device_config_anc_mode">Modo de cancelamento de ruído</string>
+    <string name="device_config_anc_mode_auto">Automático</string>
+    <string name="device_config_anc_mode_manual">Manual</string> <!-- TODO -->
     <string name="device_config_anc_mode_adaptive">Adaptativo</string>
     <string name="device_config_anc_mode_off">Desligado</string>
     <string name="device_config_anc_mode_deep">Profundo</string>
@@ -30,6 +33,9 @@
     <string name="device_config_anc_mode_wind">Vento</string>
     <string name="device_config_anc_mode_enhance_voice">Melhoria da voz</string>
     <string name="device_config_anc_mode_transparent">Transparência</string>
+    <string name="device_config_anc_mode_ambient_sound">Sons ambiente</string>
+    <string name="device_config_transparency_normal">Normal</string>
+    <string name="device_config_transparency_surroundings">Ambiente</string>
     <!-- Errors -->
     <string name="device_config_anc_alert_put_on">Por favor conecte e coloque seu fones no ouvido</string>
     <string name="device_config_anc_alert_single_ear">Coloque os fones nos ouvidos para usar o cancelamento de ruído</string>
@@ -37,6 +43,9 @@
     <!-- Gestures -->
     <string name="device_config_gestures_title">Gestos</string>
     <string name="device_config_gestures_summary">Customizar controle de gestos dos fones</string>
+    <string name="device_config_gestures_single_warning">Lembre-se que ações de toque único podem ser acionadas acidentalmente</string>
+    <string name="device_config_gestures_single_press_left">Pressione o fone de ouvido esquerdo uma vez</string>
+    <string name="device_config_gestures_single_press_right">Pressione o fone de ouvido direito uma vez</string>
     <string name="device_config_gestures_double_click_left">Duplo toque no fone esquerdo</string>
     <string name="device_config_gestures_double_click_right">Duplo toque no fone direito</string>
     <string name="device_config_gestures_double_press_left">Dupla pressão no fone esquerdo</string>
@@ -48,6 +57,7 @@
     <string name="device_config_gestures_press_left">Pressione e segure o fone esquerdo</string>
     <string name="device_config_gestures_press_right">Pressione e segure o fone direito</string>
     <!-- Modes -->
+    <string name="device_config_gestures_action_none">Nenhum</string>
     <string name="device_config_gestures_action_volume_down">Baixar o volume</string>
     <string name="device_config_gestures_action_volume_up">Aumentar o volume</string>
     <string name="device_config_gestures_action_next_track">Próxima música</string>

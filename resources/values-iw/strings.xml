@@ -19,6 +19,9 @@
     <string name="device_config_anc_off">כבוי</string>
     <string name="device_config_transparency">שקיפות</string>
 
+    <string name="device_config_anc_mode">מצב ביטול רעשים</string>
+    <string name="device_config_anc_mode_auto">אוטמטי</string>
+    <string name="device_config_anc_mode_manual">ידני</string>
     <string name="device_config_anc_mode_adaptive">מסתגל</string>
     <string name="device_config_anc_mode_off">כבוי</string>
     <string name="device_config_anc_mode_deep">עמוק</string>
@@ -30,6 +33,9 @@
     <string name="device_config_anc_mode_wind">רוח</string>
     <string name="device_config_anc_mode_enhance_voice">שפר את הקול</string>
     <string name="device_config_anc_mode_transparent">מצב שקיפות</string>
+    <string name="device_config_anc_mode_ambient_sound">צלילים מהסביבה</string>
+    <string name="device_config_transparency_normal">רגיל</string>
+    <string name="device_config_transparency_surroundings">אווירה</string>
     <!-- Errors -->
     <string name="device_config_anc_alert_put_on">חבר וצמד אוזניות</string>
     <string name="device_config_anc_alert_single_ear">הרכיבו את שתי האוזניות על מנת להשתמש בסינון רעשים</string>
@@ -37,6 +43,9 @@
     <!-- Gestures -->
     <string name="device_config_gestures_title">מחוות</string>
     <string name="device_config_gestures_summary">התאם אישית את המחוות של האוזניות</string>
+    <string name="device_config_gestures_single_warning">יש לזכור כי ניתן להפעיל במקרה פעולות המופעלות בלחיצה אחת</string>
+    <string name="device_config_gestures_single_press_left">נא ללחוץ על האוזנית השמאלית פעם אחת</string>
+    <string name="device_config_gestures_single_press_right">נא ללחוץ על האוזנית הימנית פעם אחת</string>
     <string name="device_config_gestures_double_click_left">הקש פעמיים על האוזנייה השמאלית</string>
     <string name="device_config_gestures_double_click_right">הקש פעמיים על האוזנייה הימנית</string>
     <string name="device_config_gestures_double_press_left">לחץ פעמיים על האוזנייה השמאלית</string>
@@ -48,6 +57,7 @@
     <string name="device_config_gestures_press_left">לחץ והחזק את האוזנייה השמאלית</string>
     <string name="device_config_gestures_press_right">לחץ והחזק את האוזנייה הימנית</string>
     <!-- Modes -->
+    <string name="device_config_gestures_action_none">ללא</string>
     <string name="device_config_gestures_action_volume_down">הנמך עוצמת הקול</string>
     <string name="device_config_gestures_action_volume_up">הגבר עוצמת הקול</string>
     <string name="device_config_gestures_action_next_track">השיר הבא</string>

@@ -19,6 +19,9 @@
     <string name="device_config_anc_off">Aus</string>
     <string name="device_config_transparency">Transparenz</string>
 
+    <string name="device_config_anc_mode">Geräuschunterdrückung-Modus</string>
+    <string name="device_config_anc_mode_auto">Auto</string>
+    <string name="device_config_anc_mode_manual">Manuell</string>
     <string name="device_config_anc_mode_adaptive">Adaptiv</string>
     <string name="device_config_anc_mode_off">Aus</string>
     <string name="device_config_anc_mode_deep">Tief</string>
@@ -30,6 +33,9 @@
     <string name="device_config_anc_mode_wind">Wind</string>
     <string name="device_config_anc_mode_enhance_voice">Verbessern Sie Ihre Stimme</string>
     <string name="device_config_anc_mode_transparent">Transparenz</string>
+    <string name="device_config_anc_mode_ambient_sound">Umgebungsgeräusche</string>
+    <string name="device_config_transparency_normal">Normal</string>
+    <string name="device_config_transparency_surroundings">Umgebung</string>
     <!-- Errors -->
     <string name="device_config_anc_alert_put_on">Bitte Kopfhörer anschließen und tragen</string>
     <string name="device_config_anc_alert_single_ear">Beide Ohrhörer tragen, um Geräuschunterdrückung zu verwenden</string>
@@ -37,6 +43,9 @@
     <!-- Gestures -->
     <string name="device_config_gestures_title">Gestik</string>
     <string name="device_config_gestures_summary">Gestensteuerung der Ohrstöpsel anpassen</string>
+    <string name="device_config_gestures_single_warning">Denke daran, dass Aktionen durch einmaliges Drücken versehentlich ausgelöst werden können</string>
+    <string name="device_config_gestures_single_press_left">Linken Kopfhörer einmal drücken</string>
+    <string name="device_config_gestures_single_press_right">Rechten Kopfhörer einmal drücken</string>
     <string name="device_config_gestures_double_click_left">Doppelklick auf den linken Ohrhörer</string>
     <string name="device_config_gestures_double_click_right">Doppeltes Antippen des rechten Ohrhörers</string>
     <string name="device_config_gestures_double_press_left">Doppeldruck auf den linken Ohrhörer</string>
@@ -48,6 +57,7 @@
     <string name="device_config_gestures_press_left">Linken Ohrhörer drücken und halten</string>
     <string name="device_config_gestures_press_right">Rechten Ohrhörer drücken und halten</string>
     <!-- Modes -->
+    <string name="device_config_gestures_action_none">Kein</string>
     <string name="device_config_gestures_action_volume_down">Lautstärke runter</string>
     <string name="device_config_gestures_action_volume_up">Lautstärke hoch</string>
     <string name="device_config_gestures_action_next_track">Nächstes Lied</string>

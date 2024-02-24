@@ -19,6 +19,9 @@
     <string name="device_config_anc_off">關閉</string>
     <string name="device_config_transparency">通透</string>
 
+    <string name="device_config_anc_mode">降噪模式</string>
+    <string name="device_config_anc_mode_auto">自動降噪</string>
+    <string name="device_config_anc_mode_manual">手動</string>
     <string name="device_config_anc_mode_adaptive">自我調整</string>
     <string name="device_config_anc_mode_off">關閉</string>
     <string name="device_config_anc_mode_deep">深度</string>
@@ -30,6 +33,9 @@
     <string name="device_config_anc_mode_wind">風</string>
     <string name="device_config_anc_mode_enhance_voice">人聲增強</string>
     <string name="device_config_anc_mode_transparent">通透模式</string>
+    <string name="device_config_anc_mode_ambient_sound">環境音</string>
+    <string name="device_config_transparency_normal">標準通透</string>
+    <string name="device_config_transparency_surroundings">環境增強</string>
     <!-- Errors -->
     <string name="device_config_anc_alert_put_on">請連接並配戴耳機</string>
     <string name="device_config_anc_alert_single_ear">配戴耳機來使用降噪功能</string>
@@ -37,6 +43,9 @@
     <!-- Gestures -->
     <string name="device_config_gestures_title">手勢操作</string>
     <string name="device_config_gestures_summary">自訂耳機手勢控制</string>
+    <string name="device_config_gestures_single_warning">單擊操作易誤觸，請謹慎選擇</string>
+    <string name="device_config_gestures_single_press_left">按壓一次左耳機</string>
+    <string name="device_config_gestures_single_press_right">按壓一次右耳機</string>
     <string name="device_config_gestures_double_click_left">捏兩下左邊耳機</string>
     <string name="device_config_gestures_double_click_right">捏兩下右邊耳機</string>
     <string name="device_config_gestures_double_press_left">捏兩下左邊耳機</string>
@@ -48,6 +57,7 @@
     <string name="device_config_gestures_press_left">捏住左邊耳機</string>
     <string name="device_config_gestures_press_right">捏住右邊耳機</string>
     <!-- Modes -->
+    <string name="device_config_gestures_action_none">無</string>
     <string name="device_config_gestures_action_volume_down">降低音量</string>
     <string name="device_config_gestures_action_volume_up">提高音量</string>
     <string name="device_config_gestures_action_next_track">下一首歌曲</string>

@@ -19,6 +19,9 @@
     <string name="device_config_anc_off">Uitgeschakeld</string>
     <string name="device_config_transparency">Transparantie</string>
 
+    <string name="device_config_anc_mode">Ruisonderdrukkingsmodus</string>
+    <string name="device_config_anc_mode_auto">Automatisch</string>
+    <string name="device_config_anc_mode_manual">Handmatig</string>
     <string name="device_config_anc_mode_adaptive">Adaptive</string>
     <string name="device_config_anc_mode_off">Uitgeschakeld</string>
     <string name="device_config_anc_mode_deep">Diepte</string>
@@ -30,6 +33,9 @@
     <string name="device_config_anc_mode_wind">Windruis onderdrukking</string>
     <string name="device_config_anc_mode_enhance_voice">Verbeter stemgeluid</string>
     <string name="device_config_anc_mode_transparent">Transparantie</string>
+    <string name="device_config_anc_mode_ambient_sound">Omgevingsgeluiden</string>
+    <string name="device_config_transparency_normal">Normaal</string>
+    <string name="device_config_transparency_surroundings">Omgeving</string>
     <!-- Errors -->
     <string name="device_config_anc_alert_put_on">Verbind en draag oortelefoons</string>
     <string name="device_config_anc_alert_single_ear">Draag beide oortelefoons om ruisonderdrukking te gebruiken</string>
@@ -37,6 +43,9 @@
     <!-- Gestures -->
     <string name="device_config_gestures_title">Gebaarbediening</string>
     <string name="device_config_gestures_summary">Gebaarbedieningen voor oordopjes aanpassen</string>
+    <string name="device_config_gestures_single_warning">Onthoud dat acties met één druk op de knop per ongeluk kunnen worden geactiveerd</string>
+    <string name="device_config_gestures_single_press_left">Druk één keer op linker oortje</string>
+    <string name="device_config_gestures_single_press_right">Druk één keer op rechter oortje</string>
     <string name="device_config_gestures_double_click_left">Dubbel tik op linker oortje</string>
     <string name="device_config_gestures_double_click_right">Dubbel tik op rechter oortje</string>
     <string name="device_config_gestures_double_press_left">Dubbel klik op linker oortje</string>
@@ -48,6 +57,7 @@
     <string name="device_config_gestures_press_left">Houd linker oortelefoon ingedrukt</string>
     <string name="device_config_gestures_press_right">Houd rechter oortelefoon ingedrukt</string>
     <!-- Modes -->
+    <string name="device_config_gestures_action_none">Geen</string>
     <string name="device_config_gestures_action_volume_down">Volume lager</string>
     <string name="device_config_gestures_action_volume_up">Volume hoger</string>
     <string name="device_config_gestures_action_next_track">Volgend nummer</string>

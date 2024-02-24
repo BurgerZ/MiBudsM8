@@ -19,6 +19,9 @@
     <string name="device_config_anc_off">Spento</string>
     <string name="device_config_transparency">Trasparenza</string>
 
+    <string name="device_config_anc_mode">Modalità di cancellazione del rumore</string>
+    <string name="device_config_anc_mode_auto">Automatica</string>
+    <string name="device_config_anc_mode_manual">Manuale</string>
     <string name="device_config_anc_mode_adaptive">Adattivo</string>
     <string name="device_config_anc_mode_off">Spento</string>
     <string name="device_config_anc_mode_deep">Profondo</string>
@@ -30,6 +33,9 @@
     <string name="device_config_anc_mode_wind">Wind</string>
     <string name="device_config_anc_mode_enhance_voice">Migliora la voce</string>
     <string name="device_config_anc_mode_transparent">Trasparenza</string>
+    <string name="device_config_anc_mode_ambient_sound">Suoni ambientali</string>
+    <string name="device_config_transparency_normal">Normale</string>
+    <string name="device_config_transparency_surroundings">Ambiente</string>
     <!-- Errors -->
     <string name="device_config_anc_alert_put_on">Si prega di collegare e indossare gli auricolari</string>
     <string name="device_config_anc_alert_single_ear">Indossa entrambi gli auricolari per utilizzare la cancellazione del rumore</string>
@@ -37,6 +43,9 @@
     <!-- Gestures -->
     <string name="device_config_gestures_title">Gestures</string>
     <string name="device_config_gestures_summary">Personalizza le gestures degli auricolari</string>
+    <string name="device_config_gestures_single_warning">Ricorda che le azioni a pressione singola possono essere attivate accidentalmente</string>
+    <string name="device_config_gestures_single_press_left">Premi l\'auricolare sinistro una volta</string>
+    <string name="device_config_gestures_single_press_right">Premi l\'auricolare destro una volta</string>
     <string name="device_config_gestures_double_click_left">Tocca due volte l\'auricolare sinistro</string>
     <string name="device_config_gestures_double_click_right">Tocca due volte l\'auricolare destro</string>
     <string name="device_config_gestures_double_press_left">Premere due volte l\'auricolare sinistro</string>
@@ -48,6 +57,7 @@
     <string name="device_config_gestures_press_left">Tieni premuto l\'auricolare sinistro</string>
     <string name="device_config_gestures_press_right">Tieni premuto l\'auricolare destro</string>
     <!-- Modes -->
+    <string name="device_config_gestures_action_none">Nessuno</string>
     <string name="device_config_gestures_action_volume_down">Abbassa il volume</string>
     <string name="device_config_gestures_action_volume_up">Alza il volume</string>
     <string name="device_config_gestures_action_next_track">Traccia successiva</string>

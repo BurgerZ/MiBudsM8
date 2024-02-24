@@ -20,6 +20,9 @@
     <string name="device_config_anc_off">Off</string>
     <string name="device_config_transparency">Transparency</string>
 
+    <string name="device_config_anc_mode">Noise cancellation mode</string>
+    <string name="device_config_anc_mode_auto">Auto</string>
+    <string name="device_config_anc_mode_manual">Manual</string>
     <string name="device_config_anc_mode_adaptive">Adaptive</string>
     <string name="device_config_anc_mode_off">Off</string>
     <string name="device_config_anc_mode_deep">Deep</string>
@@ -31,6 +34,9 @@
     <string name="device_config_anc_mode_wind">Wind</string>
     <string name="device_config_anc_mode_enhance_voice">Enhance voice</string>
     <string name="device_config_anc_mode_transparent">Transparency</string>
+    <string name="device_config_anc_mode_ambient_sound">Ambient sounds</string>
+    <string name="device_config_transparency_normal">Regular</string>
+    <string name="device_config_transparency_surroundings">Ambient</string>
     <!-- Errors -->
     <string name="device_config_anc_alert_put_on">Please connect and wear earphones</string>
     <string name="device_config_anc_alert_single_ear">Wear both earphones to use noise cancellation</string>
@@ -38,6 +44,9 @@
     <!-- Gestures -->
     <string name="device_config_gestures_title">Gestures</string>
     <string name="device_config_gestures_summary">Customize earbuds gesture controls</string>
+    <string name="device_config_gestures_single_warning">Remember that single-press actions can be triggered accidentally</string>
+    <string name="device_config_gestures_single_press_left">Single press left earphone</string>
+    <string name="device_config_gestures_single_press_right">Single press right earphone</string>
     <string name="device_config_gestures_double_click_left">Double tap the left earphone</string>
     <string name="device_config_gestures_double_click_right">Double tap the right earphone</string>
     <string name="device_config_gestures_double_press_left">Double press left earphone</string>
@@ -49,6 +58,7 @@
     <string name="device_config_gestures_press_left">Press and hold left earphone</string>
     <string name="device_config_gestures_press_right">Press and hold right earphone</string>
     <!-- Modes -->
+    <string name="device_config_gestures_action_none">None</string>
     <string name="device_config_gestures_action_volume_down">Volume down</string>
     <string name="device_config_gestures_action_volume_up">Volume up</string>
     <string name="device_config_gestures_action_next_track">Next track</string>
@@ -138,7 +148,6 @@
     <!-- Missing notification -->
     <string name="device_config_find_loss_notify_title">Missing earphone alert</string>
     <string name="device_config_find_loss_notify_summary">Looks like at least one of your earphones is not in the charging case. Take a look around!</string>
-
 
     <!-- Firmware update -->
     <string name="device_config_firmware">Firmware</string>
@@ -268,7 +277,6 @@
     <string name="press_color_to_apply">Press on Color to apply</string>
     <string name="dialog_color_picker">Color Picker</string>
     <string name="color_picker_use_default_color">Use default color</string>
-
 
     <!-- Notification -->
     <string name="notification_headset_service_channel_name">Earbuds status</string>

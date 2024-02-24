@@ -19,6 +19,9 @@
     <string name="device_config_anc_off">Kapalı</string>
     <string name="device_config_transparency">Şeffaflık Modu</string>
 
+    <string name="device_config_anc_mode">Gürültü engelleme modu</string>
+    <string name="device_config_anc_mode_auto">Otomatik</string>
+    <string name="device_config_anc_mode_manual">Manuel</string>
     <string name="device_config_anc_mode_adaptive">Uyumlu</string>
     <string name="device_config_anc_mode_off">Kapalı</string>
     <string name="device_config_anc_mode_deep">Derin</string>
@@ -30,6 +33,9 @@
     <string name="device_config_anc_mode_wind">Rüzgar Sesi</string>
     <string name="device_config_anc_mode_enhance_voice">Genişletilmiş Ortam Sesi</string>
     <string name="device_config_anc_mode_transparent">Şeffaf Ortam Sesi</string>
+    <string name="device_config_anc_mode_ambient_sound">Ortam sesleri</string>
+    <string name="device_config_transparency_normal">Normal</string>
+    <string name="device_config_transparency_surroundings">Ortam</string>
     <!-- Errors -->
     <string name="device_config_anc_alert_put_on">Kulaklıkları bağlayın ve eşleştirin</string>
     <string name="device_config_anc_alert_single_ear">Gürültü engellemeyi kullanmak için her iki kulaklığı da takın</string>
@@ -37,6 +43,9 @@
     <!-- Gestures -->
     <string name="device_config_gestures_title">Hareket Kontrolleri</string>
     <string name="device_config_gestures_summary">Kulaklıkların hareket kontrollerini özelleştirin</string>
+    <string name="device_config_gestures_single_warning">Tek dokunuşla yapılan işlemlerin yanlışlıkla ytetiklenebileceğini unutmayın</string>
+    <string name="device_config_gestures_single_press_left">Sol kulaklığa bir kez basın</string>
+    <string name="device_config_gestures_single_press_right">Sağ kulaklığa bir kez basın</string>
     <string name="device_config_gestures_double_click_left">Sol kulaklığa iki kez dokunun</string>
     <string name="device_config_gestures_double_click_right">Sağ kulaklığa iki kez dokunun</string>
     <string name="device_config_gestures_double_press_left">Sol kulaklığa iki kez basılı tutun</string>
@@ -48,6 +57,7 @@
     <string name="device_config_gestures_press_left">Sol kulaklığa dokunun ve basılı tutun</string>
     <string name="device_config_gestures_press_right">Sağ kulaklığa dokunun ve basılı tutun</string>
     <!-- Modes -->
+    <string name="device_config_gestures_action_none">Hiçbiri</string>
     <string name="device_config_gestures_action_volume_down">Sesi kıs</string>
     <string name="device_config_gestures_action_volume_up">Sesi aç</string>
     <string name="device_config_gestures_action_next_track">Sonraki parça</string>

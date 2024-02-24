@@ -19,6 +19,9 @@
     <string name="device_config_anc_off">Kikapcsol</string>
     <string name="device_config_transparency">Áteresztés</string>
 
+    <string name="device_config_anc_mode">Zajszűrés üzemmód</string>
+    <string name="device_config_anc_mode_auto">Automatikus</string>
+    <string name="device_config_anc_mode_manual">Kézi</string>
     <string name="device_config_anc_mode_adaptive">Adaptív</string>
     <string name="device_config_anc_mode_off">Kikapcsol</string>
     <string name="device_config_anc_mode_deep">Mély</string>
@@ -30,6 +33,9 @@
     <string name="device_config_anc_mode_wind">Szél</string>
     <string name="device_config_anc_mode_enhance_voice">Kiemelés</string>
     <string name="device_config_anc_mode_transparent">Áteresztés</string>
+    <string name="device_config_anc_mode_ambient_sound">Környezeti hangok</string>
+    <string name="device_config_transparency_normal">Szokásos</string>
+    <string name="device_config_transparency_surroundings">Környezeti</string>
     <!-- Errors -->
     <string name="device_config_anc_alert_put_on">Kérjük, kapcsolódjon és használja a fülhallgatót</string>
     <string name="device_config_anc_alert_single_ear">Viselje mindkét fülhallgatót a zajszűrés használatához</string>
@@ -37,6 +43,9 @@
     <!-- Gestures -->
     <string name="device_config_gestures_title">Gesztusok</string>
     <string name="device_config_gestures_summary">Testreszabhatja a fülhallgatók kézmozdulatos vezérlőit</string>
+    <string name="device_config_gestures_single_warning">Ne feledje, hogy az egyszeri gombnyomásos műveletek véletlenül is kiválthatók</string>
+    <string name="device_config_gestures_single_press_left">Nyomja meg egyszer a bal oldali fülhallgatót</string>
+    <string name="device_config_gestures_single_press_right">Nyomja meg egyszer a jobb oldali fülhallgatót</string>
     <string name="device_config_gestures_double_click_left">Dupla érintés a bal fülhallgatón</string>
     <string name="device_config_gestures_double_click_right">Dupla érintés a jobb fülhallgatón</string>
     <string name="device_config_gestures_double_press_left">Dupla nyomás a bal fülhallgatón</string>
@@ -48,6 +57,7 @@
     <string name="device_config_gestures_press_left">Bal fülhallgató nyomása és nyomva tartása</string>
     <string name="device_config_gestures_press_right">Jobb fülhallgató nyomása és nyomva tartása</string>
     <!-- Modes -->
+    <string name="device_config_gestures_action_none">Egyik sem</string>
     <string name="device_config_gestures_action_volume_down">Hangerő le</string>
     <string name="device_config_gestures_action_volume_up">Hangerő fel</string>
     <string name="device_config_gestures_action_next_track">Következő szám</string>

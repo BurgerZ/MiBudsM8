@@ -19,6 +19,9 @@
     <string name="device_config_anc_off">Відключено</string>
     <string name="device_config_transparency">Прозорість</string>
 
+    <string name="device_config_anc_mode">Режим шумопоглинання</string>
+    <string name="device_config_anc_mode_auto">Авто</string>
+    <string name="device_config_anc_mode_manual">Вручну</string>
     <string name="device_config_anc_mode_adaptive">Адаптивне</string>
     <string name="device_config_anc_mode_off">Відключено</string>
     <string name="device_config_anc_mode_deep">Глибоке</string>
@@ -30,6 +33,9 @@
     <string name="device_config_anc_mode_wind">Вітер</string>
     <string name="device_config_anc_mode_enhance_voice">Підсилення голосу</string>
     <string name="device_config_anc_mode_transparent">Прозорість</string>
+    <string name="device_config_anc_mode_ambient_sound">Звуки оточення</string>
+    <string name="device_config_transparency_normal">За замовчуванням</string>
+    <string name="device_config_transparency_surroundings">Навкол. серед.</string>
     <!-- Errors -->
     <string name="device_config_anc_alert_put_on">Підключіть і вдягніть навушники</string>
     <string name="device_config_anc_alert_single_ear">Надягніть обидва навушника для використання шумозаглушення</string>
@@ -37,6 +43,9 @@
     <!-- Gestures -->
     <string name="device_config_gestures_title">Жести</string>
     <string name="device_config_gestures_summary">Налаштування жестів для кожного навушника</string>
+    <string name="device_config_gestures_single_warning">Пам\'ятайте, що дії, які виконуються одним натисненням, можуть бути випадково викликані</string>
+    <string name="device_config_gestures_single_press_left">Натисніть на лівий навушник один раз</string>
+    <string name="device_config_gestures_single_press_right">Натисніть на лівий навушник один раз</string>
     <string name="device_config_gestures_double_click_left">Подвійний дотик (лівий)</string>
     <string name="device_config_gestures_double_click_right">Подвійний дотик (правий)</string>
     <string name="device_config_gestures_double_press_left">Подвійне натискання (лівий)</string>
@@ -48,6 +57,7 @@
     <string name="device_config_gestures_press_left">Довге натискання (лівий)</string>
     <string name="device_config_gestures_press_right">Довге натискання (правий)</string>
     <!-- Modes -->
+    <string name="device_config_gestures_action_none">Немає</string>
     <string name="device_config_gestures_action_volume_down">Зменшення гучності</string>
     <string name="device_config_gestures_action_volume_up">Збільшення гучності</string>
     <string name="device_config_gestures_action_next_track">Наступний трек</string>

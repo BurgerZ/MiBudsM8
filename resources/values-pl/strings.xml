@@ -19,6 +19,9 @@
     <string name="device_config_anc_off">Wyłącz</string>
     <string name="device_config_transparency">Przejrzystość</string>
 
+    <string name="device_config_anc_mode">Tryb redukcji szumów</string>
+    <string name="device_config_anc_mode_auto">Automatyczne</string>
+    <string name="device_config_anc_mode_manual">Ręczny</string>
     <string name="device_config_anc_mode_adaptive">Adaptywna</string>
     <string name="device_config_anc_mode_off">Wyłączona</string>
     <string name="device_config_anc_mode_deep">Głęboka</string>
@@ -30,6 +33,9 @@
     <string name="device_config_anc_mode_wind">Wiatr</string>
     <string name="device_config_anc_mode_enhance_voice">Wzmocnienie głosu</string>
     <string name="device_config_anc_mode_transparent">Przejrzystość</string>
+    <string name="device_config_anc_mode_ambient_sound">Dźwięki otoczenia</string>
+    <string name="device_config_transparency_normal">Zwykły</string>
+    <string name="device_config_transparency_surroundings">Szum</string>
     <!-- Errors -->
     <string name="device_config_anc_alert_put_on">Podłącz i sparuj słuchawki</string>
     <string name="device_config_anc_alert_single_ear">Załóż obie słuchawki, aby korzystać z funkcji redukcji szumów</string>
@@ -37,6 +43,9 @@
     <!-- Gestures -->
     <string name="device_config_gestures_title">Gesty</string>
     <string name="device_config_gestures_summary">Dostosuj sterowanie gestami</string>
+    <string name="device_config_gestures_single_warning">Pamiętaj, że akcje uruchamiane jednym przyciskiem mogą zostać aktywowane przypadkowo</string>
+    <string name="device_config_gestures_single_press_left">Naciśnij raz lewą słuchawkę</string>
+    <string name="device_config_gestures_single_press_right">Naciśnij raz prawą słuchawkę</string>
     <string name="device_config_gestures_double_click_left">Dotknij dwukrotnie lewej słuchawki</string>
     <string name="device_config_gestures_double_click_right">Dotknij dwukrotnie prawej słuchawki</string>
     <string name="device_config_gestures_double_press_left">Naciścnij dwukrotnie lewą słuchawkę</string>
@@ -48,6 +57,7 @@
     <string name="device_config_gestures_press_left">Naciśnij i przytrzymaj lewą słuchawkę</string>
     <string name="device_config_gestures_press_right">Naciśnij i przytrzymaj prawą słuchawkę</string>
     <!-- Modes -->
+    <string name="device_config_gestures_action_none">Brak</string>
     <string name="device_config_gestures_action_volume_down">Zmniejszenie głośności</string>
     <string name="device_config_gestures_action_volume_up">Zwiększenie głośności</string>
     <string name="device_config_gestures_action_next_track">Następny utwór</string>

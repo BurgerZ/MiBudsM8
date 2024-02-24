@@ -19,6 +19,9 @@
     <string name="device_config_anc_off">Eteint</string>
     <string name="device_config_transparency">Transparence</string>
 
+    <string name="device_config_anc_mode">Mode annulation du bruit</string>
+    <string name="device_config_anc_mode_auto">Automatique</string>
+    <string name="device_config_anc_mode_manual">Manuel</string>
     <string name="device_config_anc_mode_adaptive">Adaptatif</string>
     <string name="device_config_anc_mode_off">Désactivé</string>
     <string name="device_config_anc_mode_deep">Profond</string>
@@ -30,6 +33,10 @@
     <string name="device_config_anc_mode_wind">Vent</string>
     <string name="device_config_anc_mode_enhance_voice">Améliorer la voix</string>
     <string name="device_config_anc_mode_transparent">Transparence</string>
+    <string name="device_config_anc_mode_ambient_sound">Sons ambiants</string>
+    <string name="device_config_transparency_normal">Normal</string>
+    <string name="device_config_transparency_surroundings">Ambiant</string>
+
     <!-- Errors -->
     <string name="device_config_anc_alert_put_on">Connecter et porter les écouteurs</string>
     <string name="device_config_anc_alert_single_ear">Porter les deux écouteurs pour l\'annulation de bruit</string>
@@ -37,6 +44,9 @@
     <!-- Gestures -->
     <string name="device_config_gestures_title">Gestes</string>
     <string name="device_config_gestures_summary">Personnaliser les gestes pour contrôler les écouteurs</string>
+    <string name="device_config_gestures_single_warning">Rappelez-vous que les actions à une seule pression peuvent être déclenchées accidentellement</string>
+    <string name="device_config_gestures_single_press_left">Appuyez une fois sur l\'écouteur gauche</string>
+    <string name="device_config_gestures_single_press_right">Appuyez une fois sur l\'écouteur droit</string>
     <string name="device_config_gestures_double_click_left">Double appui sur l\'écouteur gauche</string>
     <string name="device_config_gestures_double_click_right">Double appui sur l\'écouteur droit</string>
     <string name="device_config_gestures_double_press_left">Double pression de l\'écouteur gauche</string>
@@ -48,6 +58,7 @@
     <string name="device_config_gestures_press_left">Presser et maintenir l\'écouteur gauche (L)</string>
     <string name="device_config_gestures_press_right">Presser et maintenir l\'écouteur droit (R)</string>
     <!-- Modes -->
+    <string name="device_config_gestures_action_none">Aucun</string>
     <string name="device_config_gestures_action_volume_down">Baisser le volume</string>
     <string name="device_config_gestures_action_volume_up">Monter le volume</string>
     <string name="device_config_gestures_action_next_track">Chanson suivante</string>
