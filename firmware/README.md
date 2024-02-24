@@ -244,3 +244,29 @@ If you have any firmware files for earbuds not listed here, please, contact me t
 **Changelog:**  
 - Fix some known issues
 - Support Google Fast Pair Service
+
+## Redmi Buds 5
+
+| Region |         Color         |  VID  |  PID  |
+| :----: | :-------------------: | :---: | :---: |
+| China  | black, purple, white  | 2717  | 506a  |
+
+### 4.5.6.3  
+**File name:** m8_ota_image_v1.0.3.8_redmibuds5_cn.bin  
+**MD5:** c66d1aef1b183675b9f35730664a6313  
+**Comment:** original image  
+**Changelog:**  
+- Improve user experience
+
+## Redmi Buds 5 AAPE
+
+| Region |         Color         |  VID  |  PID  |
+| :----: | :-------------------: | :---: | :---: |
+| China  |       camouflage      | 2717  | 506b  |
+
+### 4.5.6.3  
+**File name:** m8_ota_image_v1.0.3.8_redmibuds5_cn.bin  
+**MD5:** c66d1aef1b183675b9f35730664a6313  
+**Comment:** original image  
+**Changelog:**  
+- Improve user experience
