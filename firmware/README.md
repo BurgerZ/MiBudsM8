@@ -283,3 +283,18 @@ If you have any firmware files for earbuds not listed here, please, contact me t
 **Comment:** original image  
 **Changelog:**  
 - Optimized user experience and improved LHDC compatibility
+
+## Redmi Buds 5 Pro
+
+| Region |        Color       |  VID  |  PID  |
+| :----: | :----------------: | :---: | :---: |
+| Global | black, blue, white | 2717  | 506d  |
+
+### 4.3.7.7 
+**File name:** m8_ota_image_v4.3.7.7_redmibuds5pro_gl.bin  
+**MD5:** 1bcda95e5b5595098429166d7fb6793d  
+**Comment:** original image  
+**Changelog:**  
+- Optimize connection issues
+- Optimize ANC experience
+- Improve spatial audio effects
