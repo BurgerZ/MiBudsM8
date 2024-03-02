@@ -81,8 +81,9 @@
     <string name="device_config_sound_settings_sound_quality_high_quality">High quality</string>
     <string name="device_config_sound_settings_head_tracking">Track head movement</string>
     <string name="device_config_sound_settings_head_tracking_summary">Experience enhanced sense of space and direction for supported audio and video</string>
-    <string name="device_config_sound_settings_surround_sound_summary">Enrich sound depth for audio and video playback in headphones (This feature won\'t work when %.1f audio is played)</string>
-    <string name="device_config_sound_settings_surround_sound_title">Virtual immersive sound</string>
+    <string name="device_config_sound_settings_surround_sound_summary">Verrijk de geluidsdiepte voor het afspelen van audio en video in oortelefoons</string>
+    <string name="device_config_sound_settings_surround_sound_summary_global">Verrijk de geluidsdiepte voor het afspelen van audio en video in oortelefoons. Deze functie werkt niet als LDAC is ingeschakeld.</string>
+    <string name="device_config_sound_settings_surround_sound_title">Meeslepende geluidseffecten</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">Aanvullende instellingen</string>
@@ -298,4 +299,5 @@
     <!-- Device status -->
     <string name="device_status_connected">Verbonden</string>
     <string name="device_status_disconnected">Verbinding verbroken</string>
+    <string name="device_status_connecting">Verbinden…</string>
 </resources>

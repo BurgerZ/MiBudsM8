@@ -33,6 +33,7 @@
     <string name="device_config_anc_mode_light">Light</string>
     <string name="device_config_anc_mode_wind">Wind</string>
     <string name="device_config_anc_mode_enhance_voice">Enhance voice</string>
+    <string name="device_config_anc_mode_enhance_voice_plus">Enhance voice+</string>
     <string name="device_config_anc_mode_transparent">Transparency</string>
     <string name="device_config_anc_mode_ambient_sound">Ambient sounds</string>
     <string name="device_config_transparency_normal">Regular</string>
@@ -82,8 +83,9 @@
     <string name="device_config_sound_settings_sound_quality_high_quality">High quality</string>
     <string name="device_config_sound_settings_head_tracking">Track head movement</string>
     <string name="device_config_sound_settings_head_tracking_summary">Experience enhanced sense of space and direction for supported audio and video</string>
-    <string name="device_config_sound_settings_surround_sound_summary">Enrich sound depth for audio and video playback in headphones (This feature won\'t work when %.1f audio is played)</string>
-    <string name="device_config_sound_settings_surround_sound_title">Virtual immersive sound</string>
+    <string name="device_config_sound_settings_surround_sound_summary">Enrich sound depth for audio and video playback in earphones.</string>
+    <string name="device_config_sound_settings_surround_sound_summary_global">Enrich sound depth for audio and video playback in earphones. This feature won\'t work when LDAC is on.</string>
+    <string name="device_config_sound_settings_surround_sound_title">Immersive sound effects</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">Additional settings</string>
@@ -305,4 +307,5 @@
     <!-- Device status -->
     <string name="device_status_connected">Connected</string>
     <string name="device_status_disconnected">Disconnected</string>
+    <string name="device_status_connecting">Connecting…</string>
 </resources>

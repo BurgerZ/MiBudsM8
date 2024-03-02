@@ -81,8 +81,9 @@
     <string name="device_config_sound_settings_sound_quality_high_quality">High quality</string>
     <string name="device_config_sound_settings_head_tracking">Track head movement</string>
     <string name="device_config_sound_settings_head_tracking_summary">Experience enhanced sense of space and direction for supported audio and video</string>
-    <string name="device_config_sound_settings_surround_sound_summary">Enrich sound depth for audio and video playback in headphones (This feature won\'t work when %.1f audio is played)</string>
-    <string name="device_config_sound_settings_surround_sound_title">Virtual immersive sound</string>
+    <string name="device_config_sound_settings_surround_sound_summary">Aprimorar a profundidade sonora para reprodução de áudio e vídeo em fones de ouvido</string>
+    <string name="device_config_sound_settings_surround_sound_summary_global">Aprimorar a profundidade sonora para reprodução de áudio e vídeo em fones de ouvido. Este recurso não funciona quando o LDAC está ativado.</string>
+    <string name="device_config_sound_settings_surround_sound_title">Efeitos sonoros imersivos</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">Ajustes adicionais</string>
@@ -298,4 +299,5 @@
     <!-- Device status -->
     <string name="device_status_connected">Conectado</string>
     <string name="device_status_disconnected">Desconectado</string>
+    <string name="device_status_connecting">Conectando…</string>
 </resources>

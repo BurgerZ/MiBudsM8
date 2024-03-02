@@ -81,8 +81,9 @@
     <string name="device_config_sound_settings_sound_quality_high_quality">High quality</string>
     <string name="device_config_sound_settings_head_tracking">Track head movement</string>
     <string name="device_config_sound_settings_head_tracking_summary">Experience enhanced sense of space and direction for supported audio and video</string>
-    <string name="device_config_sound_settings_surround_sound_summary">Enrich sound depth for audio and video playback in headphones (This feature won\'t work when %.1f audio is played)</string>
-    <string name="device_config_sound_settings_surround_sound_title">Virtual immersive sound</string>
+    <string name="device_config_sound_settings_surround_sound_summary">Vylepšení hloubky zvuku při přehrávání zvuku a videa ve sluchátkách</string>
+    <string name="device_config_sound_settings_surround_sound_summary_global">Vylepšení hloubky zvuku při přehrávání zvuku a videa ve sluchátkách. Tato funkce nefunguje, pokud je zapnuto LDAC.</string>
+    <string name="device_config_sound_settings_surround_sound_title">Efekty prostorového zvuku</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">Další nastavení</string>
@@ -296,6 +297,7 @@
     <string name="headset_download_fw">Aktualizovat</string>
 
     <!-- Device status -->
-    <string name="device_status_connected">Connected</string>
-    <string name="device_status_disconnected">Disconnected</string>
+    <string name="device_status_connected">Připojeno</string>
+    <string name="device_status_disconnected">Nepřipojeno</string>
+    <string name="device_status_connecting">Připojování…</string>
 </resources>

@@ -1,0 +1,298 @@
+<resources>
+    <string name="app_current_lang">jp</string>
+    <string name="app_translator_name">TakGot</string>
+
+    <!-- Main screen -->
+    <string name="miheadset_disconnected_summary">イヤホンを接続してください</string>
+    <string name="miheadset_supported_eartips">対応しているイヤホン:</string>
+    <string name="miheadset_disconnected_click_bt_settings">Bluetooth設定を開く</string>
+
+    <!-- Device config -->
+    <!-- Battery -->
+    <string name="device_config_battery_case">ケース</string>
+    <string name="device_config_battery_left">左</string>
+    <string name="device_config_battery_right">右</string>
+
+    <!-- ANC -->
+    <string name="device_config_anc_on">ノイズキャンセリング</string>
+    <string name="device_config_anc_off">オフ</string>
+    <string name="device_config_transparency">外音取り込み</string>
+
+    <string name="device_config_anc_mode">ノイズキャンセリングモード</string>
+    <string name="device_config_anc_mode_auto">自動</string>
+    <string name="device_config_anc_mode_manual">手動</string>
+    <string name="device_config_anc_mode_adaptive">適応型</string>
+    <string name="device_config_anc_mode_off">オフ</string>
+    <string name="device_config_anc_mode_deep">強</string>
+    <string name="device_config_anc_mode_balanced">バランス</string>
+    <string name="device_config_anc_mode_airplane">飛行機（強）</string>
+    <string name="device_config_anc_mode_office">オフィス（弱）</string>
+    <string name="device_config_anc_mode_daily">日常（中）</string>
+    <string name="device_config_anc_mode_light">弱</string>
+    <string name="device_config_anc_mode_wind">風音</string>
+    <string name="device_config_anc_mode_enhance_voice">音声強調</string>
+    <string name="device_config_anc_mode_transparent">外音取り込み</string>
+    <string name="device_config_anc_mode_ambient_sound">外音取り込み</string>
+    <string name="device_config_transparency_normal">普通</string>
+    <string name="device_config_transparency_surroundings">外音</string>
+    <!-- Errors -->
+    <string name="device_config_anc_alert_put_on">イヤホンをデバイスに接続し、装着してください</string>
+    <string name="device_config_anc_alert_single_ear">ノイズキャンセリングのためにイヤホンを両方とも装着してください</string>
+
+    <!-- Gestures -->
+    <string name="device_config_gestures_title">動作</string>
+    <string name="device_config_gestures_summary">イヤホン接触時の動作を変更する</string>
+    <string name="device_config_gestures_single_warning">一回接触でのアクションは誤接触で意図せず起こってしまう事があります</string>
+    <string name="device_config_gestures_single_press_left">左イヤホンを一回触る</string>
+    <string name="device_config_gestures_single_press_right">右イヤホンを一回触る</string>
+    <string name="device_config_gestures_double_click_left">左イヤホンを二回触る</string>
+    <string name="device_config_gestures_double_click_right">右イヤホンを二回触る</string>
+    <string name="device_config_gestures_double_press_left">左イヤホンを二回押す</string>
+    <string name="device_config_gestures_double_press_right">右イヤホンを二回押す</string>
+    <string name="device_config_gestures_triple_click_left">左イヤホンを三回触る</string>
+    <string name="device_config_gestures_triple_click_right">右イヤホンを三回触る</string>
+    <string name="device_config_gestures_triple_press_left">左イヤホンを三回押す</string>
+    <string name="device_config_gestures_triple_press_right">右イヤホンを三回押す</string>
+    <string name="device_config_gestures_press_left">左イヤホンを長押し</string>
+    <string name="device_config_gestures_press_right">右イヤホンを長押し</string>
+    <!-- Modes -->
+    <string name="device_config_gestures_action_none">何もしない</string>
+    <string name="device_config_gestures_action_volume_down">音量小</string>
+    <string name="device_config_gestures_action_volume_up">音量大</string>
+    <string name="device_config_gestures_action_next_track">次の曲</string>
+    <string name="device_config_gestures_action_previous_track">前の曲</string>
+    <string name="device_config_gestures_action_play_pause">再生/一時停止</string>
+    <string name="device_config_gestures_action_voice_assistant">音声アシスタント</string>
+    <string name="device_config_gestures_action_noise_control">騒音制御</string>
+    <string name="device_config_gestures_action_noise_control_summary">二つの騒音制御モードを切り替えるため、触れる、または長押ししてください</string>
+    <string name="device_config_gestures_action_off">オフ</string>
+    <string name="device_config_gestures_action_off_summary">ノイズキャンセリングと外音取り込みを無効化</string>
+    <string name="device_config_gestures_action_noise_summary">外音を遮断</string>
+    <string name="device_config_gestures_action_trans_summary">外音を取り込み</string>
+
+    <!-- Sound settings -->
+    <string name="device_config_sound_settings">サウンド設定</string>
+    <string name="device_config_sound_settings_summary">イヤホン装着時の音質を調整する</string>
+    <string name="device_config_sound_settings_spatial_audio">空間オーディオ</string>
+    <string name="device_config_sound_settings_spatial_audio_summary">対応するオーディオとビデオによる空間オーディオと没入感を体験する</string>
+    <string name="device_config_sound_settings_sound_quality">音質</string>
+    <string name="device_config_sound_settings_sound_quality_low_latency">低遅延</string>
+    <string name="device_config_sound_settings_sound_quality_high_quality">高音質</string>
+    <string name="device_config_sound_settings_head_tracking">頭部の動きを追跡</string>
+    <string name="device_config_sound_settings_head_tracking_summary">対応するオーディオとビデオによる空間オーディオと指向性オーディオを体験する</string>
+    <string name="device_config_sound_settings_surround_sound_summary">イヤホンでのオーディオやビデオ再生時の音の深みを豊かにする</string>
+    <string name="device_config_sound_settings_surround_sound_summary_global">イヤホンでのオーディオやビデオ再生時の音の深みを豊かにします。LDACがオンの場合はこの機能は使用できません。</string>
+    <string name="device_config_sound_settings_surround_sound_title">イマーシブサウンド効果</string>
+
+    <!-- More settings -->
+    <string name="device_config_more_settings">追加設定</string>
+    <string name="device_config_more_settings_in_ear_check">装着検知</string>
+    <string name="device_config_more_settings_in_ear_check_summary">イヤホンを外すと一時停止し、装着すると自動的に再生を開始します</string>
+    <string name="device_config_more_settings_dual_connect_mode">並列接続モード</string>
+    <string name="device_config_more_settings_dual_connect_mode_summary">この機能をオンにすることにより別のBluetoothデバイスへ同時に接続が可能になります</string>
+    <string name="device_config_more_settings_auto_ack_mode_summary">着信に自動で応答</string>
+    <string name="device_config_more_settings_auto_ack_mode">イヤホンの装着時、着信に自動で応答します</string>
+    <string name="device_config_more_settings_notification_widget_title">通知シェードに表示</string>
+    <string name="device_config_more_settings_notification_widget_summary">イヤホン接続時に通知シェードウィジェットを表示します</string>
+    <string name="device_config_more_settings_silent_upgrade_title">ファームウェア自動更新</string>
+    <string name="device_config_more_settings_silent_upgrade_summary">要件を満たす場合、自動的にイヤホンのファームウェアを更新します</string>
+    <!-- Intelligent pickup -->
+    <string name="device_config_more_settings_detect_voice">呼びかけ検知</string>
+    <string name="device_config_more_settings_detect_voice_summary">音声を検知した場合、会話のため自動的に外音取り込みモードに切り替わります</string>
+    <string name="device_config_more_settings_detect_voice_silent_off">オフ</string>
+    <string name="device_config_more_settings_detect_voice_auto_anc_five_recover">5秒</string>
+    <string name="device_config_more_settings_detect_voice_auto_anc_ten_recover">10秒</string>
+    <string name="device_config_more_settings_detect_voice_auto_anc_fifteen_recover">15秒</string>
+    <string name="device_config_more_settings_detect_voice_auto_anc_not_recover">オン状態を維持</string>
+
+    <!-- Ear tip fit test -->
+    <string name="device_config_fit_check">イヤホンのフィットテスト</string>
+    <string name="device_config_fit_check_testing">テスト中…</string>
+    <string name="device_config_fit_check_next">次へ</string>
+    <string name="device_config_fit_check_done">完了</string>
+    <string name="device_config_fit_check_restart">再試行</string>
+    <string name="device_config_fit_check_result_dialog1">テストを開始するため両耳に正しくイヤホンを装着してください</string>
+    <string name="device_config_fit_check_result_dialog2">テストを開始するために現在の通話を終了してください</string>
+    <string name="device_config_fit_check_result_dialog_title">注意</string>
+    <string name="device_config_fit_check_result_l_not_ok">イヤホンを再調整する</string>
+    <string name="device_config_fit_check_result_not_ok">フィットしていません</string>
+    <string name="device_config_fit_check_result_ok">フィットしています</string>
+    <string name="device_config_fit_check_result_r_not_ok">イヤホンを再調整する</string>
+    <string name="device_config_fit_check_result_summary1">これであなたの耳にフィットしました！</string>
+    <string name="device_config_fit_check_result_summary2">調整するか別の大きさのイヤーチップに交換し、再度テストしてください</string>
+    <string name="device_config_fit_check_start">開始</string>
+    <string name="device_config_fit_check_summary1">どのイヤーピースが最も快適なフィット感と最高の音響性能を提供するかを確認します</string>
+    <string name="device_config_fit_check_summary2">イヤホンを両耳に入れて\"開始\"をタップします</string>
+    <string name="device_config_fit_check_summary3">イヤホンを耳に入れたままにしてください</string>
+
+    <!-- Missing earphone alert -->
+    <string name="device_config_anti_lost_title">イヤホン紛失アラート</string>
+    <string name="device_config_anti_lost_summary">イヤホンの片方が耳やケースから離れた時間が %d 分を超えると警告します</string>
+    <string name="device_config_find_title">イヤホンを探す</string>
+    <string name="device_config_find_status_connected">接続済み</string>
+    <string name="device_config_find_status_disconnected">イヤホンが切断されています、接続してください</string>
+    <string name="device_config_find_tip_title">注意</string>
+    <string name="device_config_find_tip">イヤホンを見つけるためにはこのデバイスの近くにあり接続中である必要があり、イヤホンを耳に装着したまま探索アラーム音を鳴らすと聴力を損なう恐れがあります</string>
+    <string name="device_config_find_left">左</string>
+    <string name="device_config_find_both">両方</string>
+    <string name="device_config_find_right">右</string>
+    <string name="device_config_find_cancel">キャンセル</string>
+    <string name="device_config_find_handle_tip">音を鳴らすために触る</string>
+    <string name="device_config_find_query_play">再生</string>
+    <string name="device_config_find_playing">再生中…</string>
+    <string name="device_config_find_connected">接続済み</string>
+    <string name="device_config_find_disconnect">切断済み</string>
+    <string name="device_config_find_volume_warning">大音量注意</string>
+    <string name="device_config_find_play_warning">イヤホンを見つけるためにはこのデバイスの近くにあり接続中である必要があり、イヤホンを耳に装着したまま探索アラーム音を鳴らすと聴力を損なう恐れがありますので事前に耳から外してください</string>
+    <!-- Missing notification -->
+    <string name="device_config_find_loss_notify_title">イヤホン紛失警告</string>
+    <string name="device_config_find_loss_notify_summary">イヤホンが充電ケースに入っていません、確認してください</string>
+
+    <!-- Firmware update -->
+    <string name="device_config_firmware">ファームウェア</string>
+    <string name="device_config_firmware_not_connected">ファームウェアのバージョンを確認するためにイヤホンを接続してください</string>
+    <string name="device_config_firmware_up_to_date">ファームウェアは最新状態です</string>
+
+    <string name="device_config_firmware_downloading">ダウンロード中</string>
+    <string name="device_config_firmware_downloading_dots">ダウンロード中…</string>
+    <string name="device_config_firmware_download_failed">ダウンロード失敗</string>
+
+    <string name="device_config_firmware_update_done">アップデート完了</string>
+    <string name="device_config_firmware_update_success">アップデート成功</string>
+    <string name="device_config_firmware_update_failed">アップデート失敗</string>
+    <string name="device_config_firmware_update_error">アップデート中にエラーが発生しました</string>
+
+    <string name="device_config_firmware_updating">アップデート中</string>
+
+    <string name="device_config_firmware_device_sync">同期中…</string>
+    <string name="device_config_firmware_connect_device">デバイスに接続してください</string>
+
+    <!-- FW flash. Inquire firmware data -->
+    <string name="device_config_firmware_fail_battery_low">デバイスを充電してください</string>
+    <string name="device_config_firmware_fail_wrong_firmware">アップデートできません、ファームウェア情報が不正です</string>
+    <string name="device_config_firmware_fail_device_check_failed">アップデート情報の確認ができませんでした</string>
+    <!-- FW flash. Enter upgrade mode -->
+    <string name="device_config_firmware_flash_device_not_move">デバイスを動かさず、デバイスの電源をオフにしないでください</string>
+    <string name="device_config_firmware_flash_enter_upgrade_failed">アップデートの準備が失敗しました</string>
+    <!-- FW flash. Get file info -->
+    <string name="device_config_firmware_flash_file_position_failed">ファイルにアクセスできませんでした</string>
+    <string name="device_config_firmware_flash_file_read_failed">アップデート情報が取得できませんでした</string>
+    <!-- FW flash. Sync -->
+    <string name="device_config_firmware_flash_device_sync_wait_connect">同期中… イヤホン使用のため自動で接続されるまでお待ちください</string>
+    <string name="device_config_firmware_flash_device_sync_read_state">アップデート情報が取得できませんでした</string>
+    <!-- FW fail messages -->
+    <string name="device_config_firmware_flash_error_disconnected">イヤホンと切断されています、アップデートを再開するには充電ケースを一度閉め再度開けてください</string>
+    <string name="device_config_firmware_flash_error_case_closed">ケースが閉じています</string>
+    <string name="device_config_firmware_flash_error_earbud_missing">イヤホンが充電ケースから取り外されています</string>
+    <string name="device_config_firmware_flash_error_single_earbud">片方のイヤホンだけではアップデートできません、再度ペアリングしてください</string>
+    <string name="device_config_firmware_flash_error_multiconnect">複数のデバイスに接続された状態ではアップデートできません</string>
+    <string name="device_config_firmware_flash_error_failed">アップデートできません</string>
+    <!-- Network error -->
+    <string name="device_config_network_not_available">ネットワーク接続を確認し再試行してください</string>
+    <!-- Update from file -->
+    <string name="device_config_firmware_local_ota">ファイルを指定しアップデート</string>
+    <string name="device_config_firmware_local_ota_summary">アップデートに使うbinファイルを選択してください\n手動アップデートは自己責任となります</string>
+
+    <!-- Unpair device -->
+    <string name="device_config_unpair_title">デバイスとのペアリングを解除</string>
+    <string name="device_config_unpair_message">%1$s はデバイスから登録が解除されます</string>
+
+    <!-- Settings -->
+    <string name="app_settings_title">設定</string>
+
+    <!-- Information -->
+    <string name="app_settings_information_title">情報</string>
+
+    <!-- UI preferences -->
+    <string name="prefs_ui_title">ユーザーインターフェース</string>
+    <string name="prefs_ui_theme">インターフェイスのテーマ</string>
+    <string name="prefs_ui_theme_follow_system">システムの設定に従う</string>
+    <string name="prefs_ui_theme_dark">黒基調テーマ</string>
+    <string name="prefs_ui_theme_light">白基調テーマ</string>
+    <string name="prefs_ui_theme_battery">電池残量によりテーマを設定する</string>
+
+    <!-- Battery icons style -->
+    <string name="prefs_battery_icons_theme">バッテリーアイコンのテーマ</string>
+    <string name="prefs_battery_icons_color">カラー</string>
+    <string name="prefs_battery_icons_gray">灰色</string>
+
+    <!-- App language -->
+    <string name="prefs_app_language">言語</string>
+
+    <!-- Firmware server -->
+    <string name="prefs_alternative_server_title">別サーバー</string>
+    <string name="prefs_alternative_server_desc">中国版モデルなど他地域イヤホンのファームウェアアップデートを探すために別サーバーに接続する</string>
+
+    <!-- Popup dialog -->
+    <string name="prefs_popup_dialog_title">ポップアップダイアログ</string>
+    <string name="prefs_popup_dialog_summary">イヤホンが接続された場合、イヤホンの状態を示すポップアップダイアログを表示します</string>
+
+    <!-- Animation or still image -->
+    <string name="prefs_headset_show_animation_title">アニメーションを表示する</string>
+    <string name="prefs_headset_show_animation_desc">利用可能な場合、静止画ではなくヘッドセットアニメーションを表示する</string>
+
+    <!-- Widgets -->
+    <string name="prefs_widgets_title">ウィジェット</string>
+    <string name="prefs_widgets_not_found">インストールされたウィジェットがありません</string>
+    <!-- Widget config -->
+    <string name="widget_config_title">ウィジェット設定</string>
+    <string name="widget_config_background_title">背景</string>
+    <string name="widget_config_use_background_title">背景を表示する</string>
+    <string name="widget_config_background_color_title">背景の色</string>
+    <string name="widget_config_font_title">フォント</string>
+    <string name="widget_config_font_color_title">文字の色</string>
+    <string name="widget_config_ring_color_title">充電リング表示の色</string>
+
+    <!-- FAQ -->
+    <string name="prefs_faq">よくある質問と回答</string>
+    <string name="prefs_website">ウェブサイト</string>
+
+    <!-- Feedback -->
+    <string name="prefs_feedback">フィードバック</string>
+    <!-- Contact developer dialog -->
+    <string name="dialog_contact_dev_send_email">メールを送る</string>
+    <string name="dialog_contact_dev_send_email_message">問題の説明:\n\n</string>
+    <string name="dialog_contact_dev_send_email_report_bug">バグを報告</string>
+    <string name="dialog_contact_dev_send_email_request_new_feature">新機能の要望</string>
+    <string name="dialog_contact_dev_send_email_other">その他</string>
+
+    <string name="prefs_policy_title">個人情報保護方針</string>
+    <string name="prefs_about_title">このアプリについて</string>
+    <string name="prefs_donation_title">寄付</string>
+
+    <string name="not_implemented">未実施</string>
+    <string name="laboratory">研究所</string>
+
+    <!-- Color picker -->
+    <string name="press_color_to_apply">色を選択し適応する</string>
+    <string name="dialog_color_picker">色選択</string>
+    <string name="color_picker_use_default_color">デフォルトの配色</string>
+
+    <!-- Notification -->
+    <string name="notification_headset_service_channel_name">イヤホンの状態</string>
+    <string name="notification_service_title">Mi Buds M8はバックグラウンドで動作中です</string>
+    <string name="notification_service_summary">この表示を隠すために \"Show notifications\" をクリックしてチェックを外してください</string>
+    <string name="notification_headset_box">ケース</string>
+    <string name="notification_headset_disconnect">切断</string>
+    <string name="notification_headset_left">左</string>
+    <string name="notification_headset_right">右</string>
+
+    <!-- Dialogs -->
+    <!-- About App dialog -->
+    <string name="dialog_about_app_copyright">開発者</string>
+    <string name="dialog_about_app_version">アプリのバージョン</string>
+    <string name="dialog_about_app_short_app_description">このアプリはシャオミのBluetoothイヤホンの詳細な設定を可能にします\n\n主な機能（お持ちのイヤホンのモデルにより多少違います）:\n&#8226; アクティブノイズキャンセリングの設定\n&#8226; 動作によるイヤホンのコントロール\n&#8226; イヤホン紛失の警告\n&#8226; イヤホンのフィットテスト\n&#8226; 複数デバイスへの同時接続\n&#8226; イヤホンのファームウェアアップデート\n&#8226; その他便利な詳細設定機能\n\n他地域への適応: %1$s\nサポート: %2$s</string>
+
+    <!-- Popup dialog -->
+    <string name="dialog_headset_popup_btn_settings_title">設定</string>
+    <string name="dialog_headset_popup_btn_close_title">閉じる</string>
+
+    <!-- Update firmware dialog -->
+    <string name="headset_find_new_version">アップデートが利用可能です</string>
+    <string name="headset_download_fw">アップデートする</string>
+
+    <!-- Device status -->
+    <string name="device_status_connected">接続済み</string>
+    <string name="device_status_disconnected">切断済み</string>
+    <string name="device_status_connecting">接続中…</string>
+</resources>

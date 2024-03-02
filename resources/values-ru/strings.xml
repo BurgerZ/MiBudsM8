@@ -81,8 +81,9 @@
     <string name="device_config_sound_settings_sound_quality_high_quality">Высокое качество</string>
     <string name="device_config_sound_settings_head_tracking">Отслеживание движения головы</string>
     <string name="device_config_sound_settings_head_tracking_summary">Улучшенное ощущение пространства и направления для поддерживаемых аудио и видео</string>
-    <string name="device_config_sound_settings_surround_sound_summary">Увеличение глубины звука при воспроизведения медиа файлов в наушниках (эта функция не будет работать, когда воспроизводится звук %.1f).</string>
-    <string name="device_config_sound_settings_surround_sound_title">Виртуальный объемный звук</string>
+    <string name="device_config_sound_settings_surround_sound_summary">Увеличить глубину звука при воспроизведении аудио и видео через наушники.</string>
+    <string name="device_config_sound_settings_surround_sound_summary_global">Увеличить глубину звука при воспроизведении аудио и видео через наушники. Функция недоступна, когда выбран аудиокодек LDAC.</string>
+    <string name="device_config_sound_settings_surround_sound_title">Иммерсивный звук</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">Расширенные настройки</string>
@@ -298,4 +299,5 @@
     <!-- Device status -->
     <string name="device_status_connected">Подключено</string>
     <string name="device_status_disconnected">Отключено</string>
+    <string name="device_status_connecting">Подключение…</string>
 </resources>

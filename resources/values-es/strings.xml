@@ -15,8 +15,8 @@
     <string name="device_config_battery_right">Derecha</string>
 
     <!-- ANC -->
-    <string name="device_config_anc_on">Cancelación de sonido</string>
-    <string name="device_config_anc_off">Apagar</string>
+    <string name="device_config_anc_on">Cancelación de ruido</string>
+    <string name="device_config_anc_off">Apagado</string>
     <string name="device_config_transparency">Transparencia</string>
 
     <string name="device_config_anc_mode">Modo cancelación de ruido</string>
@@ -82,8 +82,9 @@
     <string name="device_config_sound_settings_sound_quality_high_quality">High quality</string>
     <string name="device_config_sound_settings_head_tracking">Track head movement</string>
     <string name="device_config_sound_settings_head_tracking_summary">Experience enhanced sense of space and direction for supported audio and video</string>
-    <string name="device_config_sound_settings_surround_sound_summary">Enrich sound depth for audio and video playback in headphones (This feature won\'t work when %.1f audio is played)</string>
-    <string name="device_config_sound_settings_surround_sound_title">Virtual immersive sound</string>
+    <string name="device_config_sound_settings_surround_sound_summary">Enriquece la profundidad del sonido para la reproducción de audio y vídeo en auriculares</string>
+    <string name="device_config_sound_settings_surround_sound_summary_global">Enriquece la profundidad del sonido para la reproducción de audio y vídeo en auriculares. Esta función no funcionará cuando LDAC esté activado.</string>
+    <string name="device_config_sound_settings_surround_sound_title">Efectos de sonido envolvente</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">Ajustes adicionales</string>
@@ -299,4 +300,5 @@
     <!-- Device status -->
     <string name="device_status_connected">Conectado</string>
     <string name="device_status_disconnected">Desconectado</string>
+    <string name="device_status_connecting">Conectando…</string>
 </resources>

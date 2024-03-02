@@ -81,8 +81,9 @@
     <string name="device_config_sound_settings_sound_quality_high_quality">高音质</string>
     <string name="device_config_sound_settings_head_tracking">头部追踪</string>
     <string name="device_config_sound_settings_head_tracking_summary">体验支持的音频和视频的增强空间感和方向感</string>
-    <string name="device_config_sound_settings_surround_sound_summary">丰富耳机播放音频和视频的音效深度 (播放 %.1f 音频时, 此功能不起作用)</string>
-    <string name="device_config_sound_settings_surround_sound_title">虚拟沉浸式音效</string>
+    <string name="device_config_sound_settings_surround_sound_summary">增加耳机在影视听时的氛围感</string>
+    <string name="device_config_sound_settings_surround_sound_summary_global">增加耳机在影视听时的氛围感，当打开LDAC编码时，此开关无效</string>
+    <string name="device_config_sound_settings_surround_sound_title">虚拟环绕音效</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">其他设定</string>
@@ -211,7 +212,7 @@
     <string name="prefs_ui_theme_follow_system">跟随系统主题</string>
     <string name="prefs_ui_theme_dark">黑夜</string>
     <string name="prefs_ui_theme_light">白天</string>
-    <string name="prefs_ui_theme_battery">跟隨省电模式选择主題</string>
+    <string name="prefs_ui_theme_battery">跟随省电模式选择主題</string>
 
     <!-- Battery icons style -->
     <string name="prefs_battery_icons_theme">电池图标主题</string>
@@ -296,4 +297,5 @@
     <!-- Device status -->
     <string name="device_status_connected">已连接</string>
     <string name="device_status_disconnected">断开连接</string>
+    <string name="device_status_connecting">连接中…</string>
 </resources>

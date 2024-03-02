@@ -81,8 +81,9 @@
     <string name="device_config_sound_settings_sound_quality_high_quality">High quality</string>
     <string name="device_config_sound_settings_head_tracking">Track head movement</string>
     <string name="device_config_sound_settings_head_tracking_summary">Experience enhanced sense of space and direction for supported audio and video</string>
-    <string name="device_config_sound_settings_surround_sound_summary">Enrich sound depth for audio and video playback in headphones (This feature won\'t work when %.1f audio is played)</string>
-    <string name="device_config_sound_settings_surround_sound_title">Virtual immersive sound</string>
+    <string name="device_config_sound_settings_surround_sound_summary">이어폰에서 오디오 및 동영상 재생 시 소리의 깊이를 더욱 풍부하게</string>
+    <string name="device_config_sound_settings_surround_sound_summary_global">이어폰에서 오디오 및 동영상 재생 시 소리의 깊이를 더욱 풍부하게 합니다. 이 기능은 LDAC 실행 시에는 작동하지 않습니다.</string>
+    <string name="device_config_sound_settings_surround_sound_title">이머시브 사운드 효과</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">추가 설정</string>
@@ -298,4 +299,5 @@
     <!-- Device status -->
     <string name="device_status_connected">연결 됨</string>
     <string name="device_status_disconnected">연결 해제 됨</string>
+    <string name="device_status_connecting">연결 중…</string>
 </resources>

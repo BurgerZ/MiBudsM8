@@ -81,8 +81,9 @@
     <string name="device_config_sound_settings_sound_quality_high_quality">Kiváló minőség</string>
     <string name="device_config_sound_settings_head_tracking">Fejmozgás követése</string>
     <string name="device_config_sound_settings_head_tracking_summary">Fokozott tér- és irányérzet a támogatott hang és videó esetében</string>
-    <string name="device_config_sound_settings_surround_sound_summary">Gazdagabb hangmélység audio- és videolejátszáshoz fejhallgatóban (Ez a funkció nem fog működni, ha %.1f hangot játszanak le)</string>
-    <string name="device_config_sound_settings_surround_sound_title">Virtuális, magával ragadó hangzás</string>
+    <string name="device_config_sound_settings_surround_sound_summary">Növelje a hangmélységet a fülhallgatóban a hang- és videólejátszáshoz</string>
+    <string name="device_config_sound_settings_surround_sound_summary_global">Növelje a hangmélységet a fülhallgatóban a hang- és videólejátszáshoz. Ez a funkció nem működik, ha az LDAC be van kapcsolva.</string>
+    <string name="device_config_sound_settings_surround_sound_title">Lenyűgöző hanghatások</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">További beállítások</string>
@@ -298,4 +299,5 @@
     <!-- Device status -->
     <string name="device_status_connected">Csatlakoztatva</string>
     <string name="device_status_disconnected">Leválasztva</string>
+    <string name="device_status_connecting">Csatlakozás…</string>
 </resources>
