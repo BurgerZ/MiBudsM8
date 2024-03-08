@@ -32,6 +32,7 @@
     <string name="device_config_anc_mode_light">약하게</string>
     <string name="device_config_anc_mode_wind">바람 소리</string>
     <string name="device_config_anc_mode_enhance_voice">음성 향상</string>
+    <string name="device_config_anc_mode_enhance_voice_plus">음성 강화+</string>
     <string name="device_config_anc_mode_transparent">외부 소리 듣기</string>
     <string name="device_config_anc_mode_ambient_sound">주변 소리</string>
     <string name="device_config_transparency_normal">일반</string>
@@ -84,6 +85,12 @@
     <string name="device_config_sound_settings_surround_sound_summary">이어폰에서 오디오 및 동영상 재생 시 소리의 깊이를 더욱 풍부하게</string>
     <string name="device_config_sound_settings_surround_sound_summary_global">이어폰에서 오디오 및 동영상 재생 시 소리의 깊이를 더욱 풍부하게 합니다. 이 기능은 LDAC 실행 시에는 작동하지 않습니다.</string>
     <string name="device_config_sound_settings_surround_sound_title">이머시브 사운드 효과</string>
+    <string name="device_config_sound_settings_sound_mode">오디오 밸런스</string>
+    <string name="device_config_sound_settings_sound_balanced">표준</string>
+    <string name="device_config_sound_settings_sound_treble_boost">고음 강화</string>
+    <string name="device_config_sound_settings_sound_bass_boost">저음 강화</string>
+    <string name="device_config_sound_settings_sound_vocal_enhancement">음성 강화</string>
+    <string name="device_config_sound_settings_sound_personalized">사용자지정</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">추가 설정</string>
@@ -283,6 +290,14 @@
     <string name="notification_headset_right">오른쪽</string>
 
     <!-- Dialogs -->
+    <!-- User Agreement dialog -->
+    <string name="dialog_ua_welcome">Mi Buds M8에 오신 것을 환영합니다!</string>
+    <string name="dialog_ua_permissions">이 앱에는 다음 권한이 필요합니다.</string>
+    <string name="dialog_ua_nearby_permission">근처 기기</string>
+    <string name="dialog_ua_nearby_permission_des">근처 기기 검색 및 연결</string>
+    <string name="privacy_agree_and_continue">동의</string>
+    <string name="quit">나가기</string>
+
     <!-- About App dialog -->
     <string name="dialog_about_app_copyright">개발자</string>
     <string name="dialog_about_app_version">버전</string>

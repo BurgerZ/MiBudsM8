@@ -86,6 +86,12 @@
     <string name="device_config_sound_settings_surround_sound_summary">Enrich sound depth for audio and video playback in earphones.</string>
     <string name="device_config_sound_settings_surround_sound_summary_global">Enrich sound depth for audio and video playback in earphones. This feature won\'t work when LDAC is on.</string>
     <string name="device_config_sound_settings_surround_sound_title">Immersive sound effects</string>
+    <string name="device_config_sound_settings_sound_mode">Audio balance</string>
+    <string name="device_config_sound_settings_sound_balanced">Standard</string>
+    <string name="device_config_sound_settings_sound_treble_boost">Enhance treble</string>
+    <string name="device_config_sound_settings_sound_bass_boost">Enhance bass</string>
+    <string name="device_config_sound_settings_sound_vocal_enhancement">Enhance voice</string>
+    <string name="device_config_sound_settings_sound_personalized">Custom</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">Additional settings</string>
@@ -291,6 +297,14 @@
     <string name="notification_headset_right">Right</string>
 
     <!-- Dialogs -->
+    <!-- User Agreement dialog -->
+    <string name="dialog_ua_welcome">Welcome to Mi Buds M8!</string>
+    <string name="dialog_ua_permissions">This app requires the following permissions:</string>
+    <string name="dialog_ua_nearby_permission">Nearby devices</string>
+    <string name="dialog_ua_nearby_permission_des">discover and connect to nearby devices</string>
+    <string name="privacy_agree_and_continue">Agree</string>
+    <string name="quit">Exit</string>
+
     <!-- About App dialog -->
     <string name="dialog_about_app_copyright">Developer</string>
     <string name="dialog_about_app_version">Version</string>

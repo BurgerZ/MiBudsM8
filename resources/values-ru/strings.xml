@@ -32,6 +32,7 @@
     <string name="device_config_anc_mode_light">Слабое</string>
     <string name="device_config_anc_mode_wind">Ветер</string>
     <string name="device_config_anc_mode_enhance_voice">Усиление голоса</string>
+    <string name="device_config_anc_mode_enhance_voice_plus">Усиление голоса+</string>
     <string name="device_config_anc_mode_transparent">Прозрачность</string>
     <string name="device_config_anc_mode_ambient_sound">Звуки окружения</string>
     <string name="device_config_transparency_normal">По умолчанию</string>
@@ -84,6 +85,12 @@
     <string name="device_config_sound_settings_surround_sound_summary">Увеличить глубину звука при воспроизведении аудио и видео через наушники.</string>
     <string name="device_config_sound_settings_surround_sound_summary_global">Увеличить глубину звука при воспроизведении аудио и видео через наушники. Функция недоступна, когда выбран аудиокодек LDAC.</string>
     <string name="device_config_sound_settings_surround_sound_title">Иммерсивный звук</string>
+    <string name="device_config_sound_settings_sound_mode">Баланс звука</string>
+    <string name="device_config_sound_settings_sound_balanced">По умолчанию</string>
+    <string name="device_config_sound_settings_sound_treble_boost">Усиление высоких частот</string>
+    <string name="device_config_sound_settings_sound_bass_boost">Усиление низких частот</string>
+    <string name="device_config_sound_settings_sound_vocal_enhancement">Усиление голоса</string>
+    <string name="device_config_sound_settings_sound_personalized">Настроить</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">Расширенные настройки</string>
@@ -283,6 +290,14 @@
     <string name="notification_headset_right">Правый</string>
 
     <!-- Dialogs -->
+    <!-- User Agreement dialog -->
+    <string name="dialog_ua_welcome">Добро пожаловать в Mi Buds M8!</string>
+    <string name="dialog_ua_permissions">Этому приложению требуются следующие разрешения:</string>
+    <string name="dialog_ua_nearby_permission">Устройства поблизости</string>
+    <string name="dialog_ua_nearby_permission_des">находить устройства поблизости и подключаться к ним</string>
+    <string name="privacy_agree_and_continue">Согласиться</string>
+    <string name="quit">Выход</string>
+
     <!-- About App dialog -->
     <string name="dialog_about_app_copyright">Разработчик</string>
     <string name="dialog_about_app_version">Версия</string>

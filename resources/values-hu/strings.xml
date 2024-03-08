@@ -32,6 +32,7 @@
     <string name="device_config_anc_mode_light">Lágy</string>
     <string name="device_config_anc_mode_wind">Szél</string>
     <string name="device_config_anc_mode_enhance_voice">Kiemelés</string>
+    <string name="device_config_anc_mode_enhance_voice_plus">Kiemelés+</string>
     <string name="device_config_anc_mode_transparent">Áteresztés</string>
     <string name="device_config_anc_mode_ambient_sound">Környezeti hangok</string>
     <string name="device_config_transparency_normal">Szokásos</string>
@@ -84,6 +85,12 @@
     <string name="device_config_sound_settings_surround_sound_summary">Növelje a hangmélységet a fülhallgatóban a hang- és videólejátszáshoz</string>
     <string name="device_config_sound_settings_surround_sound_summary_global">Növelje a hangmélységet a fülhallgatóban a hang- és videólejátszáshoz. Ez a funkció nem működik, ha az LDAC be van kapcsolva.</string>
     <string name="device_config_sound_settings_surround_sound_title">Lenyűgöző hanghatások</string>
+    <string name="device_config_sound_settings_sound_mode">Audio balance</string>
+    <string name="device_config_sound_settings_sound_balanced">Standard</string>
+    <string name="device_config_sound_settings_sound_treble_boost">Enhance treble</string>
+    <string name="device_config_sound_settings_sound_bass_boost">Enhance bass</string>
+    <string name="device_config_sound_settings_sound_vocal_enhancement">Enhance voice</string>
+    <string name="device_config_sound_settings_sound_personalized">Custom</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">További beállítások</string>
@@ -283,6 +290,14 @@
     <string name="notification_headset_right">Jobb</string>
 
     <!-- Dialogs -->
+    <!-- User Agreement dialog -->
+    <string name="dialog_ua_welcome">Üdvözöljük a Mi Buds M8!</string>
+    <string name="dialog_ua_permissions">Ehhez az alkalmazáshoz a következő engedélyekre van szükség:</string>
+    <string name="dialog_ua_nearby_permission">Közeli eszközök</string>
+    <string name="dialog_ua_nearby_permission_des">közeli eszközök felfedezése, és csatlakozás hozzájuk</string>
+    <string name="privacy_agree_and_continue">Agree</string>
+    <string name="quit">Exit</string>
+
     <!-- About App dialog -->
     <string name="dialog_about_app_copyright">Támogatás</string>
     <string name="dialog_about_app_version">Verzió</string>

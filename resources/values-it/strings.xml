@@ -32,6 +32,7 @@
     <string name="device_config_anc_mode_light">Leggero</string>
     <string name="device_config_anc_mode_wind">Wind</string>
     <string name="device_config_anc_mode_enhance_voice">Migliora la voce</string>
+    <string name="device_config_anc_mode_enhance_voice_plus">Esalta la voce+</string>
     <string name="device_config_anc_mode_transparent">Trasparenza</string>
     <string name="device_config_anc_mode_ambient_sound">Suoni ambientali</string>
     <string name="device_config_transparency_normal">Normale</string>
@@ -84,6 +85,12 @@
     <string name="device_config_sound_settings_surround_sound_summary">Arricchisci la profondità del suono per la riproduzione audio e video negli auricolari</string>
     <string name="device_config_sound_settings_surround_sound_summary_global">Arricchisci la profondità del suono per la riproduzione audio e video negli auricolari. Questa funzionalità non funziona quando LDAC è attivo.</string>
     <string name="device_config_sound_settings_surround_sound_title">Effetti sonori immersivi</string>
+    <string name="device_config_sound_settings_sound_mode">Bilanciamento audio</string>
+    <string name="device_config_sound_settings_sound_balanced">Standard</string>
+    <string name="device_config_sound_settings_sound_treble_boost">Alti migliorati</string>
+    <string name="device_config_sound_settings_sound_bass_boost">Bassi migliorati</string>
+    <string name="device_config_sound_settings_sound_vocal_enhancement">Migliora la voce</string>
+    <string name="device_config_sound_settings_sound_personalized">Personalizzata</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">Altre impostazioni</string>
@@ -283,6 +290,14 @@
     <string name="notification_headset_right">Destra</string>
 
     <!-- Dialogs -->
+    <!-- User Agreement dialog -->
+    <string name="dialog_ua_welcome">Benvenuto in Mi Buds M8!</string>
+    <string name="dialog_ua_permissions">Questa app richiede le seguenti autorizzazioni:</string>
+    <string name="dialog_ua_nearby_permission">Dispositivi nelle vicinanze</string>
+    <string name="dialog_ua_nearby_permission_des">rilevare e connettersi a dispositivi nelle vicinanze</string>
+    <string name="privacy_agree_and_continue">Accetta</string>
+    <string name="quit">Esci</string>
+
     <!-- About App dialog -->
     <string name="dialog_about_app_copyright">Sviluppatore</string>
     <string name="dialog_about_app_version">Versione</string>

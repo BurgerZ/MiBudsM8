@@ -31,7 +31,8 @@
     <string name="device_config_anc_mode_daily">Na co dzień</string>
     <string name="device_config_anc_mode_light">Łagodna</string>
     <string name="device_config_anc_mode_wind">Wiatr</string>
-    <string name="device_config_anc_mode_enhance_voice">Wzmocnienie głosu</string>
+    <string name="device_config_anc_mode_enhance_voice">Popraw głos</string>
+    <string name="device_config_anc_mode_enhance_voice_plus">Popraw głos+</string>
     <string name="device_config_anc_mode_transparent">Przejrzystość</string>
     <string name="device_config_anc_mode_ambient_sound">Dźwięki otoczenia</string>
     <string name="device_config_transparency_normal">Zwykły</string>
@@ -84,6 +85,12 @@
     <string name="device_config_sound_settings_surround_sound_summary">Wzbogać głębię dźwięku dla odtwarzania filmów i dźwięku na słuchawkach</string>
     <string name="device_config_sound_settings_surround_sound_summary_global">Wzbogać głębię dźwięku dla odtwarzania filmów i dźwięku na słuchawkach. Funkcja nie działa, gdy LDAC jest włączone.</string>
     <string name="device_config_sound_settings_surround_sound_title">Efekty dźwięku przestrzennego</string>
+    <string name="device_config_sound_settings_sound_mode">Kompensacja dźwięku</string>
+    <string name="device_config_sound_settings_sound_balanced">Standardowa</string>
+    <string name="device_config_sound_settings_sound_treble_boost">Wzmacnia wysokie częstotliwości</string>
+    <string name="device_config_sound_settings_sound_bass_boost">Wzmacnia niskie częstotliwości</string>
+    <string name="device_config_sound_settings_sound_vocal_enhancement">Popraw głos</string>
+    <string name="device_config_sound_settings_sound_personalized">Własne</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">Ustawienia dodatkowe</string>
@@ -283,6 +290,14 @@
     <string name="notification_headset_right">Prawa</string>
 
     <!-- Dialogs -->
+    <!-- User Agreement dialog -->
+    <string name="dialog_ua_welcome">Witamy w aplikacji Mi Buds M8!</string>
+    <string name="dialog_ua_permissions">Ta aplikacja wymaga następujących uprawnień:</string>
+    <string name="dialog_ua_nearby_permission">Urządzenia w pobliżu</string>
+    <string name="dialog_ua_nearby_permission_des">wykrywanie urządzeń w pobliżu i łączenie się z nimi</string>
+    <string name="privacy_agree_and_continue">Zgadzam się</string>
+    <string name="quit">Wyjście</string>
+
     <!-- About App dialog -->
     <string name="dialog_about_app_copyright">Developer</string>
     <string name="dialog_about_app_version">Wersja</string>

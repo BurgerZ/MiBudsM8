@@ -31,6 +31,7 @@
     <string name="device_config_anc_mode_light">弱</string>
     <string name="device_config_anc_mode_wind">風音</string>
     <string name="device_config_anc_mode_enhance_voice">音声強調</string>
+    <string name="device_config_anc_mode_enhance_voice_plus">音声増幅+</string>
     <string name="device_config_anc_mode_transparent">外音取り込み</string>
     <string name="device_config_anc_mode_ambient_sound">外音取り込み</string>
     <string name="device_config_transparency_normal">普通</string>
@@ -83,6 +84,12 @@
     <string name="device_config_sound_settings_surround_sound_summary">イヤホンでのオーディオやビデオ再生時の音の深みを豊かにする</string>
     <string name="device_config_sound_settings_surround_sound_summary_global">イヤホンでのオーディオやビデオ再生時の音の深みを豊かにします。LDACがオンの場合はこの機能は使用できません。</string>
     <string name="device_config_sound_settings_surround_sound_title">イマーシブサウンド効果</string>
+    <string name="device_config_sound_settings_sound_mode">オーディオバランス</string>
+    <string name="device_config_sound_settings_sound_balanced">標準</string>
+    <string name="device_config_sound_settings_sound_treble_boost">高音強化</string>
+    <string name="device_config_sound_settings_sound_bass_boost">低音強化</string>
+    <string name="device_config_sound_settings_sound_vocal_enhancement">音声増幅</string>
+    <string name="device_config_sound_settings_sound_personalized">カスタム</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">追加設定</string>
@@ -278,6 +285,14 @@
     <string name="notification_headset_right">右</string>
 
     <!-- Dialogs -->
+    <!-- User Agreement dialog -->
+    <string name="dialog_ua_welcome">Mi Buds M8 へようこそ！</string>
+    <string name="dialog_ua_permissions">このアプリには次の権限が必要です。</string>
+    <string name="dialog_ua_nearby_permission">付近のデバイス</string>
+    <string name="dialog_ua_nearby_permission_des">付近のデバイスの\\n検出と接続</string>
+    <string name="privacy_agree_and_continue">同意</string>
+    <string name="quit">終了</string>
+
     <!-- About App dialog -->
     <string name="dialog_about_app_copyright">開発者</string>
     <string name="dialog_about_app_version">アプリのバージョン</string>

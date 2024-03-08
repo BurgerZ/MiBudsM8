@@ -31,7 +31,8 @@
     <string name="device_config_anc_mode_daily">Täglich</string>
     <string name="device_config_anc_mode_light">Leicht</string>
     <string name="device_config_anc_mode_wind">Wind</string>
-    <string name="device_config_anc_mode_enhance_voice">Verbessern Sie Ihre Stimme</string>
+    <string name="device_config_anc_mode_enhance_voice">Stimme verbessern</string>
+    <string name="device_config_anc_mode_enhance_voice_plus">Stimme verstärken+</string>
     <string name="device_config_anc_mode_transparent">Transparenz</string>
     <string name="device_config_anc_mode_ambient_sound">Umgebungsgeräusche</string>
     <string name="device_config_transparency_normal">Normal</string>
@@ -84,6 +85,12 @@
     <string name="device_config_sound_settings_surround_sound_summary">Erweitere die Klangtiefe für die Audio- und Videowiedergabe in Kopfhörern</string>
     <string name="device_config_sound_settings_surround_sound_summary_global">Erweitere die Klangtiefe bei der Audio- und Videowiedergabe in Kopfhörern. Diese Funktion funktioniert nicht, wenn LDAC eingeschaltet ist.</string>
     <string name="device_config_sound_settings_surround_sound_title">Immersive Soundeffekte</string>
+    <string name="device_config_sound_settings_sound_mode">Audio-Balance</string>
+    <string name="device_config_sound_settings_sound_balanced">Standard</string>
+    <string name="device_config_sound_settings_sound_treble_boost">Höhen verstärken</string>
+    <string name="device_config_sound_settings_sound_bass_boost">Bass verstärken</string>
+    <string name="device_config_sound_settings_sound_vocal_enhancement">Stimme verstärken</string>
+    <string name="device_config_sound_settings_sound_personalized">Benutzerdefiniert</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">Zusätzliche Einstellungen</string>
@@ -283,6 +290,14 @@
     <string name="notification_headset_right">Rechts</string>
 
     <!-- Dialogs -->
+    <!-- User Agreement dialog -->
+    <string name="dialog_ua_welcome">Willkommen bei Mi Buds M8!</string>
+    <string name="dialog_ua_permissions">Diese App erfordert die folgenden Berechtigungen:</string>
+    <string name="dialog_ua_nearby_permission">Geräte in der Nähe</string>
+    <string name="dialog_ua_nearby_permission_des">Geräte in der Nähe finden und eine Verbindung herstellen</string>
+    <string name="privacy_agree_and_continue">Zustimmen</string>
+    <string name="quit">Beenden</string>
+
     <!-- About App dialog -->
     <string name="dialog_about_app_copyright">Entwickler</string>
     <string name="dialog_about_app_version">Version</string>

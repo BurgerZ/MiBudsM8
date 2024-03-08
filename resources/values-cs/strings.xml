@@ -32,6 +32,7 @@
     <string name="device_config_anc_mode_light">Slabé</string>
     <string name="device_config_anc_mode_wind">Vítr</string>
     <string name="device_config_anc_mode_enhance_voice">Vylepšení hlasu</string>
+    <string name="device_config_anc_mode_enhance_voice_plus">Vylepšení hlasu+</string>
     <string name="device_config_anc_mode_transparent">Transparentnost</string>
     <string name="device_config_anc_mode_ambient_sound">Okolní zvuky</string>
     <string name="device_config_transparency_normal">Běžné</string>
@@ -84,6 +85,12 @@
     <string name="device_config_sound_settings_surround_sound_summary">Vylepšení hloubky zvuku při přehrávání zvuku a videa ve sluchátkách</string>
     <string name="device_config_sound_settings_surround_sound_summary_global">Vylepšení hloubky zvuku při přehrávání zvuku a videa ve sluchátkách. Tato funkce nefunguje, pokud je zapnuto LDAC.</string>
     <string name="device_config_sound_settings_surround_sound_title">Efekty prostorového zvuku</string>
+    <string name="device_config_sound_settings_sound_mode">Vyvážení zvuku</string>
+    <string name="device_config_sound_settings_sound_balanced">Normální</string>
+    <string name="device_config_sound_settings_sound_treble_boost">Zvýraznění výšek</string>
+    <string name="device_config_sound_settings_sound_bass_boost">Zvýraznění basů</string>
+    <string name="device_config_sound_settings_sound_vocal_enhancement">Zvýraznění hlasu</string>
+    <string name="device_config_sound_settings_sound_personalized">Vlastní</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">Další nastavení</string>
@@ -283,6 +290,14 @@
     <string name="notification_headset_right">Right</string>
 
     <!-- Dialogs -->
+    <!-- User Agreement dialog -->
+    <string name="dialog_ua_welcome">Vítejte v aplikaci Mi Buds M8!</string>
+    <string name="dialog_ua_permissions">Tato aplikace vyžaduje následující oprávnění:</string>
+    <string name="dialog_ua_nearby_permission">Zařízení v okolí</string>
+    <string name="dialog_ua_nearby_permission_des">objevování a připojení k zařízením v okolí</string>
+    <string name="privacy_agree_and_continue">Souhlasím</string>
+    <string name="quit">Ukončit</string>
+
     <!-- About App dialog -->
     <string name="dialog_about_app_copyright">Developer</string>
     <string name="dialog_about_app_version">Version</string>

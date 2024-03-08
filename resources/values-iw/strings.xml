@@ -32,6 +32,7 @@
     <string name="device_config_anc_mode_light">קל</string>
     <string name="device_config_anc_mode_wind">רוח</string>
     <string name="device_config_anc_mode_enhance_voice">שפר את הקול</string>
+    <string name="device_config_anc_mode_enhance_voice_plus">הגברת קול+</string>
     <string name="device_config_anc_mode_transparent">מצב שקיפות</string>
     <string name="device_config_anc_mode_ambient_sound">צלילים מהסביבה</string>
     <string name="device_config_transparency_normal">רגיל</string>
@@ -84,6 +85,12 @@
     <string name="device_config_sound_settings_surround_sound_summary">העשרת עומק הצליל עבור ניגון שמע ווידאו באוזניות.</string>
     <string name="device_config_sound_settings_surround_sound_summary_global">העשרת עומק הצליל עבור ניגון שמע ווידאו באוזניות. תכונה זו לא תעבוד כאשר LDAC פועל.</string>
     <string name="device_config_sound_settings_surround_sound_title">אפקטים של צליל מקיף</string>
+    <string name="device_config_sound_settings_sound_mode">מאזן שמע</string>
+    <string name="device_config_sound_settings_sound_balanced">רגיל</string>
+    <string name="device_config_sound_settings_sound_treble_boost">הגברת צלילים גבוהים</string>
+    <string name="device_config_sound_settings_sound_bass_boost">הגברת בס</string>
+    <string name="device_config_sound_settings_sound_vocal_enhancement">הגברת קול</string>
+    <string name="device_config_sound_settings_sound_personalized">בהתאמה אישית</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">הגדרות נוספות</string>
@@ -283,6 +290,14 @@
     <string name="notification_headset_right">ימין</string>
 
     <!-- Dialogs -->
+    <!-- User Agreement dialog -->
+    <string name="dialog_ua_welcome">ברוכים הבאים Mi Buds M8!</string>
+    <string name="dialog_ua_permissions">אפליקציה זו דורשת את ההרשאות הבאות:</string>
+    <string name="dialog_ua_nearby_permission">מכשירים בקרבת מקום</string>
+    <string name="dialog_ua_nearby_permission_des">איתור מכשירים שנמצאים בקרבת מקום והתחברות אליהם</string>
+    <string name="privacy_agree_and_continue">מסכים/ה</string>
+    <string name="quit">יציאה</string>
+
     <!-- About App dialog -->
     <string name="dialog_about_app_copyright">מפתח</string>
     <string name="dialog_about_app_version">גירסה</string>

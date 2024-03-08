@@ -32,6 +32,7 @@
     <string name="device_config_anc_mode_light">輕度</string>
     <string name="device_config_anc_mode_wind">風</string>
     <string name="device_config_anc_mode_enhance_voice">人聲增強</string>
+    <string name="device_config_anc_mode_enhance_voice_plus">人聲增強+</string>
     <string name="device_config_anc_mode_transparent">通透模式</string>
     <string name="device_config_anc_mode_ambient_sound">環境音</string>
     <string name="device_config_transparency_normal">標準通透</string>
@@ -84,6 +85,12 @@
     <string name="device_config_sound_settings_surround_sound_summary">增加耳機在影視聽時的氛圍感</string>
     <string name="device_config_sound_settings_surround_sound_summary_global">增加耳機在影視聽時的氛圍感，當打開LDAC編碼時，此開關無效</string>
     <string name="device_config_sound_settings_surround_sound_title">虛擬環繞音效</string>
+    <string name="device_config_sound_settings_sound_mode">音效模式</string>
+    <string name="device_config_sound_settings_sound_balanced">預設</string>
+    <string name="device_config_sound_settings_sound_treble_boost">高音增強</string>
+    <string name="device_config_sound_settings_sound_bass_boost">低音增強</string>
+    <string name="device_config_sound_settings_sound_vocal_enhancement">人聲增強</string>
+    <string name="device_config_sound_settings_sound_personalized">自訂</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">其他設定</string>
@@ -283,6 +290,14 @@
     <string name="notification_headset_right">右邊</string>
 
     <!-- Dialogs -->
+    <!-- User Agreement dialog -->
+    <string name="dialog_ua_welcome">歡迎您使用Mi Buds M8!</string>
+    <string name="dialog_ua_permissions">此應用程式需要以下權限：</string>
+    <string name="dialog_ua_nearby_permission">鄰近裝置</string>
+    <string name="dialog_ua_nearby_permission_des">探索附近的裝置並進行連線</string>
+    <string name="privacy_agree_and_continue">同意並繼續</string>
+    <string name="quit">退出</string>
+
     <!-- About App dialog -->
     <string name="dialog_about_app_copyright">開發商</string>
     <string name="dialog_about_app_version">版本</string>
