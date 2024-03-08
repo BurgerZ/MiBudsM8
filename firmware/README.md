@@ -298,3 +298,16 @@ If you have any firmware files for earbuds not listed here, please, contact me t
 - Optimize connection issues
 - Optimize ANC experience
 - Improve spatial audio effects
+
+## Redmi Buds 5 Pro Gaming
+
+| Region |       Color        |  VID  |  PID  |
+| :----: | :----------------: | :---: | :---: |
+| China  | black+orange       | 2717  | 506f  |
+
+### 4.2.8.8 
+**File name:** m8_ota_image_v4.2.8.8_redmibuds5pro_gaming.bin  
+**MD5:** a9e5943ea1ca6096ee00dd38b6b64bbe  
+**Comment:** original image  
+**Changelog:**  
+- Improve user experience
