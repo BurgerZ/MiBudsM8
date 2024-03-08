@@ -9,10 +9,12 @@
 
 
 ## Download
-**Mi Buds M8** can be downloaded on [Google Play Store](https://play.google.com/store/apps/details?id=bz.zaa.mibudsm8) or [Huawei App Gallery](https://appgallery.huawei.com/app/C106054801). 
+
+<a href="https://play.google.com/store/apps/details?id=bz.zaa.mibudsm8"><img alt="Get it on Google Play" src="googleplay-black-en.svg" width="135" height="40"/></a>
+<a href="https://appgallery.huawei.com/app/C106054801"><img alt="Get it on Huawei AppGallery" src="appgallery-black-en.svg" width="135" height="40"/></a>
 
 Also you can join discussions on [Telegram](https://t.me/mibudsm8).
 
 
 ## Copyright
-Mi Buds M8 © 2016-2022 zaa.bz, **Andrei Zhukouski**
+Mi Buds M8 © 2016-2024 zaa.bz, **Andrei Zhukouski**
