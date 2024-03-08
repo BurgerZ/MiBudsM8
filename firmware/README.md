@@ -7,6 +7,10 @@ This directory contains firmware files for different Xiaomi Bluetooth TWS earbud
  - FlipBuds Pro
  - Redmi Buds 4 Pro
  - Xiaomi Buds 4 Pro
+ - Redmi Buds 5
+ - Redmi Buds 5 AAPE
+ - Redmi Buds 5 Pro
+ - Redmi Buds 5 Pro Gaming
 
 If you have any firmware files for earbuds not listed here, please, contact me to add the to the list. 
 
