@@ -161,6 +161,7 @@
     <string name="device_config_firmware">Firmware</string>
     <string name="device_config_firmware_not_connected">Collega gli auricolari per visualizzare la versione del firmware</string>
     <string name="device_config_firmware_up_to_date">Il firmware è aggiornato</string>
+    <string name="device_config_firmware_current_version">Versione corrente: %1$s</string>
 
     <string name="device_config_firmware_downloading">Download</string>
     <string name="device_config_firmware_downloading_dots">Download in corso…</string>
@@ -249,6 +250,10 @@
     <string name="widget_config_title">Configurazione Widget</string>
     <string name="widget_config_background_title">Background</string>
     <string name="widget_config_use_background_title">Mostra lo sfondo del widget</string>
+    <string name="widget_config_layout_title">Disposizione dei widget</string>
+    <string name="widget_config_layout_horizontal">Orizzontale</string>
+    <string name="widget_config_layout_vertical">Verticale</string>
+    <string name="widget_config_show_device_name_title">Mostra il nome degli auricolari</string>
     <string name="widget_config_background_color_title">Colore di sfondo</string>
     <string name="widget_config_font_title">Fonts</string>
     <string name="widget_config_font_color_title">Font color</string>

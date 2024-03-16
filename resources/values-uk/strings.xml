@@ -161,6 +161,7 @@
     <string name="device_config_firmware">Прошивка</string>
     <string name="device_config_firmware_not_connected">Підключіть навушники для перегляду версії ПЗ</string>
     <string name="device_config_firmware_up_to_date">Оновлення не потрібне</string>
+    <string name="device_config_firmware_current_version">Поточна версія: %1$s</string>
 
     <string name="device_config_firmware_downloading">Завантаження…</string>
     <string name="device_config_firmware_downloading_dots">Зачекайте. Йде завантаження…</string>
@@ -249,6 +250,10 @@
     <string name="widget_config_title">Конфігурація віджета</string>
     <string name="widget_config_background_title">Фон</string>
     <string name="widget_config_use_background_title">Показати фон віджета</string>
+    <string name="widget_config_layout_title">Макет віджета</string>
+    <string name="widget_config_layout_horizontal">Горизонтальний</string>
+    <string name="widget_config_layout_vertical">Вертикальний</string>
+    <string name="widget_config_show_device_name_title">Показати назву навушників</string>
     <string name="widget_config_background_color_title">Колір фону</string>
     <string name="widget_config_font_title">Шрифти</string>
     <string name="widget_config_font_color_title">Колір шрифту</string>

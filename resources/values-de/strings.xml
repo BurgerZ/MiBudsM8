@@ -161,6 +161,7 @@
     <string name="device_config_firmware">Firmware</string>
     <string name="device_config_firmware_not_connected">Kopfhörer anschließen, um Firmware-Version anzuzeigen</string>
     <string name="device_config_firmware_up_to_date">Firmware ist auf dem neuesten Stand</string>
+    <string name="device_config_firmware_current_version">Aktuelle Version: %1$s</string>
 
     <string name="device_config_firmware_downloading">Herunterladen</string>
     <string name="device_config_firmware_downloading_dots">Herunterladen…</string>
@@ -249,6 +250,10 @@
     <string name="widget_config_title">Widget-Konfiguration</string>
     <string name="widget_config_background_title">Background</string>
     <string name="widget_config_use_background_title">Widget-Hintergrund anzeigen</string>
+    <string name="widget_config_layout_title">Widget-Layout</string>
+    <string name="widget_config_layout_horizontal">Horizontal</string>
+    <string name="widget_config_layout_vertical">Vertikal</string>
+    <string name="widget_config_show_device_name_title">Namen der Ohrhörer anzeigen</string>
     <string name="widget_config_background_color_title">Hintergrundfarbe</string>
     <string name="widget_config_font_title">Fonts</string>
     <string name="widget_config_font_color_title">Font color</string>

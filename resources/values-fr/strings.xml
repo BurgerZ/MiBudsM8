@@ -162,6 +162,7 @@
     <string name="device_config_firmware">Firmware</string>
     <string name="device_config_firmware_not_connected">Connecter les écouteurs pour voir la version du firmware</string>
     <string name="device_config_firmware_up_to_date">Le firmware est à jour</string>
+    <string name="device_config_firmware_current_version">Version actuelle : %1$s</string>
 
     <string name="device_config_firmware_downloading">Téléchargement</string>
     <string name="device_config_firmware_downloading_dots">Téléchargement…</string>
@@ -250,6 +251,10 @@
     <string name="widget_config_title">Configuration du widget</string>
     <string name="widget_config_background_title">Background</string>
     <string name="widget_config_use_background_title">"Afficher l'arrière-plan du widget"</string>
+    <string name="widget_config_layout_title">Disposition des widgets</string>
+    <string name="widget_config_layout_horizontal">Horizontal</string>
+    <string name="widget_config_layout_vertical">Verticale</string>
+    <string name="widget_config_show_device_name_title">Afficher le nom des écouteurs</string>
     <string name="widget_config_background_color_title">"Couleur de l'arrière plan"</string>
     <string name="widget_config_font_title">Fonts</string>
     <string name="widget_config_font_color_title">Font color</string>

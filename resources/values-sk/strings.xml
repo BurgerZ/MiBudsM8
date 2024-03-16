@@ -161,6 +161,7 @@
     <string name="device_config_firmware">Firmvér</string>
     <string name="device_config_firmware_not_connected">Pripojením slúchadiel zobrazíte verziu firmvéru</string>
     <string name="device_config_firmware_up_to_date">Firmvér je aktuálny</string>
+    <string name="device_config_firmware_current_version">Current version: %1$s</string>
 
     <string name="device_config_firmware_downloading">Sťahovanie</string>
     <string name="device_config_firmware_downloading_dots">Sťahovanie…</string>
@@ -249,6 +250,10 @@
     <string name="widget_config_title">Nastavenie widgetu</string>
     <string name="widget_config_background_title">Background</string>
     <string name="widget_config_use_background_title">Zobraziť pozadie widgetu</string>
+    <string name="widget_config_layout_title">Rozloženie miniaplikácií</string>
+    <string name="widget_config_layout_horizontal">Horizontálne</string>
+    <string name="widget_config_layout_vertical">Vertikálne</string>
+    <string name="widget_config_show_device_name_title">Zobraziť názov slúchadiel</string>
     <string name="widget_config_background_color_title">Farba pozadia</string>
     <string name="widget_config_font_title">Fonts</string>
     <string name="widget_config_font_color_title">Font color</string>

@@ -161,6 +161,7 @@
     <string name="device_config_firmware">Firmware</string>
     <string name="device_config_firmware_not_connected">Connect earphones to view firmware version</string>
     <string name="device_config_firmware_up_to_date">Firmware is up to date</string>
+    <string name="device_config_firmware_current_version">Current version: %1$s</string>
 
     <string name="device_config_firmware_downloading">Downloading</string>
     <string name="device_config_firmware_downloading_dots">Downloading…</string>
@@ -253,6 +254,10 @@
     <string name="widget_config_title">Widget config</string>
     <string name="widget_config_background_title">Background</string>
     <string name="widget_config_use_background_title">Show widget background</string>
+    <string name="widget_config_layout_title">Widget layout</string>
+    <string name="widget_config_layout_horizontal">Horizontal</string>
+    <string name="widget_config_layout_vertical">Vertical</string>
+    <string name="widget_config_show_device_name_title">Show earbuds name</string>
     <string name="widget_config_background_color_title">Background color</string>
     <string name="widget_config_font_title">Fonts</string>
     <string name="widget_config_font_color_title">Font color</string>

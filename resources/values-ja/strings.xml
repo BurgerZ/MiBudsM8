@@ -159,6 +159,7 @@
     <string name="device_config_firmware">ファームウェア</string>
     <string name="device_config_firmware_not_connected">ファームウェアのバージョンを確認するためにイヤホンを接続してください</string>
     <string name="device_config_firmware_up_to_date">ファームウェアは最新状態です</string>
+    <string name="device_config_firmware_current_version">現在のバージョン：%1$s</string>
 
     <string name="device_config_firmware_downloading">ダウンロード中</string>
     <string name="device_config_firmware_downloading_dots">ダウンロード中…</string>
@@ -245,6 +246,10 @@
     <string name="widget_config_title">ウィジェット設定</string>
     <string name="widget_config_background_title">背景</string>
     <string name="widget_config_use_background_title">背景を表示する</string>
+    <string name="widget_config_layout_title">ウィジェットのレイアウト</string>
+    <string name="widget_config_layout_horizontal">水平</string>
+    <string name="widget_config_layout_vertical">垂直</string>
+    <string name="widget_config_show_device_name_title">イヤホン名を表示</string>
     <string name="widget_config_background_color_title">背景の色</string>
     <string name="widget_config_font_title">フォント</string>
     <string name="widget_config_font_color_title">文字の色</string>

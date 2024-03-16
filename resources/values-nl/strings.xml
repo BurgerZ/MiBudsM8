@@ -161,6 +161,7 @@
     <string name="device_config_firmware">Controleer op updates</string>
     <string name="device_config_firmware_not_connected">Sluit oortelefoons aan om de firmwareversie te bekijken</string>
     <string name="device_config_firmware_up_to_date">Firmware is up-to-date</string>
+    <string name="device_config_firmware_current_version">Huidige versie: %1$s</string>
 
     <string name="device_config_firmware_downloading">Downloaden</string>
     <string name="device_config_firmware_downloading_dots">Downloaden…</string>
@@ -249,6 +250,10 @@
     <string name="widget_config_title">Widget configuratie</string>
     <string name="widget_config_background_title">Background</string>
     <string name="widget_config_use_background_title">Show widget background</string>
+    <string name="widget_config_layout_title">Widget-indeling</string>
+    <string name="widget_config_layout_horizontal">Horizontaal</string>
+    <string name="widget_config_layout_vertical">Verticaal</string>
+    <string name="widget_config_show_device_name_title">Naam oordopjes weergeven</string>
     <string name="widget_config_background_color_title">Background color</string>
     <string name="widget_config_font_title">Fonts</string>
     <string name="widget_config_font_color_title">Font color</string>

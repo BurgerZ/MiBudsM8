@@ -161,6 +161,7 @@
     <string name="device_config_firmware">Прошивка</string>
     <string name="device_config_firmware_not_connected">Подключите наушники для просмотра версии ПО</string>
     <string name="device_config_firmware_up_to_date">Обновление не требуется</string>
+    <string name="device_config_firmware_current_version">Текущая версия: %1$s</string>
 
     <string name="device_config_firmware_downloading">Загрузка…</string>
     <string name="device_config_firmware_downloading_dots">Подождите. Идет загрузка…</string>
@@ -249,6 +250,10 @@
     <string name="widget_config_title">Настройки виджета</string>
     <string name="widget_config_background_title">Фон</string>
     <string name="widget_config_use_background_title">Показывать фон виджета</string>
+    <string name="widget_config_layout_title">Макет виджета</string>
+    <string name="widget_config_layout_horizontal">Горизонтальный</string>
+    <string name="widget_config_layout_vertical">Вертикальный</string>
+    <string name="widget_config_show_device_name_title">Показывать имя наушников</string>
     <string name="widget_config_background_color_title">Цвет фона</string>
     <string name="widget_config_font_title">Шрифты</string>
     <string name="widget_config_font_color_title">Цвет шрифта</string>

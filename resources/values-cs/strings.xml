@@ -161,6 +161,7 @@
     <string name="device_config_firmware">Kontrola aktualizací</string>
     <string name="device_config_firmware_not_connected">Pro zobrazení verze firmwaru nejprve připojte sluchátka</string>
     <string name="device_config_firmware_up_to_date">Verze firmwaru je aktuální</string>
+    <string name="device_config_firmware_current_version">Aktuální verze: %1$s</string>
 
     <string name="device_config_firmware_downloading">Stahování</string>
     <string name="device_config_firmware_downloading_dots">Stahování…</string>
@@ -249,6 +250,10 @@
     <string name="widget_config_title">Nastavení widgetu</string>
     <string name="widget_config_background_title">Background</string>
     <string name="widget_config_use_background_title">Zobrazit pozadí widgetu</string>
+    <string name="widget_config_layout_title">Rozložení widgetu</string>
+    <string name="widget_config_layout_horizontal">Horizontální</string>
+    <string name="widget_config_layout_vertical">Vertikální</string>
+    <string name="widget_config_show_device_name_title">Zobrazit název sluchátek</string>
     <string name="widget_config_background_color_title">Barva pozadí</string>
     <string name="widget_config_font_title">Fonts</string>
     <string name="widget_config_font_color_title">Font color</string>

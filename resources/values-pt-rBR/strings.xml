@@ -161,6 +161,7 @@
     <string name="device_config_firmware">Firmware</string>
     <string name="device_config_firmware_not_connected">Conecte seus fones para verificar a versão do firmware</string>
     <string name="device_config_firmware_up_to_date">O firmware está na versão mais atual</string>
+    <string name="device_config_firmware_current_version">Versão atual: %1$s</string>
 
     <string name="device_config_firmware_downloading">Baixando</string>
     <string name="device_config_firmware_downloading_dots">Baixando…</string>
@@ -249,6 +250,10 @@
     <string name="widget_config_title">Configurações do widget</string>
     <string name="widget_config_background_title">Background</string>
     <string name="widget_config_use_background_title">Mostrar fundo do widget</string>
+    <string name="widget_config_layout_title">Layout de widget</string>
+    <string name="widget_config_layout_horizontal">Horizontal</string>
+    <string name="widget_config_layout_vertical">Vertical</string>
+    <string name="widget_config_show_device_name_title">Mostrar nome dos fones de ouvido</string>
     <string name="widget_config_background_color_title">Cor de fundo</string>
     <string name="widget_config_font_title">Fonts</string>
     <string name="widget_config_font_color_title">Font color</string>

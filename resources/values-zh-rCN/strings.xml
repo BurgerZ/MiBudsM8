@@ -162,6 +162,7 @@
     <string name="device_config_firmware">固件版本</string>
     <string name="device_config_firmware_not_connected">连接耳机查看固件版本</string>
     <string name="device_config_firmware_up_to_date">固件版本已是最新版</string>
+    <string name="device_config_firmware_current_version">当前版本%1$s</string>
 
     <string name="device_config_firmware_downloading">下载中</string>
     <string name="device_config_firmware_downloading_dots">下载中…</string>
@@ -248,6 +249,10 @@
     <string name="widget_config_title">小组件设定</string>
     <string name="widget_config_background_title">组件背景</string>
     <string name="widget_config_use_background_title">展示小组件背景</string>
+    <string name="widget_config_layout_title">小部件布局</string>
+    <string name="widget_config_layout_horizontal">水平的</string>
+    <string name="widget_config_layout_vertical">垂直的</string>
+    <string name="widget_config_show_device_name_title">显示耳机名称</string>
     <string name="widget_config_background_color_title">背景顏色</string>
     <string name="widget_config_font_title">字体</string>
     <string name="widget_config_font_color_title">字体颜色</string>

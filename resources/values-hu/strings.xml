@@ -161,6 +161,7 @@
     <string name="device_config_firmware">Firmware</string>
     <string name="device_config_firmware_not_connected">Csatlakoztassa a fülhallgatót a firmware verziójának megtekintéséhez</string>
     <string name="device_config_firmware_up_to_date">A firmware naprakész</string>
+    <string name="device_config_firmware_current_version">Current version: %1$s</string>
 
     <string name="device_config_firmware_downloading">Letöltés</string>
     <string name="device_config_firmware_downloading_dots">Letöltés…</string>
@@ -249,6 +250,10 @@
     <string name="widget_config_title">Modul beállítása</string>
     <string name="widget_config_background_title">Háttér</string>
     <string name="widget_config_use_background_title">Widget háttér megjelenítése</string>
+    <string name="widget_config_layout_title">Widget elrendezés</string>
+    <string name="widget_config_layout_horizontal">Vízszintes</string>
+    <string name="widget_config_layout_vertical">Függőleges</string>
+    <string name="widget_config_show_device_name_title">A fülhallgató nevének megjelenítése</string>
     <string name="widget_config_background_color_title">Háttér színe</string>
     <string name="widget_config_font_title">Betűtípus</string>
     <string name="widget_config_font_color_title">Betűk színe</string>

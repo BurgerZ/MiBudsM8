@@ -161,6 +161,7 @@
     <string name="device_config_firmware">固件版本</string>
     <string name="device_config_firmware_not_connected">連接耳機查看固件版本</string>
     <string name="device_config_firmware_up_to_date">固件版本已是最新版</string>
+    <string name="device_config_firmware_current_version">目前版本%1$s</string>
 
     <string name="device_config_firmware_downloading">下載中</string>
     <string name="device_config_firmware_downloading_dots">下載中…</string>
@@ -249,6 +250,10 @@
     <string name="widget_config_title">小工具設定</string>
     <string name="widget_config_background_title">Background</string>
     <string name="widget_config_use_background_title">顯示小工具背景</string>
+    <string name="widget_config_layout_title">小工具佈局</string>
+    <string name="widget_config_layout_horizontal">水平的</string>
+    <string name="widget_config_layout_vertical">垂直的</string>
+    <string name="widget_config_show_device_name_title">顯示耳機名稱</string>
     <string name="widget_config_background_color_title">背景顏色</string>
     <string name="widget_config_font_title">Fonts</string>
     <string name="widget_config_font_color_title">Font color</string>

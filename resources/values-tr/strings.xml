@@ -161,6 +161,7 @@
     <string name="device_config_firmware">Bellenim</string>
     <string name="device_config_firmware_not_connected">Yazılım sürümünü görüntülemek için kulaklıkları bağlayın</string>
     <string name="device_config_firmware_up_to_date">Cihaz yazılımı güncel</string>
+    <string name="device_config_firmware_current_version">Mevcut sürüm: %1$s</string>
 
     <string name="device_config_firmware_downloading">Güncelleme indiriliyor…</string>
     <string name="device_config_firmware_downloading_dots">Güncelleme indiriliyor…</string>
@@ -249,6 +250,10 @@
     <string name="widget_config_title">Widget yapılandırması</string>
     <string name="widget_config_background_title">Background</string>
     <string name="widget_config_use_background_title">Widget arka planını göster</string>
+    <string name="widget_config_layout_title">Widget düzeni</string>
+    <string name="widget_config_layout_horizontal">Yatay</string>
+    <string name="widget_config_layout_vertical">Dikey</string>
+    <string name="widget_config_show_device_name_title">Kulaklık adını göster</string>
     <string name="widget_config_background_color_title">Arka plan rengi</string>
     <string name="widget_config_font_title">Fonts</string>
     <string name="widget_config_font_color_title">Font color</string>

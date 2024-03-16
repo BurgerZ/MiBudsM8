@@ -161,6 +161,7 @@
     <string name="device_config_firmware">Oprogramowanie układowe</string>
     <string name="device_config_firmware_not_connected">Podłącz słuchawki, aby zobaczyć wersję oprogramowania</string>
     <string name="device_config_firmware_up_to_date">Oprogramowanie sprzętowe jest aktualne</string>
+    <string name="device_config_firmware_current_version">Aktualna wersja: %1$s</string>
 
     <string name="device_config_firmware_downloading">Pobieranie</string>
     <string name="device_config_firmware_downloading_dots">Pobieranie…</string>
@@ -249,6 +250,10 @@
     <string name="widget_config_title">Konfiguracja widżetu</string>
     <string name="widget_config_background_title">Tło</string>
     <string name="widget_config_use_background_title">Pokaż tło widżetu</string>
+    <string name="widget_config_layout_title">Układ widgetu</string>
+    <string name="widget_config_layout_horizontal">Poziomy</string>
+    <string name="widget_config_layout_vertical">Pionowy</string>
+    <string name="widget_config_show_device_name_title">Pokaż nazwę słuchawek</string>
     <string name="widget_config_background_color_title">Kolor tła</string>
     <string name="widget_config_font_title">Czcionki</string>
     <string name="widget_config_font_color_title">Kolor czcionki</string>
