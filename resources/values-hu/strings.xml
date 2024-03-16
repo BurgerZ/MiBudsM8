@@ -85,12 +85,12 @@
     <string name="device_config_sound_settings_surround_sound_summary">Növelje a hangmélységet a fülhallgatóban a hang- és videólejátszáshoz</string>
     <string name="device_config_sound_settings_surround_sound_summary_global">Növelje a hangmélységet a fülhallgatóban a hang- és videólejátszáshoz. Ez a funkció nem működik, ha az LDAC be van kapcsolva.</string>
     <string name="device_config_sound_settings_surround_sound_title">Lenyűgöző hanghatások</string>
-    <string name="device_config_sound_settings_sound_mode">Audio balance</string>
-    <string name="device_config_sound_settings_sound_balanced">Standard</string>
-    <string name="device_config_sound_settings_sound_treble_boost">Enhance treble</string>
-    <string name="device_config_sound_settings_sound_bass_boost">Enhance bass</string>
-    <string name="device_config_sound_settings_sound_vocal_enhancement">Enhance voice</string>
-    <string name="device_config_sound_settings_sound_personalized">Custom</string>
+    <string name="device_config_sound_settings_sound_mode">Hangegyensúly</string>
+    <string name="device_config_sound_settings_sound_balanced">Alap</string>
+    <string name="device_config_sound_settings_sound_treble_boost">Treble javítása</string>
+    <string name="device_config_sound_settings_sound_bass_boost">Basszus javígása</string>
+    <string name="device_config_sound_settings_sound_vocal_enhancement">Beszéd javítása</string>
+    <string name="device_config_sound_settings_sound_personalized">Egyéni</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">További beállítások</string>
@@ -161,7 +161,7 @@
     <string name="device_config_firmware">Firmware</string>
     <string name="device_config_firmware_not_connected">Csatlakoztassa a fülhallgatót a firmware verziójának megtekintéséhez</string>
     <string name="device_config_firmware_up_to_date">A firmware naprakész</string>
-    <string name="device_config_firmware_current_version">Current version: %1$s</string>
+    <string name="device_config_firmware_current_version">Jelenlegi verzió: %1$s</string>
 
     <string name="device_config_firmware_downloading">Letöltés</string>
     <string name="device_config_firmware_downloading_dots">Letöltés…</string>
@@ -282,7 +282,7 @@
     <!-- Color picker -->
     <string name="press_color_to_apply">Érintse meg a színt a kiválasztáshoz</string>
     <string name="dialog_color_picker">Színpaletta</string>
-    <string name="color_picker_use_default_color">Use default color</string>
+    <string name="color_picker_use_default_color">Alap szín használása</string>
 
 
     <!-- Notification -->
@@ -300,8 +300,8 @@
     <string name="dialog_ua_permissions">Ehhez az alkalmazáshoz a következő engedélyekre van szükség:</string>
     <string name="dialog_ua_nearby_permission">Közeli eszközök</string>
     <string name="dialog_ua_nearby_permission_des">közeli eszközök felfedezése, és csatlakozás hozzájuk</string>
-    <string name="privacy_agree_and_continue">Agree</string>
-    <string name="quit">Exit</string>
+    <string name="privacy_agree_and_continue">Elfogadás</string>
+    <string name="quit">Kilépés</string>
 
     <!-- About App dialog -->
     <string name="dialog_about_app_copyright">Támogatás</string>
