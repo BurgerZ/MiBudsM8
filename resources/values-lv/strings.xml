@@ -1,13 +1,17 @@
 <resources>
-    <string name="app_name" translatable="false">Mi Buds M8</string>
-
-    <string name="app_current_lang">en</string>
+    <string name="app_current_lang">lv</string>
     <string name="app_translator_name">Edgars Eduards Hoveckis</string>
 
     <!-- Main screen -->
     <string name="miheadset_disconnected_summary">Savienot austiņas</string>
     <string name="miheadset_supported_eartips">Atbalstītie austiņu modeļi:</string>
     <string name="miheadset_disconnected_click_bt_settings">Atvērt Bluetooth iestatījumus</string>
+
+    <!-- Device connect -->
+    <string name="device_guide_connect_title">Savienošanas instrukcija</string>
+    <string name="device_guide_reset_title">Atiestatīšanas instrukcija</string>
+    <string name="device_connect_guide">\u2460 Ievietojiet abas austiņas korpusā.\n\u2461 Kad vāks ir atvērts, nospiediet un 3 sekundes turiet pogu uz korpusa.\n\u2462 Korpusa indikators mirgos, un austiņas būs gatavas savienošanai.</string>
+    <string name="device_connect_guide_m79a">\u2460 Ievietojiet abas austiņas ausīs un 30 sekunžu laikā pēc tam piesitiet abām austiņām vienlaikus 3 reizes.\n\u2461 Kad dzirdat signālu, austiņas ir gatavas savienošanai pārī.</string>
 
     <!-- Device config -->
     <!-- Battery -->
@@ -20,6 +24,9 @@
     <string name="device_config_anc_off">Izslēgts</string>
     <string name="device_config_transparency">Caurspīdīgums</string>
 
+    <string name="device_config_anc_mode">Trokšņu slāpēšanas režīms</string>
+    <string name="device_config_anc_mode_auto">Automātiski</string>
+    <string name="device_config_anc_mode_manual">Rokasgrāmata</string>
     <string name="device_config_anc_mode_adaptive">Adaptīvs</string>
     <string name="device_config_anc_mode_off">Izslēgts</string>
     <string name="device_config_anc_mode_deep">Dziļš</string>
@@ -30,7 +37,11 @@
     <string name="device_config_anc_mode_light">Vājš</string>
     <string name="device_config_anc_mode_wind">Vējš</string>
     <string name="device_config_anc_mode_enhance_voice">Pastiprināt balsi</string>
+    <string name="device_config_anc_mode_enhance_voice_plus">Pastiprināt balsi+</string>
     <string name="device_config_anc_mode_transparent">Caurspīdīgums</string>
+    <string name="device_config_anc_mode_ambient_sound">Apkārtējās vides trokšņi</string>
+    <string name="device_config_transparency_normal">Parasts</string>
+    <string name="device_config_transparency_surroundings">Ambients</string>
     <!-- Errors -->
     <string name="device_config_anc_alert_put_on">Lūdzu, pievienojiet un nēsājiet austiņas</string>
     <string name="device_config_anc_alert_single_ear">Ielieciet abas austiņas, lai izmantotu trokšņu slāpēšanu</string>
@@ -38,6 +49,9 @@
     <!-- Gestures -->
     <string name="device_config_gestures_title">Žesti</string>
     <string name="device_config_gestures_summary">Pielāgojiet austiņu žestu kontroles</string>
+    <string name="device_config_gestures_single_warning">Atcerieties, ka darbības ar vienu nospiešanu var tikt nejauši aktivizētas</string>
+    <string name="device_config_gestures_single_press_left">Vienreiz nospiediet kreiso austiņu</string>
+    <string name="device_config_gestures_single_press_right">Vienreiz nospiediet labo austiņu</string>
     <string name="device_config_gestures_double_click_left">Veiciet dubultskārienu kreisajai austiņai</string>
     <string name="device_config_gestures_double_click_right">Veiciet dubultskārienu labajai austiņai</string>
     <string name="device_config_gestures_double_press_left">Divreiz nospiediet kreiso austiņu</string>
@@ -49,6 +63,7 @@
     <string name="device_config_gestures_press_left">Nospiediet un turiet kreiso austiņu</string>
     <string name="device_config_gestures_press_right">Nospiediet un turiet labo austiņu</string>
     <!-- Modes -->
+    <string name="device_config_gestures_action_none">Nav</string>
     <string name="device_config_gestures_action_volume_down">Klusāk</string>
     <string name="device_config_gestures_action_volume_up">Skaļāk</string>
     <string name="device_config_gestures_action_next_track">Nākamā dziesma</string>
@@ -72,8 +87,15 @@
     <string name="device_config_sound_settings_sound_quality_high_quality">Augsts latentums</string>
     <string name="device_config_sound_settings_head_tracking">Izsekot galvas kustībām</string>
     <string name="device_config_sound_settings_head_tracking_summary">Izbaudiet uzlabotu telpas un virziena sajūtu atbalstītajam audio un video</string>
-    <string name="device_config_sound_settings_surround_sound_summary">Bagātiniet skaņas dziļumu audio un video atskaņošanai austiņās (šī funkcija nedarbosies, ja tiek atskaņots %.1f audio)</string>
-    <string name="device_config_sound_settings_surround_sound_title">Virtuāla ieskaujoša skaņa</string>
+    <string name="device_config_sound_settings_surround_sound_summary">Bagātināt skaņas dziļumu audio un video atskaņošanai austiņās</string>
+    <string name="device_config_sound_settings_surround_sound_summary_global">Bagātināt skaņas dziļumu audio un video atskaņošanai austiņās. Šī funkcija nestrādās, kad LDAC ir ieslēgts.</string>
+    <string name="device_config_sound_settings_surround_sound_title">Iesaistošās skaņas efekts</string>
+    <string name="device_config_sound_settings_sound_mode">Audio balanss</string>
+    <string name="device_config_sound_settings_sound_balanced">Standarta</string>
+    <string name="device_config_sound_settings_sound_treble_boost">Uzlabojiet diskantus</string>
+    <string name="device_config_sound_settings_sound_bass_boost">Uzlabojiet basu</string>
+    <string name="device_config_sound_settings_sound_vocal_enhancement">Uzlabojiet balsi</string>
+    <string name="device_config_sound_settings_sound_personalized">Pielāgots</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">Papildu iestatījumi</string>
@@ -139,11 +161,11 @@
     <string name="device_config_find_loss_notify_title">Brīdinājums par trūkstošām austiņām</string>
     <string name="device_config_find_loss_notify_summary">Šķiet, ka vismaz viena no jūsu austiņām nav uzlādes kārbiņā. Paskaties apkārt!</string>
 
-
     <!-- Firmware update -->
     <string name="device_config_firmware">Programmaparatūra</string>
     <string name="device_config_firmware_not_connected">Pievienojiet austiņas, lai skatītu programmaparatūras versiju</string>
     <string name="device_config_firmware_up_to_date">Programmaparatūra ir atjaunināta</string>
+    <string name="device_config_firmware_current_version">Pašreizējā versija: %1$s</string>
 
     <string name="device_config_firmware_downloading">Notiek lejupielāde</string>
     <string name="device_config_firmware_downloading_dots">Notiek lejupielāde…</string>
@@ -224,10 +246,6 @@
     <string name="prefs_headset_show_animation_desc">Rādīt austiņu animāciju, nevis statiskus attēlus, ja tie ir pieejami</string>
 
     <!-- Bluetooth SPP -->
-    <string name="prefs_bluetooth_spp_title" translatable="false">Bluetooth SPP UUID</string>
-    <string name="prefs_bluetooth_spp_uuid_spp_std" translatable="false">SerialPort (Standard)</string>
-    <string name="prefs_bluetooth_spp_uuid_spp_xiaomi" translatable="false">SerialPort (Xiaomi)</string>
-    <string name="prefs_bluetooth_spp_uuid_xiaomi" translatable="false">Xiaomi Inc.</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">Logrīki</string>
@@ -236,8 +254,12 @@
     <string name="widget_config_title">Logrīku konfigurācija</string>
     <string name="widget_config_background_title">Fons</string>
     <string name="widget_config_use_background_title">Rādīt logrīka fonu</string>
+    <string name="widget_config_layout_title">Logrīku izkārtojums</string>
+    <string name="widget_config_layout_horizontal">Horizontāli</string>
+    <string name="widget_config_layout_vertical">Vertikāli</string>
+    <string name="widget_config_show_device_name_title">Rādīt austiņu nosaukumu</string>
     <string name="widget_config_background_color_title">Fona krāsa</string>
-    <string name="widget_config_font_title">Fonts</string>
+    <string name="widget_config_font_title">Fonti</string>
     <string name="widget_config_font_color_title">Fonta krāsa</string>
     <string name="widget_config_ring_color_title">Uzlādes līmeņa gredzenu krāsa</string>
 
@@ -247,15 +269,13 @@
 
     <!-- Feedback -->
     <string name="prefs_feedback">Atsauksmes</string>
+    <string name="prefs_feedback_desc">Brīdinājums! Ja jums ir problēmas ar austiņām, lūdzu, sazinieties ar pārdevēju. Šeit varat saņemt palīdzību vai ziņot par problēmām, kas saistītas ar lietojumprogrammu.</string>
     <!-- Contact developer dialog -->
     <string name="dialog_contact_dev_send_email">Sūtīt e-pastu</string>
-    <string name="dialog_contact_dev_send_email_subject_message" translatable="false">Mi Buds M8 [%1$s]</string>
     <string name="dialog_contact_dev_send_email_message">Aprakstiet savu problēmu:\n\n</string>
     <string name="dialog_contact_dev_send_email_report_bug">Ziņot par kļūdu</string>
     <string name="dialog_contact_dev_send_email_request_new_feature">Pieprasīt jaunu funkciju</string>
     <string name="dialog_contact_dev_send_email_other">Cits</string>
-    <string name="dialog_contact_dev_send_email_help_localize" translatable="false">Help us with localization</string>
-    <string name="dialog_contact_dev_send_email_help_localize_message" translatable="false">Hello, I can help you with localization to %1$s</string>
 
     <string name="prefs_policy_title">Privātuma politika</string>
     <string name="prefs_about_title">Par</string>
@@ -269,10 +289,8 @@
     <string name="dialog_color_picker">Krāsu atlasītājs</string>
     <string name="color_picker_use_default_color">Izmantot noklusējuma krāsu</string>
 
-
     <!-- Notification -->
     <string name="notification_headset_service_channel_name">Austiņu statuss</string>
-    <string name="notification_service_channel_name" translatable="false">Mi Buds M8 Service</string>
     <string name="notification_service_title">Mi Buds M8 darbojas fonā</string>
     <string name="notification_service_summary">Lai mani paslēptu, noklikšķiniet uz opcijas \"Rādīt paziņojumus\" un noņemiet atzīmi no tās.</string>
     <string name="notification_headset_box">Kārbiņa</string>
@@ -281,6 +299,14 @@
     <string name="notification_headset_right">Labā</string>
 
     <!-- Dialogs -->
+    <!-- User Agreement dialog -->
+    <string name="dialog_ua_welcome">Laipni lūdzam Mi Buds M8!</string>
+    <string name="dialog_ua_permissions">Šai lietotnei ir nepieciešamas šādas atļaujas:</string>
+    <string name="dialog_ua_nearby_permission">Tuvumā esošas ierīces</string>
+    <string name="dialog_ua_nearby_permission_des">tuvumā esošu ierīču meklēšana un savienojuma izveide ar tām</string>
+    <string name="privacy_agree_and_continue">Piekrist</string>
+    <string name="quit">Izeja</string>
+
     <!-- About App dialog -->
     <string name="dialog_about_app_copyright">Izstrādātājs</string>
     <string name="dialog_about_app_version">Versija</string>
@@ -297,4 +323,5 @@
     <!-- Device status -->
     <string name="device_status_connected">Savienots</string>
     <string name="device_status_disconnected">Atvienots</string>
+    <string name="device_status_connecting">Notiek savienojuma izveide…</string>
 </resources>

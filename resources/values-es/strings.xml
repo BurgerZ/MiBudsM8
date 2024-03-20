@@ -8,6 +8,12 @@
     <string name="miheadset_supported_eartips">Modelos soportados:</string>
     <string name="miheadset_disconnected_click_bt_settings">Abrir ajustes Bluetooth</string>
 
+    <!-- Device connect -->
+    <string name="device_guide_connect_title">Guía de conexión</string>
+    <string name="device_guide_reset_title">Guía de reinicio</string>
+    <string name="device_connect_guide">\u2460 Coloca ambos auriculares en el estuche.\n\u2461 Con la tapa abierta, mantén pulsado el botón del estuche durante 3 segundos.\n\u2462 La luz indicadora del estuche parpadeará y los auriculares estarán listos para conectarse.</string>
+    <string name="device_connect_guide_m79a">\u2460 Colócate ambos auriculares en los oídos y, dentro de los 30 segundos después de hacerlo, pulsa ambos auriculares simultáneamente 3 veces.\n\u2461 Una vez que escuches el tono, los auriculares estarán listos para vincularse.</string>
+
     <!-- Device config -->
     <!-- Battery -->
     <string name="device_config_battery_case">Estuche</string>
@@ -261,11 +267,12 @@
     <string name="widget_config_ring_color_title">Charge level rings color</string>
 
     <!-- FAQ -->
-    <string name="prefs_faq">Frequently Asked Questions</string>
+    <string name="prefs_faq">Preguntas frecuentes</string>
     <string name="prefs_website">Sitio web</string>
 
     <!-- Feedback -->
     <string name="prefs_feedback">Enviar comentarios</string>
+    <string name="prefs_feedback_desc">¡Advertencia! Si tiene problemas con sus auriculares, comuníquese con el vendedor. Aquí puede obtener ayuda o informar problemas relacionados con la aplicación.</string>
     <!-- Contact developer dialog -->
     <string name="dialog_contact_dev_send_email">Enviar correo electrónico</string>
     <string name="dialog_contact_dev_send_email_message">Describe tu problema:\n\n</string>

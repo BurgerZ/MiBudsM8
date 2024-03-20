@@ -8,6 +8,12 @@
     <string name="miheadset_supported_eartips">Desteklenen kulaklık modelleri:</string>
     <string name="miheadset_disconnected_click_bt_settings">Bluetooth ayarlarını aç</string>
 
+    <!-- Device connect -->
+    <string name="device_guide_connect_title">Connect guide</string>
+    <string name="device_guide_reset_title">Reset guide</string>
+    <string name="device_connect_guide">\u2460 Her iki kulaklığı kutuya yerleştirin.\n\u2461 Kapak açıkken kutunun üzerindeki tuşa 3 saniye basılı tutun.\n\u2462 Kutunun gösterge ışığı yanıp sönecek ve kulaklıklar bağlanmaya hazır olacaktır.</string>
+    <string name="device_connect_guide_m79a">\u2460 Her iki kulaklığı da kulağınıza takın ve bunu yaptıktan sonraki 30 saniye içinde her iki kulaklığa aynı anda 3 kez dokunun.</string>
+
     <!-- Device config -->
     <!-- Battery -->
     <string name="device_config_battery_case">Kutu</string>
@@ -260,11 +266,12 @@
     <string name="widget_config_ring_color_title">Charge level rings color</string>
 
     <!-- FAQ -->
-    <string name="prefs_faq">Frequently Asked Questions</string>
-    <string name="prefs_website">Website</string>
+    <string name="prefs_faq">Sıkça Sorulan Sorular</string>
+    <string name="prefs_website">İnternet sitesi</string>
 
     <!-- Feedback -->
     <string name="prefs_feedback">Geribildirim yolla</string>
+    <string name="prefs_feedback_desc">Uyarı! Kulaklıklarınızla ilgili sorun yaşıyorsanız lütfen satıcıyla iletişime geçin. Buradan yardım alabilir veya uygulamayla ilgili sorunları bildirebilirsiniz.</string>
     <!-- Contact developer dialog -->
     <string name="dialog_contact_dev_send_email">Send email</string>
     <string name="dialog_contact_dev_send_email_message">Describe your problem:\n\n</string>

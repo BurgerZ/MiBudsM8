@@ -8,6 +8,12 @@
     <string name="miheadset_supported_eartips">Supported earbuds models:</string>
     <string name="miheadset_disconnected_click_bt_settings">Open Bluetooth settings</string>
 
+    <!-- Device connect -->
+    <string name="device_guide_connect_title">Connect guide</string>
+    <string name="device_guide_reset_title">Reset guide</string>
+    <string name="device_connect_guide">\u2460 Vložte obě sluchátka do pouzdra.\n\u2461 Otevřete víčko pouzdra a stiskněte a podržte tlačítko na pouzdře po dobu 3 sekund.\n\u2462 Kontrolka pouzdra začne blikat a sluchátka budou připravena na připojení.</string>
+    <string name="device_connect_guide_m79a">\u2460 Vložte si obě sluchátka do uší a během 30 sekund po jejich nasazení simultánně 3krát klepněte na obě sluchátka.\n\u2461 Jakmile zazní zvukový tón, znamená to, že jsou sluchátka připravena ke spárování.</string>
+
     <!-- Device config -->
     <!-- Battery -->
     <string name="device_config_battery_case">Pouzdro</string>
@@ -260,11 +266,12 @@
     <string name="widget_config_ring_color_title">Charge level rings color</string>
 
     <!-- FAQ -->
-    <string name="prefs_faq">Frequently Asked Questions</string>
+    <string name="prefs_faq">Časté dotazy</string>
     <string name="prefs_website">Website</string>
 
     <!-- Feedback -->
     <string name="prefs_feedback">Zpětná vazba</string>
+    <string name="prefs_feedback_desc">Varování! Pokud máte problémy se sluchátky, kontaktujte prodejce. Zde můžete získat nápovědu nebo nahlásit problémy související s aplikací.</string>
     <!-- Contact developer dialog -->
     <string name="dialog_contact_dev_send_email">Send email</string>
     <string name="dialog_contact_dev_send_email_message">Describe your problem:\n\n</string>

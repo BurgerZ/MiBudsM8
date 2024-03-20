@@ -8,6 +8,12 @@
     <string name="miheadset_supported_eartips">Застосунок підтримує наступні навушники:</string>
     <string name="miheadset_disconnected_click_bt_settings">Відкрити настройки Bluetooth</string>
 
+    <!-- Device connect -->
+    <string name="device_guide_connect_title">Підключення пристрою</string>
+    <string name="device_guide_reset_title">Скидання пристрою</string>
+    <string name="device_connect_guide">\u2460 Помістіть обидва навушника у футляр.\n\u2461 При відкритій кришці утримуйте кнопку на футлярі протягом 3 секунд.\n\u2462 Індикатор почне блимати, а навушники будуть готові до підключення.</string>
+    <string name="device_connect_guide_m79a">\u2460 Вставте обидва навушники у вуха та протягом 30 секунд після цього торкніться обох навушників одночасно 3 рази.\n\u2461 Як тільки ви почуєте звуковий сигнал, навушники готові до прив\'язування.</string>
+
     <!-- Device config -->
     <!-- Battery -->
     <string name="device_config_battery_case">Кейс</string>
@@ -260,11 +266,12 @@
     <string name="widget_config_ring_color_title">Charge level rings color</string>
 
     <!-- FAQ -->
-    <string name="prefs_faq">Frequently Asked Questions</string>
+    <string name="prefs_faq">Запитання та відповіді</string>
     <string name="prefs_website">Сайт</string>
 
     <!-- Feedback -->
     <string name="prefs_feedback">Написати розробнику</string>
+    <string name="prefs_feedback_desc">УВАГА! Якщо у вас виникли проблеми з навушниками, зверніться до продавця. Тут ви можете отримати допомогу або повідомити про проблеми, пов’язані з програмою.</string>
     <!-- Contact developer dialog -->
     <string name="dialog_contact_dev_send_email">Надіслати email</string>
     <string name="dialog_contact_dev_send_email_message">Опишіть вашу проблему:\n\n</string>

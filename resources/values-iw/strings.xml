@@ -8,6 +8,12 @@
     <string name="miheadset_supported_eartips">דגמי אוזניות נתמכים:</string>
     <string name="miheadset_disconnected_click_bt_settings">פתח את הגדרות Bluetooth</string>
 
+    <!-- Device connect -->
+    <string name="device_guide_connect_title">Connect guide</string>
+    <string name="device_guide_reset_title">Reset guide</string>
+    <string name="device_connect_guide">יש להכניס את שתי האוזניות למארז. יש ללחוץ על כפתור המארז במשך 3 שניות כשמכסה המארז פתוח. נורת החיווי של המארז תהבהב, והאוזניות יהיו מוכנות לצימוד.</string>
+    <string name="device_connect_guide_m79a">יש להכניס את שתי האוזניות לאוזניים שלך, ותוך עד 30 שניות לאחר מכן להקיש על שתי האוזניות בו-זמנית 3 פעמים. ברגע ששמעת את הצליל, האוזניות מוכנות לצימוד.</string>
+
     <!-- Device config -->
     <!-- Battery -->
     <string name="device_config_battery_case">קופסה</string>
@@ -260,11 +266,12 @@
     <string name="widget_config_ring_color_title">צבע טבעות רמת הטעינה</string>
 
     <!-- FAQ -->
-    <string name="prefs_faq">Frequently Asked Questions</string>
-    <string name="prefs_website">Website</string>
+    <string name="prefs_faq">שאלות נפוצות</string>
+    <string name="prefs_website">אתר אינטרנט</string>
 
     <!-- Feedback -->
     <string name="prefs_feedback">שלח משוב</string>
+    <string name="prefs_feedback_desc">אַזהָרָה! אם יש לך בעיות באוזניות שלך, צור קשר עם המוכר. כאן תוכלו לקבל עזרה או לדווח על בעיות הקשורות לאפליקציה.</string>
     <!-- Contact developer dialog -->
     <string name="dialog_contact_dev_send_email">שלח מייל למפתח</string>
     <string name="dialog_contact_dev_send_email_message">תיאור הבעיה:\n\n</string>

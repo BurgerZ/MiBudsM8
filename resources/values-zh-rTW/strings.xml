@@ -8,6 +8,12 @@
     <string name="miheadset_supported_eartips">支持耳機型號:</string>
     <string name="miheadset_disconnected_click_bt_settings">打開藍牙設置</string>
 
+    <!-- Device connect -->
+    <string name="device_guide_connect_title">連接指南</string>
+    <string name="device_guide_reset_title">重置指南</string>
+    <string name="device_connect_guide">\u2460 將耳機放入充電盒，\n\u2461 開蓋並長按充電盒按鍵3秒，\n\u2462 充電盒指示燈閃爍，進入等待連線狀態</string>
+    <string name="device_connect_guide_m79a">\u2460 將左右耳機拿出佩戴，30s內雙手同時點擊左右耳機3次，\n\u2461 聽到提醒音後，進入等待連線狀態</string>
+
     <!-- Device config -->
     <!-- Battery -->
     <string name="device_config_battery_case">充電盒</string>
@@ -255,16 +261,17 @@
     <string name="widget_config_layout_vertical">垂直的</string>
     <string name="widget_config_show_device_name_title">顯示耳機名稱</string>
     <string name="widget_config_background_color_title">背景顏色</string>
-    <string name="widget_config_font_title">Fonts</string>
-    <string name="widget_config_font_color_title">Font color</string>
-    <string name="widget_config_ring_color_title">Charge level rings color</string>
+    <string name="widget_config_font_title">字體</string>
+    <string name="widget_config_font_color_title">文字顏色</string>
+    <string name="widget_config_ring_color_title">電量環顏色</string>
 
     <!-- FAQ -->
-    <string name="prefs_faq">Frequently Asked Questions</string>
-    <string name="prefs_website">Website</string>
+    <string name="prefs_faq">常見問題</string>
+    <string name="prefs_website">網站</string>
 
     <!-- Feedback -->
     <string name="prefs_feedback">反饋</string>
+    <string name="prefs_feedback_desc">警告！ 如果您的耳機有問題，請聯絡賣家。 您可以在此處取得協助或報告與應用程式相關的問題。</string>
     <!-- Contact developer dialog -->
     <string name="dialog_contact_dev_send_email">發郵件反饋問題</string>
     <string name="dialog_contact_dev_send_email_message">請反饋您遇到的問題:\n\n</string>

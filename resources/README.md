@@ -12,6 +12,7 @@ Mi Buds M8 translation files.
 |values-hu|Hungarian|**Szeitz István**|
 |values-it|Italian|**Marco Longo**|
 |values-iw|Hebrew|**שילה בבילה**|
+|values-ja|Hebrew|**TakGot**|
 |values-ko|Korean|**Dave Yun**|
 |values-lv|Latvian|**Edgars Eduards Hoveckis**|
 |values-nl|Dutch|**Jochem Pieper**|

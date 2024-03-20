@@ -8,6 +8,12 @@
     <string name="miheadset_supported_eartips">Приложение поддерживает следующие наушники:</string>
     <string name="miheadset_disconnected_click_bt_settings">Открыть настройки Bluetooth</string>
 
+    <!-- Device connect -->
+    <string name="device_guide_connect_title">Подключение наушников</string>
+    <string name="device_guide_reset_title">Сброс наушников</string>
+    <string name="device_connect_guide">\u2460 Поместите оба наушника в футляр.\n\u2461 При открытой крышке удерживайте кнопку на футляре в течение 3 секунд.\n\u2462 Индикатор начнет мигать, а наушники будут готовы к подключению.</string>
+    <string name="device_connect_guide_m79a">\u2460 Вставьте оба наушника в уши и в течение 30 секунд 3 раза одновременно коснитесь обоих наушников.\n\u2461 Вы услышите звуковой сигнал, подтверждающий, что наушники готовы к подключению.</string>
+
     <!-- Device config -->
     <!-- Battery -->
     <string name="device_config_battery_case">Кейс</string>
@@ -265,6 +271,7 @@
 
     <!-- Feedback -->
     <string name="prefs_feedback">Написать разработчику</string>
+    <string name="prefs_feedback_desc">Внимание! Если у вас возникли проблемы с наушниками, обратитесь к продавцу. Здесь вы можете получить помощь или сообщить о проблемах, связанных с приложением.</string>
     <!-- Contact developer dialog -->
     <string name="dialog_contact_dev_send_email">Отправить email</string>
     <string name="dialog_contact_dev_send_email_message">Опишите вашу проблему:\n\n</string>

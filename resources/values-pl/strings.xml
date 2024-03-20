@@ -8,6 +8,12 @@
     <string name="miheadset_supported_eartips">Obsługiwane modele słuchawek:</string>
     <string name="miheadset_disconnected_click_bt_settings">Otwórz ustawienia Bluetooth</string>
 
+    <!-- Device connect -->
+    <string name="device_guide_connect_title">Connect guide</string>
+    <string name="device_guide_reset_title">Reset guide</string>
+    <string name="device_connect_guide">\u2460 Umieść obie słuchawki w etui.\n\u2461 Naciśnij i przytrzymaj przycisk na otwartym etui przez 3 sekundy.\n\u2462 Kontrolka zacznie migać, a słuchawki będą gotowe do sparowania.</string>
+    <string name="device_connect_guide_m79a">\u2460 W ciągu 30 sekund od założenia słuchawek dotknij je jednocześnie 3 razy.\n\u2461 Odtworzenie dźwięku, będzie oznaczało, że słuchawki są gotowe do sparowania.</string>
+
     <!-- Device config -->
     <!-- Battery -->
     <string name="device_config_battery_case">Etui</string>
@@ -260,11 +266,12 @@
     <string name="widget_config_ring_color_title">Charge level rings color</string>
 
     <!-- FAQ -->
-    <string name="prefs_faq">Frequently Asked Questions</string>
+    <string name="prefs_faq">Najczęściej zadawane pytania</string>
     <string name="prefs_website">Stronie internetowej</string>
 
     <!-- Feedback -->
     <string name="prefs_feedback">Wyślij opinię</string>
+    <string name="prefs_feedback_desc">Ostrzeżenie! Jeśli masz problemy ze słuchawkami, skontaktuj się ze sprzedawcą. Tutaj możesz uzyskać pomoc lub zgłosić problemy związane z aplikacją.</string>
     <!-- Contact developer dialog -->
     <string name="dialog_contact_dev_send_email">Wysłać email</string>
     <string name="dialog_contact_dev_send_email_message">Opisz swój problem:\n\n</string>
