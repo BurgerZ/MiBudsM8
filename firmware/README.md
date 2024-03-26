@@ -263,6 +263,13 @@ If you have any firmware files for earbuds not listed here, please, contact me t
 | :----:| :-----------------: | :---: | :---: |
 | China | black, green, white | 2717  | 5044  |
 
+### 4.0.3.8  
+**File name:** m8_ota_image_v4.0.3.8_xiaomibuds4_cn.bin  
+**MD5:** 0a7857719eac4c046e25353d3ea04376  
+**Comment:** original image  
+**Changelog:**  
+- Fix known issues and improve system stability.
+
 ### 4.0.3.9  
 **File name:** m8_ota_image_v4.0.3.9_xiaomibuds4_cn.bin  
 **MD5:** 5d57c7d8cefa516547a98600ed0d4c05  
