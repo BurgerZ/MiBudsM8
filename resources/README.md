@@ -22,6 +22,7 @@ Mi Buds M8 translation files.
 |values-sk|Slovak|**Dávid Mrižo**|
 |values-tr|Turkish|**Ufuk Karadavut**|
 |values-uk|Ukrainian|**aka_MrDC**|
+|values-vi|Vietnamese|**Trọng Nguyễn**|
 |values-zh-TW|Chinese (Taiwan)|**極雷PoleLei**|
 |values-zh-CN|Chinese (Mainland)|**sammary114**|
 
