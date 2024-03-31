@@ -243,6 +243,13 @@ If you have any firmware files for earbuds not listed here, please, contact me t
 **Changelog:**  
 - Various bug fixes and performance improvements.
 
+### 2.5.7.4  
+**File name:** m8_ota_image_v2.5.7.4_xiaomibuds4pro_cn.bin  
+**MD5:** e67a12a74ea3bce13bbb777f7dcc111a  
+**Comment:** original image  
+**Changelog:**  
+- Various bug fixes and performance improvements.
+
 ## Xiaomi Buds 4 Pro
 
 | Region  |         Color         |  VID  |  PID  |
