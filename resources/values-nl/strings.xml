@@ -8,6 +8,12 @@
     <string name="miheadset_supported_eartips">Ondersteunde modellen:</string>
     <string name="miheadset_disconnected_click_bt_settings">Open Bluetooth instellingen</string>
 
+    <!-- Device connect -->
+    <string name="device_guide_connect_title">Verbinding handleiding</string>
+    <string name="device_guide_reset_title">Reset handleiding</string>
+    <string name="device_connect_guide">\u2460 Plaats beide oortelefoons in het oplaadetui.\n\u2461 Houd met de deksel open de knop op het oplaadetui 3 seconden ingedrukt.\n\u2462 Het indicatielampje van het oplaadetui gaat knipperen en de oortelefoons zijn klaar om verbinding te maken.</string>
+    <string name="device_connect_guide_m79a">\u2460 Plaats beide oortelefoons in uw oren en tik binnen 30 seconden tegelijkertijd op beide oortelefoons 3 keer.\n\u2461 Zodra u de toon hoort, zijn de oortelefoons klaar om te koppelen.</string>
+
     <!-- Device config -->
     <!-- Battery -->
     <string name="device_config_battery_case">Case</string>
@@ -260,11 +266,12 @@
     <string name="widget_config_ring_color_title">Charge level rings color</string>
 
     <!-- FAQ -->
-    <string name="prefs_faq">Frequently Asked Questions</string>
+    <string name="prefs_faq">Veelgestelde vragen</string>
     <string name="prefs_website">Website</string>
 
     <!-- Feedback -->
     <string name="prefs_feedback">Feedback</string>
+    <string name="prefs_feedback_desc">Waarschuwing! Als u problemen ondervindt met uw oordopjes, neem dan contact op met de verkoper. Hier kunt u hulp krijgen of problemen met betrekking tot de toepassing melden.</string>
     <!-- Contact developer dialog -->
     <string name="dialog_contact_dev_send_email">Send email</string>
     <string name="dialog_contact_dev_send_email_message">Describe your problem:\n\n</string>

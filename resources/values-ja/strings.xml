@@ -1,11 +1,17 @@
 <resources>
-    <string name="app_current_lang">jp</string>
+    <string name="app_current_lang">ja</string>
     <string name="app_translator_name">TakGot</string>
 
     <!-- Main screen -->
     <string name="miheadset_disconnected_summary">イヤホンを接続してください</string>
     <string name="miheadset_supported_eartips">対応しているイヤホン:</string>
     <string name="miheadset_disconnected_click_bt_settings">Bluetooth設定を開く</string>
+
+    <!-- Device connect -->
+    <string name="device_guide_connect_title">Connect guide</string>
+    <string name="device_guide_reset_title">Reset guide</string>
+    <string name="device_connect_guide">\u2460 両方のイヤホンをケースに入れてください。\n\u2461 カバーを開けたまま、ケースのボタンを3秒間長押しします。\u2462 ケースのインジケーターランプが点滅し、イヤホンが接続できる状態になります。</string>
+    <string name="device_connect_guide_m79a">\u2460 両方のイヤホンを耳に入れ、30秒以内に両方のイヤホンを同時に3回タップしてください。\u2461 音が鳴ったら、ペア設定の準備が完了です。</string>
 
     <!-- Device config -->
     <!-- Battery -->
@@ -256,11 +262,12 @@
     <string name="widget_config_ring_color_title">充電リング表示の色</string>
 
     <!-- FAQ -->
-    <string name="prefs_faq">よくある質問と回答</string>
+    <string name="prefs_faq">よくある質問</string>
     <string name="prefs_website">ウェブサイト</string>
 
     <!-- Feedback -->
     <string name="prefs_feedback">フィードバック</string>
+    <string name="prefs_feedback_desc">警告！ イヤホンに問題がある場合は、販売者にお問い合わせください。 ここでは、アプリケーションに関連するヘルプを取得したり、問題を報告したりできます。</string>
     <!-- Contact developer dialog -->
     <string name="dialog_contact_dev_send_email">メールを送る</string>
     <string name="dialog_contact_dev_send_email_message">問題の説明:\n\n</string>

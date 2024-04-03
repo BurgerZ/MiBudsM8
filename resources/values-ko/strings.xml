@@ -8,6 +8,12 @@
     <string name="miheadset_supported_eartips">지원 이어폰 모델 :</string>
     <string name="miheadset_disconnected_click_bt_settings">블루투스 설정 열기</string>
 
+    <!-- Device connect -->
+    <string name="device_guide_connect_title">연걸 가이드</string>
+    <string name="device_guide_reset_title">가이드 초기화</string>
+    <string name="device_connect_guide">\u2460 두 이어폰을 케이스에 넣으십시오.\n\u2461 커버가 열린 상태에서 케이스의 버튼을 3초 동안 길게 누르십시오.\n\u2462 케이스의 표시등이 점멸하면 이어폰을 페어링할 수 있는 상태가 됩니다.</string>
+    <string name="device_connect_guide_m79a">\u2460 양쪽 귀에 이어폰을 착용하시고 30초 내에 양쪽 이어폰을 동시에 3회 탭하십시오.\n\u2461 신호음이 들리면 이어폰 페어링이 준비된 것입니다.</string>
+
     <!-- Device config -->
     <!-- Battery -->
     <string name="device_config_battery_case">충전 케이스</string>
@@ -257,7 +263,7 @@
     <string name="widget_config_background_color_title">백그라운드 색상</string>
     <string name="widget_config_font_title">폰트</string>
     <string name="widget_config_font_color_title">폰트 색상</string>
-    <string name="widget_config_ring_color_title">Charge level rings color</string>
+    <string name="widget_config_ring_color_title">충전 레벨 링 색상</string>
 
     <!-- FAQ -->
     <string name="prefs_faq">자주 묻는 질문</string>
@@ -265,6 +271,7 @@
 
     <!-- Feedback -->
     <string name="prefs_feedback">피드백</string>
+    <string name="prefs_feedback_desc">경고! 이어폰에 문제가 있는 경우 판매자에게 문의하세요. 여기에서 애플리케이션과 관련된 도움을 받거나 문제를 보고할 수 있습니다.</string>
     <!-- Contact developer dialog -->
     <string name="dialog_contact_dev_send_email">이메일 보내기</string>
     <string name="dialog_contact_dev_send_email_message">문제를 설명해주세요:\n\n</string>

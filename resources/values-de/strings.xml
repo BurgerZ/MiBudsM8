@@ -8,6 +8,12 @@
     <string name="miheadset_supported_eartips">Unterstützte Ohrhörermodelle:</string>
     <string name="miheadset_disconnected_click_bt_settings">Öffnen der Bluetooth-Einstellungen</string>
 
+    <!-- Device connect -->
+    <string name="device_guide_connect_title">Verbindungsanleitung</string>
+    <string name="device_guide_reset_title">Anleitung zum Zurücksetzen</string>
+    <string name="device_connect_guide">\u2460 Setze beide Kopfhörer in das Gehäuse ein.\n\u2461 Halte bei geöffneter Abdeckung den Knopf auf dem Etui 3 Sekunden lang gedrückt.\n\u2462 Dessen Anzeigeleuchte blinkt dann und die Kopfhörer sind zum Koppeln bereit.</string>
+    <string name="device_connect_guide_m79a">\u2460 Stecke beide Kopfhörer in deine Ohren und tippe innerhalb von 30 Sekunden dreimal auf beide Kopfhörer gleichzeitig.\n\u2461 Sobald du den Ton hörst, sind die Kopfhörer zum Koppeln bereit.</string>
+
     <!-- Device config -->
     <!-- Battery -->
     <string name="device_config_battery_case">Gehäuse</string>
@@ -260,11 +266,12 @@
     <string name="widget_config_ring_color_title">Charge level rings color</string>
 
     <!-- FAQ -->
-    <string name="prefs_faq">Frequently Asked Questions</string>
+    <string name="prefs_faq">FAQ</string>
     <string name="prefs_website">Webseite</string>
 
     <!-- Feedback -->
     <string name="prefs_feedback">Feedback senden</string>
+    <string name="prefs_feedback_desc">Warnung! Wenn Sie Probleme mit Ihren Ohrhörern haben, wenden Sie sich bitte an den Verkäufer. Hier können Sie Hilfe erhalten oder Probleme im Zusammenhang mit der Anwendung melden.</string>
     <!-- Contact developer dialog -->
     <string name="dialog_contact_dev_send_email">E-Mail senden</string>
     <string name="dialog_contact_dev_send_email_message">Beschreiben Sie Ihr Problem:\n\n</string>

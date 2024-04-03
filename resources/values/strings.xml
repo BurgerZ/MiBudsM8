@@ -9,6 +9,13 @@
     <string name="miheadset_supported_eartips">Supported earbuds models:</string>
     <string name="miheadset_disconnected_click_bt_settings">Open Bluetooth settings</string>
 
+    <!-- Device connect -->
+    <string name="device_guide_empty" translatable="false" />
+    <string name="device_guide_connect_title">Connect guide</string>
+    <string name="device_guide_reset_title">Reset guide</string>
+    <string name="device_connect_guide">\u2460 Put both earphones into the case.\n\u2461 With the cover open, press and hold the button on the case for 3 seconds.\n\u2462 The case\'s indicator light will flash, and the earphones will be ready to connect.</string>
+    <string name="device_connect_guide_m79a">\u2460 Put both earphones in your ears, and within 30 seconds of doing so, tap both earphones simultaneously 3 times.\n\u2461 Once you hear the tone, the earphones are ready to pair.</string>
+
     <!-- Device config -->
     <!-- Battery -->
     <string name="device_config_battery_case">Case</string>
@@ -264,11 +271,12 @@
     <string name="widget_config_ring_color_title">Charge level rings color</string>
 
     <!-- FAQ -->
-    <string name="prefs_faq">Frequently Asked Questions</string>
+    <string name="prefs_faq">FAQ</string>
     <string name="prefs_website">Website</string>
 
     <!-- Feedback -->
     <string name="prefs_feedback">Feedback</string>
+    <string name="prefs_feedback_desc">Warning! If you have issues with your earbuds, please contact the seller. Here you can get help or report issues related to the application.</string>
     <!-- Contact developer dialog -->
     <string name="dialog_contact_dev_send_email">Send email</string>
     <string name="dialog_contact_dev_send_email_subject_message" translatable="false">Mi Buds M8 [%1$s]</string>

@@ -7,6 +7,7 @@ This directory contains firmware files for different Xiaomi Bluetooth TWS earbud
  - FlipBuds Pro
  - Redmi Buds 4 Pro
  - Xiaomi Buds 4 Pro
+ - Xiaomi Buds 4
  - Redmi Buds 5
  - Redmi Buds 5 AAPE
  - Redmi Buds 5 Pro
@@ -235,6 +236,20 @@ If you have any firmware files for earbuds not listed here, please, contact me t
 **Changelog:**  
 - Various bug fixes and performance improvements.
 
+### 2.5.7.3  
+**File name:** m8_ota_image_v2.5.7.3_xiaomibuds4pro_cn.bin  
+**MD5:** 795d26b278c40cf77460be4a1626dd37  
+**Comment:** original image  
+**Changelog:**  
+- Various bug fixes and performance improvements.
+
+### 2.5.7.4  
+**File name:** m8_ota_image_v2.5.7.4_xiaomibuds4pro_cn.bin  
+**MD5:** e67a12a74ea3bce13bbb777f7dcc111a  
+**Comment:** original image  
+**Changelog:**  
+- Various bug fixes and performance improvements.
+
 ## Xiaomi Buds 4 Pro
 
 | Region  |         Color         |  VID  |  PID  |
@@ -248,6 +263,26 @@ If you have any firmware files for earbuds not listed here, please, contact me t
 **Changelog:**  
 - Fix some known issues
 - Support Google Fast Pair Service
+
+## Xiaomi Buds 4
+
+| Region|         Color       |  VID  |  PID  |
+| :----:| :-----------------: | :---: | :---: |
+| China | black, green, white | 2717  | 5044  |
+
+### 4.0.3.8  
+**File name:** m8_ota_image_v4.0.3.8_xiaomibuds4_cn.bin  
+**MD5:** 0a7857719eac4c046e25353d3ea04376  
+**Comment:** original image  
+**Changelog:**  
+- Fix known issues and improve system stability.
+
+### 4.0.3.9  
+**File name:** m8_ota_image_v4.0.3.9_xiaomibuds4_cn.bin  
+**MD5:** 5d57c7d8cefa516547a98600ed0d4c05  
+**Comment:** original image  
+**Changelog:**  
+- Various bug fixes and performance improvements.
 
 ## Redmi Buds 5
 

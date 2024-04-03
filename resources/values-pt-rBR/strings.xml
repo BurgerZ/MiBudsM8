@@ -8,6 +8,12 @@
     <string name="miheadset_supported_eartips">Modelos de fones suportados:</string>
     <string name="miheadset_disconnected_click_bt_settings">Abrir ajuste do Bluetooth</string>
 
+    <!-- Device connect -->
+    <string name="device_guide_connect_title">Guia de conexão</string>
+    <string name="device_guide_reset_title">Guia de reset</string>
+    <string name="device_connect_guide">\u2460 Coloque os dois fones de ouvido no estojo.\n\u2461 Com a tampa aberta, pressione e segure o botão no estojo por 3 segundos.\n\u2462 A luz indicadora do estojo piscará, e os fones de ouvido estarão prontos para o emparelhamento.</string>
+    <string name="device_connect_guide_m79a">\u2460 Coloque os dois fones de ouvido nos seus ouvidos, e dentro de 30 segundos, toque os dois fones de ouvido simultaneamente por 3 vezes.\n\u2461 Ao ouvir o tom, os fones de ouvido estarão prontos para o emparelhamento.</string>
+
     <!-- Device config -->
     <!-- Battery -->
     <string name="device_config_battery_case">Case</string>
@@ -260,11 +266,12 @@
     <string name="widget_config_ring_color_title">Charge level rings color</string>
 
     <!-- FAQ -->
-    <string name="prefs_faq">Frequently Asked Questions</string>
-    <string name="prefs_website">Website</string>
+    <string name="prefs_faq">Perguntas frequentes</string>
+    <string name="prefs_website">Local na rede Internet</string>
 
     <!-- Feedback -->
     <string name="prefs_feedback">Enviar comentários</string>
+    <string name="prefs_feedback_desc">Aviso! Se você tiver problemas com seus fones de ouvido, entre em contato com o vendedor. Aqui você pode obter ajuda ou relatar problemas relacionados ao aplicativo.</string>
     <!-- Contact developer dialog -->
     <string name="dialog_contact_dev_send_email">Send email</string>
     <string name="dialog_contact_dev_send_email_message">Describe your problem:\n\n</string>
