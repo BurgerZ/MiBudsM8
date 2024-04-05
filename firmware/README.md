@@ -316,6 +316,13 @@ If you have any firmware files for earbuds not listed here, please, contact me t
 | :----: | :----------------: | :---: | :---: |
 | China  | black, blue, white | 2717  | 506c  |
 
+### 4.1.7.2 
+**File name:** m8_ota_image_v4.1.7.2_redmibuds5pro_cn.bin  
+**MD5:** 1f96c1aca0310905ae91b2a14156b209  
+**Comment:** original image  
+**Changelog:**  
+- Improve user experience
+
 ### 4.1.8.8 
 **File name:** m8_ota_image_v4.1.8.8_redmibuds5pro_cn.bin  
 **MD5:** 7ac252dfcd776a67d6fef05070e96d47  
