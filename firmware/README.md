@@ -290,11 +290,33 @@ If you have any firmware files for earbuds not listed here, please, contact me t
 | :----: | :-------------------: | :---: | :---: |
 | China  | black, purple, white  | 2717  | 506a  |
 
+### 1.0.3.2  
+**File name:** m8_ota_image_v1.0.3.2_redmibuds5_cn.bin  
+**MD5:** 54d01d6ded690ea253f1f6b4f6a1b466  
+**Comment:** original image  
+**Changelog:**  
+
+- Optimized Xiaomi's proprietary ANC wind noise resistance
+- Optimized the ANC active noise cancellation logic
+
+### 1.0.3.6  
+
+**File name:** m8_ota_image_v1.0.3.6_redmibuds5_cn.bin  
+**MD5:** c80876d46c53047bacfd39d107f50d99  
+**Comment:** original image  
+**Changelog:**  
+
+- Fix volume issues when connected to iOS devices
+- Fix occasional static noise problems
+- Fix occasional disconnection issues
+
 ### 1.0.3.8  
+
 **File name:** m8_ota_image_v1.0.3.8_redmibuds5_cn.bin  
 **MD5:** c66d1aef1b183675b9f35730664a6313  
 **Comment:** original image  
 **Changelog:**  
+
 - Improve user experience
 
 ## Redmi Buds 5 AAPE
