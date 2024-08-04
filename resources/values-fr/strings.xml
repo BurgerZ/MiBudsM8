@@ -226,7 +226,7 @@
     <string name="prefs_ui_theme_follow_system">Thème par défaut du système</string>
     <string name="prefs_ui_theme_dark">Sombre</string>
     <string name="prefs_ui_theme_light">Clair</string>
-    <string name="prefs_ui_theme_battery">Défini par l'économiseur de batterie</string>
+    <string name="prefs_ui_theme_battery">Défini par l\'économiseur de batterie</string>
 
     <!-- Battery icons style -->
     <string name="prefs_battery_icons_theme">Thème des icônes de batterie</string>
