@@ -1,11 +1,11 @@
-# Mi Buds M8 Resources
+# My Buds M8 Resources
 
-<dl><dd><img src="/logo.jpg?raw=true" alt="Mi Buds M8"></dd></dl>
+<dl><dd><img src="/logo.png?raw=true" alt="My Buds M8"></dd></dl>
 
 
 ## Contents
 - Firmware files for supported earbuds
-- Mi Buds M8 translation files.
+- My Buds M8 translation files.
 
 
 ## Download
@@ -17,4 +17,4 @@ Also you can join discussions on [Telegram](https://t.me/mibudsm8).
 
 
 ## Copyright
-Mi Buds M8 © 2016-2024 zaa.bz, **Andrei Zhukouski**
+My Buds M8 © 2016-2024 zaa.bz, **Andrei Zhukouski**
