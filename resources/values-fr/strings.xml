@@ -16,13 +16,13 @@
 
     <!-- Device config -->
     <!-- Battery -->
-    <string name="device_config_battery_case">Boitier</string>
+    <string name="device_config_battery_case">Boîtier</string>
     <string name="device_config_battery_left">Gauche</string>
     <string name="device_config_battery_right">Droit</string>
 
     <!-- ANC -->
     <string name="device_config_anc_on">Annulation de bruit</string>
-    <string name="device_config_anc_off">Eteint</string>
+    <string name="device_config_anc_off">Éteint</string>
     <string name="device_config_transparency">Transparence</string>
 
     <string name="device_config_anc_mode">Mode annulation du bruit</string>
@@ -74,30 +74,30 @@
     <string name="device_config_gestures_action_voice_assistant">Assistant vocal</string>
     <string name="device_config_gestures_action_noise_control">Contrôle du bruit</string>
     <string name="device_config_gestures_action_noise_control_summary">Presser et maintenir pour basculer entre les deux modes de contrôle du bruit</string>
-    <string name="device_config_gestures_action_off">Eteint</string>
+    <string name="device_config_gestures_action_off">Éteint</string>
     <string name="device_config_gestures_action_off_summary">Désactiver annulation du bruit et transparence</string>
     <string name="device_config_gestures_action_noise_summary">Bloquer les sons extérieurs</string>
     <string name="device_config_gestures_action_trans_summary">Autoriser sons extérieurs</string>
 
     <!-- Sound settings -->
-    <string name="device_config_sound_settings">Sound settings</string>
-    <string name="device_config_sound_settings_summary">Customize the sound when using earphones</string>
-    <string name="device_config_sound_settings_spatial_audio">Spatial audio</string>
-    <string name="device_config_sound_settings_spatial_audio_summary">Experience immersion and sense of space for supported audio and video</string>
-    <string name="device_config_sound_settings_sound_quality">Preferences</string>
-    <string name="device_config_sound_settings_sound_quality_low_latency">Low latency</string>
-    <string name="device_config_sound_settings_sound_quality_high_quality">High quality</string>
-    <string name="device_config_sound_settings_head_tracking">Track head movement</string>
-    <string name="device_config_sound_settings_head_tracking_summary">Experience enhanced sense of space and direction for supported audio and video</string>
+    <string name="device_config_sound_settings">Paramètres sonores</string>
+    <string name="device_config_sound_settings_summary">Personnalisez le son lors de l'utilisation des écouteurs</string>
+    <string name="device_config_sound_settings_spatial_audio">Audio spatial</string>
+    <string name="device_config_sound_settings_spatial_audio_summary">Vivez une immersion et un sens de l'espace pour l'audio et la vidéo compatibles</string>
+    <string name="device_config_sound_settings_sound_quality">Préférences</string>
+    <string name="device_config_sound_settings_sound_quality_low_latency">Faible latence</string>
+    <string name="device_config_sound_settings_sound_quality_high_quality">Haute qualité</string>
+    <string name="device_config_sound_settings_head_tracking">Suivi des mouvements de la tête</string>
+    <string name="device_config_sound_settings_head_tracking_summary">Vivez un sens amélioré de l'espace et de la direction pour l'audio et la vidéo compatibles</string>
     <string name="device_config_sound_settings_surround_sound_summary">Enrichir la profondeur sonore pour la lecture audio et vidéo dans les écouteurs</string>
     <string name="device_config_sound_settings_surround_sound_summary_global">Enrichir la profondeur du son pour la lecture audio et vidéo dans les écouteurs. Cette fonctionnalité ne fonctionnera pas lorsque LDAC est activé.</string>
     <string name="device_config_sound_settings_surround_sound_title">Effets sonores immersifs</string>
     <string name="device_config_sound_settings_sound_mode">Balance audio</string>
     <string name="device_config_sound_settings_sound_balanced">Standard</string>
     <string name="device_config_sound_settings_sound_treble_boost">Renforcer les aigus</string>
-    <string name="device_config_sound_settings_sound_bass_boost">Renforcer la basse</string>
+    <string name="device_config_sound_settings_sound_bass_boost">Renforcer les basses</string>
     <string name="device_config_sound_settings_sound_vocal_enhancement">Améliorer la voix</string>
-    <string name="device_config_sound_settings_sound_personalized">Custom</string>
+    <string name="device_config_sound_settings_sound_personalized">Personnalisé</string>
 
     <!-- More settings -->
     <string name="device_config_more_settings">Paramètres supplémentaires</string>
@@ -208,7 +208,7 @@
     <string name="device_config_network_not_available">Vérifier les paramètres réseau et réessayer</string>
     <!-- Update from file -->
     <string name="device_config_firmware_local_ota">Mise à jour depuis un fichier</string>
-    <string name="device_config_firmware_local_ota_summary">Select ota.bin firmware file to flash.\nUpgrade your earbuds firmware on your own risk</string>
+    <string name="device_config_firmware_local_ota_summary">Sélectionnez le fichier de firmware ota.bin à flasher.\nMettez à jour le firmware de vos écouteurs à vos propres risques</string>
 
     <!-- Unpair device -->
     <string name="device_config_unpair_title">Désappairage de l\'appareil</string>
@@ -220,8 +220,8 @@
     <!-- Information -->
     <string name="app_settings_information_title">Information</string>
 
-    <!-- UI preferences -->
-    <string name="prefs_ui_title">User interface</string>
+    <!-- UI preferences -->    
+    <string name="prefs_ui_title">Interface utilisateur</string>
     <string name="prefs_ui_theme">Thème</string>
     <string name="prefs_ui_theme_follow_system">Thème par défaut du système</string>
     <string name="prefs_ui_theme_dark">Sombre</string>
@@ -255,42 +255,41 @@
     <string name="prefs_widgets_not_found">Aucun widget installé trouvé</string>
     <!-- Widget config -->
     <string name="widget_config_title">Configuration du widget</string>
-    <string name="widget_config_background_title">Background</string>
-    <string name="widget_config_use_background_title">"Afficher l'arrière-plan du widget"</string>
+    <string name="widget_config_background_title">Arrière-plan</string>
+    <string name="widget_config_use_background_title">Afficher l'arrière-plan du widget</string>
     <string name="widget_config_layout_title">Disposition des widgets</string>
     <string name="widget_config_layout_horizontal">Horizontal</string>
     <string name="widget_config_layout_vertical">Verticale</string>
     <string name="widget_config_show_device_name_title">Afficher le nom des écouteurs</string>
-    <string name="widget_config_background_color_title">"Couleur de l'arrière plan"</string>
-    <string name="widget_config_font_title">Fonts</string>
-    <string name="widget_config_font_color_title">Font color</string>
-    <string name="widget_config_ring_color_title">Charge level rings color</string>
-
+    <string name="widget_config_background_color_title">Couleur de l'arrière-plan</string>
+    <string name="widget_config_font_title">Polices</string>
+    <string name="widget_config_font_color_title">Couleur de la police</string>
+    <string name="widget_config_ring_color_title">Couleur des anneaux de niveau de charge</string>
     <!-- FAQ -->
     <string name="prefs_faq">FAQ</string>
-    <string name="prefs_website">Website</string>
+    <string name="prefs_website">Site web</string>
 
     <!-- Feedback -->
     <string name="prefs_feedback">Envoyer des commentaires</string>
     <string name="prefs_feedback_desc">Avertissement! Si vous rencontrez des problèmes avec vos écouteurs, veuillez contacter le vendeur. Ici, vous pouvez obtenir de l\'aide ou signaler des problèmes liés à l\'application.</string>
     <!-- Contact developer dialog -->
-    <string name="dialog_contact_dev_send_email">Send email</string>
-    <string name="dialog_contact_dev_send_email_message">Describe your problem:\n\n</string>
-    <string name="dialog_contact_dev_send_email_report_bug">Report a bug</string>
-    <string name="dialog_contact_dev_send_email_request_new_feature">Request new feature</string>
-    <string name="dialog_contact_dev_send_email_other">Other</string>
+    <string name="dialog_contact_dev_send_email">Envoyer un email</string>
+    <string name="dialog_contact_dev_send_email_message">Décrivez votre problème :\n\n</string>
+    <string name="dialog_contact_dev_send_email_report_bug">Signaler un bug</string>
+    <string name="dialog_contact_dev_send_email_request_new_feature">Demander une nouvelle fonctionnalité</string>
+    <string name="dialog_contact_dev_send_email_other">Autre</string>
 
     <string name="prefs_policy_title">Déclaration de confidentialité</string>
     <string name="prefs_about_title">A propos</string>
     <string name="prefs_donation_title">Faire un don</string>
 
     <string name="not_implemented">Pas encore implémenté</string>
-    <string name="laboratory">Laboratory</string>
+    <string name="laboratory">Laboratoire</string>
 
     <!-- Color picker -->
     <string name="press_color_to_apply">Appuyez sur la couleur pour appliquer</string>
     <string name="dialog_color_picker">Palette</string>
-    <string name="color_picker_use_default_color">Use default color</string>
+    <string name="color_picker_use_default_color">Utiliser la couleur par défaut</string>
 
 
     <!-- Notification -->
