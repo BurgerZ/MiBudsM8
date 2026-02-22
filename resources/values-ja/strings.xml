@@ -1,6 +1,6 @@
 <resources>
     <string name="app_current_lang">ja</string>
-    <string name="app_translator_name">TakGot</string>
+    <string name="app_translator_name">TakGot, Toufu</string>
 
     <!-- Main screen -->
     <string name="miheadset_disconnected_summary">イヤホンを接続してください</string>
@@ -8,10 +8,10 @@
     <string name="miheadset_disconnected_click_bt_settings">Bluetooth設定を開く</string>
 
     <!-- Device connect -->
-    <string name="device_guide_connect_title">Connect guide</string>
-    <string name="device_guide_reset_title">Reset guide</string>
-    <string name="device_connect_guide">\u2460 両方のイヤホンをケースに入れてください。\n\u2461 カバーを開けたまま、ケースのボタンを3秒間長押しします。\u2462 ケースのインジケーターランプが点滅し、イヤホンが接続できる状態になります。</string>
-    <string name="device_connect_guide_m79a">\u2460 両方のイヤホンを耳に入れ、30秒以内に両方のイヤホンを同時に3回タップしてください。\u2461 音が鳴ったら、ペア設定の準備が完了です。</string>
+    <string name="device_guide_connect_title">接続ガイド</string>
+    <string name="device_guide_reset_title">リセットガイド</string>
+    <string name="device_connect_guide">\u2460 両方のイヤホンをケースに入れてください。\n\u2461 カバーを開けたまま、ケースのボタンを3秒間長押しします。\n\u2462 ケースのインジケーターランプが点滅し、イヤホンが接続できる状態になります。</string>
+    <string name="device_connect_guide_m79a">\u2460 両方のイヤホンを耳に入れ、30秒以内に両方のイヤホンを同時に3回タップしてください。\n\u2461 音が鳴ったら、ペア設定の準備が完了です。</string>
 
     <!-- Device config -->
     <!-- Battery -->
@@ -47,17 +47,17 @@
     <string name="device_config_anc_alert_single_ear">ノイズキャンセリングのためにイヤホンを両方とも装着してください</string>
 
     <!-- Gestures -->
-    <string name="device_config_gestures_title">動作</string>
+    <string name="device_config_gestures_title">ジェスチャー</string>
     <string name="device_config_gestures_summary">イヤホン接触時の動作を変更する</string>
-    <string name="device_config_gestures_single_warning">一回接触でのアクションは誤接触で意図せず起こってしまう事があります</string>
-    <string name="device_config_gestures_single_press_left">左イヤホンを一回触る</string>
-    <string name="device_config_gestures_single_press_right">右イヤホンを一回触る</string>
-    <string name="device_config_gestures_double_click_left">左イヤホンを二回触る</string>
-    <string name="device_config_gestures_double_click_right">右イヤホンを二回触る</string>
+    <string name="device_config_gestures_single_warning">シングルタップのアクションは誤接触で意図せず起こってしまう事があります</string>
+    <string name="device_config_gestures_single_press_left">左イヤホンを一回押す</string>
+    <string name="device_config_gestures_single_press_right">右イヤホンを一回押す</string>
+    <string name="device_config_gestures_double_click_left">左イヤホンを二回タップ</string>
+    <string name="device_config_gestures_double_click_right">右イヤホンを二回タップ</string>
     <string name="device_config_gestures_double_press_left">左イヤホンを二回押す</string>
     <string name="device_config_gestures_double_press_right">右イヤホンを二回押す</string>
-    <string name="device_config_gestures_triple_click_left">左イヤホンを三回触る</string>
-    <string name="device_config_gestures_triple_click_right">右イヤホンを三回触る</string>
+    <string name="device_config_gestures_triple_click_left">左イヤホンを三回タップ</string>
+    <string name="device_config_gestures_triple_click_right">右イヤホンを三回タップ</string>
     <string name="device_config_gestures_triple_press_left">左イヤホンを三回押す</string>
     <string name="device_config_gestures_triple_press_right">右イヤホンを三回押す</string>
     <string name="device_config_gestures_press_left">左イヤホンを長押し</string>
@@ -70,8 +70,8 @@
     <string name="device_config_gestures_action_previous_track">前の曲</string>
     <string name="device_config_gestures_action_play_pause">再生/一時停止</string>
     <string name="device_config_gestures_action_voice_assistant">音声アシスタント</string>
-    <string name="device_config_gestures_action_noise_control">騒音制御</string>
-    <string name="device_config_gestures_action_noise_control_summary">二つの騒音制御モードを切り替えるため、触れる、または長押ししてください</string>
+    <string name="device_config_gestures_action_noise_control">ノイズキャンセリング</string>
+    <string name="device_config_gestures_action_noise_control_summary">二つのノイズキャンセリングモードを切り替えるため、長押ししてください</string>
     <string name="device_config_gestures_action_off">オフ</string>
     <string name="device_config_gestures_action_off_summary">ノイズキャンセリングと外音取り込みを無効化</string>
     <string name="device_config_gestures_action_noise_summary">外音を遮断</string>
@@ -89,7 +89,7 @@
     <string name="device_config_sound_settings_head_tracking_summary">対応するオーディオとビデオによる空間オーディオと指向性オーディオを体験する</string>
     <string name="device_config_sound_settings_surround_sound_summary">イヤホンでのオーディオやビデオ再生時の音の深みを豊かにする</string>
     <string name="device_config_sound_settings_surround_sound_summary_global">イヤホンでのオーディオやビデオ再生時の音の深みを豊かにします。LDACがオンの場合はこの機能は使用できません。</string>
-    <string name="device_config_sound_settings_surround_sound_title">イマーシブサウンド効果</string>
+    <string name="device_config_sound_settings_surround_sound_title">没入型サウンド効果</string>
     <string name="device_config_sound_settings_sound_mode">オーディオバランス</string>
     <string name="device_config_sound_settings_sound_balanced">標準</string>
     <string name="device_config_sound_settings_sound_treble_boost">高音強化</string>
@@ -221,8 +221,8 @@
     <string name="prefs_ui_title">ユーザーインターフェース</string>
     <string name="prefs_ui_theme">インターフェイスのテーマ</string>
     <string name="prefs_ui_theme_follow_system">システムの設定に従う</string>
-    <string name="prefs_ui_theme_dark">黒基調テーマ</string>
-    <string name="prefs_ui_theme_light">白基調テーマ</string>
+    <string name="prefs_ui_theme_dark">ダークモード</string>
+    <string name="prefs_ui_theme_light">ライトモード</string>
     <string name="prefs_ui_theme_battery">電池残量によりテーマを設定する</string>
 
     <!-- Battery icons style -->
@@ -279,11 +279,11 @@
     <string name="prefs_about_title">このアプリについて</string>
     <string name="prefs_donation_title">寄付</string>
 
-    <string name="not_implemented">未実施</string>
+    <string name="not_implemented">実装されていません</string>
     <string name="laboratory">研究所</string>
 
     <!-- Color picker -->
-    <string name="press_color_to_apply">色を選択し適応する</string>
+    <string name="press_color_to_apply">色を選択し適用する</string>
     <string name="dialog_color_picker">色選択</string>
     <string name="color_picker_use_default_color">デフォルトの配色</string>
 
@@ -307,8 +307,8 @@
 
     <!-- About App dialog -->
     <string name="dialog_about_app_copyright">開発者</string>
-    <string name="dialog_about_app_version">アプリのバージョン</string>
-    <string name="dialog_about_app_short_app_description">このアプリはシャオミのBluetoothイヤホンの詳細な設定を可能にします\n\n主な機能（お持ちのイヤホンのモデルにより多少違います）:\n&#8226; アクティブノイズキャンセリングの設定\n&#8226; 動作によるイヤホンのコントロール\n&#8226; イヤホン紛失の警告\n&#8226; イヤホンのフィットテスト\n&#8226; 複数デバイスへの同時接続\n&#8226; イヤホンのファームウェアアップデート\n&#8226; その他便利な詳細設定機能\n\n他地域への適応: %1$s\nサポート: %2$s</string>
+    <string name="dialog_about_app_version">アプリバージョン</string>
+    <string name="dialog_about_app_short_app_description">このアプリはXiaomiのBluetoothイヤホンの詳細な設定を可能にします\n\n主な機能（お持ちのイヤホンのモデルにより多少異なります）:\n&#8226; アクティブノイズキャンセリングの設定\n&#8226; ジェスチャーによるイヤホンのコントロール\n&#8226; イヤホン紛失の警告\n&#8226; イヤホンのフィットテスト\n&#8226; 複数デバイスへの同時接続\n&#8226; イヤホンのファームウェアアップデート\n&#8226; その他便利な詳細設定機能\n\n他地域への適応: %1$s\nサポート: %2$s</string>
 
     <!-- Popup dialog -->
     <string name="dialog_headset_popup_btn_settings_title">設定</string>
