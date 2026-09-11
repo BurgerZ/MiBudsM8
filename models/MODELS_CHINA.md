@@ -1,4 +1,4 @@
-# Xiaomi Earbuds Models
+# Earbuds Models
 
 Total models: 40
 
