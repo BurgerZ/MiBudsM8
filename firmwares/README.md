@@ -31,10 +31,8 @@
 | 5a4d | ea0e | 1.1.1.0 | [1.1.1.0](./china/l76c/l76c_1.1.1.0.bin) | CHINA | 56d5d128a97766589c846fc36231bef4 |
 | 5a4d | ea0e | 1.1.1.3 | [1.1.1.3](./china/l76c/l76c_1.1.1.3.bin) | CHINA | a8d5f85de7189b2dc2b0e8beda8a67bf |
 | 5a4d | ea0e | 1.1.1.5 | [1.1.1.5](./china/l76c/l76c_1.1.1.5.bin) | CHINA | 11de0d87c8d74dedbb80c39208fea72c |
-| 5a4d | ea0e | 1.1.1.6 | [1.1.1.6](./china/l76c/l76c_1.1.1.6.bin) | CHINA | 894e9442db8a6e5121a204e10af9bcc6 |
 | 5A4D | EA0E | 1.1.1.6 | [1.1.1.6](./china/l76c/l76c_1.1.1.6.bin) | CHINA | 894e9442db8a6e5121a204e10af9bcc6 |
 | 5a4d | ea0f | 2.0.1.7 | [2.0.1.7](./global/l76g/l76g_2.0.1.7.bin) | GLOBAL | 1d45e45c3dd9870fdc01a66956e6becf |
-| 5a4d | ea0f | 2.0.2.2 | [2.0.2.2](./global/l76g/l76g_2.0.2.2.bin) | GLOBAL | 716e00dbf58bd7bf56a9ad2ff905af76 |
 | 5A4D | EA0F | 2.0.2.2 | [2.0.2.2](./global/l76g/l76g_2.0.2.2.bin) | GLOBAL | 716e00dbf58bd7bf56a9ad2ff905af76 |
 
 # Redmi Buds 5
@@ -149,6 +147,7 @@
 # Xiaomi Buds 4
 | VID | PID | Version | Link | Region | MD5 |
 |-|-|-|-|-|-|
+| 2717 | 5044 | 4.0.3.8 | [4.0.3.8](./china/m75acn/m75acn_4.0.3.8.bin) | CHINA | 0a7857719eac4c046e25353d3ea04376 |
 | 2717 | 5044 | 4.0.3.9 | [4.0.3.9](./china/m75acn/m75acn_4.0.3.9.bin) | CHINA | 3c5fcbd14353fdb14653c72f624790ca |
 
 # Xiaomi Buds 4 Pro
