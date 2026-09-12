@@ -1,12 +1,43 @@
+# FlipBuds Pro
+| VID | PID | Version | Link | Region | MD5 |
+|-|-|-|-|-|-|
+| 0001 | 0000 | 7.6.3.15 | [7.6.3.15](./china/k71cn/k71cn_7.6.3.15.bin) | CHINA | e834621da146e6d6840cf7cd876e0a85 |
+| 0001 | 0001 | 8.6.2.0 | [8.6.2.0](./global/k71g/k71g_8.6.2.0.bin) | GLOBAL | feaddcaf8d2306b9822c57ef2d6f2e82 |
+
+# Redmi AirDots 3 Pro
+| VID | PID | Version | Link | Region | MD5 |
+|-|-|-|-|-|-|
+| 5a4d | ea03 | 1.0.8.8 | [1.0.8.8](./china/k76cn/k76cn_1.0.8.8.bin) | CHINA | 7c2d5c6fff1963d3feb278db26a86c92 |
+| 5a4d | ea03 | 1.0.9.7 | [1.0.9.7](./china/k76cn/k76cn_1.0.9.7.bin) | CHINA | cb2076e56946301b914e1569c14bd94a |
+| 5a4d | ea03 | 1.1.0.5 | [1.1.0.5](./china/k76cn/k76cn_1.1.0.5.bin) | CHINA | fce6e9206d704aea1efef87201365b1d |
+| 5a4d | ea03 | 1.1.1.1 | [1.1.1.1](./china/k76cn/k76cn_1.1.1.1.bin) | CHINA | 686f2b6013b6383e2ad4d90941894f44 |
+
+# Redmi Buds 3
+| VID | PID | Version | Link | Region | MD5 |
+|-|-|-|-|-|-|
+| 2717 | 5027 | 1.0.3.15 | [1.0.3.15](./china/k77scn/k77scn_1.0.3.15.bin) | CHINA | 7011fc57c9b948ef96a98a65fdc83378 |
+
+# Redmi Buds 3 Pro
+| VID | PID | Version | Link | Region | MD5 |
+|-|-|-|-|-|-|
+| 5a4d | ea0b | 1.0.9.9 | [1.0.9.9](./global/k76g_black/k76g_black_1.0.9.9.bin) | GLOBAL | aaf7ffb564d1ff4534d0093e9bba7df1 |
+| 5a4d | ea0b | 1.1.1.1 | [1.1.1.1](./global/k76g_black/k76g_black_1.1.1.1.bin) | GLOBAL | b076b2b2e266625006ae4f3ba1947e91 |
+
 # Redmi Buds 4 Pro
 | VID | PID | Version | Link | Region | MD5 |
 |-|-|-|-|-|-|
+| 5a4d | ea0e | 1.1.1.0 | [1.1.1.0](./china/l76c/l76c_1.1.1.0.bin) | CHINA | 56d5d128a97766589c846fc36231bef4 |
+| 5a4d | ea0e | 1.1.1.3 | [1.1.1.3](./china/l76c/l76c_1.1.1.3.bin) | CHINA | a8d5f85de7189b2dc2b0e8beda8a67bf |
+| 5a4d | ea0e | 1.1.1.5 | [1.1.1.5](./china/l76c/l76c_1.1.1.5.bin) | CHINA | 11de0d87c8d74dedbb80c39208fea72c |
 | 5A4D | EA0E | 1.1.1.6 | [1.1.1.6](./china/l76c/l76c_1.1.1.6.bin) | CHINA | 894e9442db8a6e5121a204e10af9bcc6 |
+| 5a4d | ea0f | 2.0.1.7 | [2.0.1.7](./global/l76g/l76g_2.0.1.7.bin) | GLOBAL | 1d45e45c3dd9870fdc01a66956e6becf |
 | 5A4D | EA0F | 2.0.2.2 | [2.0.2.2](./global/l76g/l76g_2.0.2.2.bin) | GLOBAL | 716e00dbf58bd7bf56a9ad2ff905af76 |
 
 # Redmi Buds 5
 | VID | PID | Version | Link | Region | MD5 |
 |-|-|-|-|-|-|
+| 2717 | 506a | 1.0.3.2 | [1.0.3.2](./china/n77cn/n77cn_1.0.3.2.bin) | CHINA | 54d01d6ded690ea253f1f6b4f6a1b466 |
+| 2717 | 506a | 1.0.3.6 | [1.0.3.6](./china/n77cn/n77cn_1.0.3.6.bin) | CHINA | c80876d46c53047bacfd39d107f50d99 |
 | 2717 | 506a | 1.0.3.8 | [1.0.3.8](./china/n77cn/n77cn_1.0.3.8.bin) | CHINA | c66d1aef1b183675b9f35730664a6313 |
 | 2717 | 5087 | 2.0.4.0 | [2.0.4.0](./india/n77in/n77in_2.0.4.0.bin) | INDIA | 885eedf309c23e569072db6765441cd6 |
 
@@ -14,16 +45,21 @@
 | VID | PID | Version | Link | Region | MD5 |
 |-|-|-|-|-|-|
 | 2717 | 506b | 1.0.3.7 | [1.0.3.7](./china/n77ipc/n77ipc_1.0.3.7.bin) | CHINA | 3871c8f6245aef0dd488df17c3e9efd0 |
+| 2717 | 506b | 1.0.3.8 | [1.0.3.8](./china/n77ipc/n77ipc_1.0.3.8.bin) | CHINA | c66d1aef1b183675b9f35730664a6313 |
 
 # Redmi Buds 5 Pro
 | VID | PID | Version | Link | Region | MD5 |
 |-|-|-|-|-|-|
+| 2717 | 506c | 4.1.7.2 | [4.1.7.2](./china/n76cn/n76cn_4.1.7.2.bin) | CHINA | 1f96c1aca0310905ae91b2a14156b209 |
+| 2717 | 506c | 4.1.8.8 | [4.1.8.8](./china/n76cn/n76cn_4.1.8.8.bin) | CHINA | 7ac252dfcd776a67d6fef05070e96d47 |
 | 2717 | 506c | 4.1.9.1 | [4.1.9.1](./china/n76cn/n76cn_4.1.9.1.bin) | CHINA | 41b473a41b801b044041195fe1f99a7f |
+| 2717 | 506d | 4.3.7.7 | [4.3.7.7](./global/n76g/n76g_4.3.7.7.bin) | GLOBAL | 1bcda95e5b5595098429166d7fb6793d |
 | 2717 | 506d | 4.3.9.1 | [4.3.9.1](./global/n76g/n76g_4.3.9.1.bin) | GLOBAL | 943ad14dde950c8a69749eda3edf5b7b |
 
 # Redmi Buds 5 Pro Gaming
 | VID | PID | Version | Link | Region | MD5 |
 |-|-|-|-|-|-|
+| 2717 | 506f | 4.2.8.8 | [4.2.8.8](./china/n79gcn/n79gcn_4.2.8.8.bin) | CHINA | a9e5943ea1ca6096ee00dd38b6b64bbe |
 | 2717 | 506f | 4.2.9.1 | [4.2.9.1](./china/n79gcn/n79gcn_4.2.9.1.bin) | CHINA | a92d464731ae1758272ea82e3685da3f |
 
 # Redmi Buds 6
@@ -100,6 +136,12 @@
 |-|-|-|-|-|-|
 | 2717 | 50fb | 2.1.2.9 | [2.1.2.9](./china/o70cc/o70cc_2.1.2.9.bin) | CHINA | 93fb54e2de59fc0d201902a67652392d |
 
+# Xiaomi Buds 3
+| VID | PID | Version | Link | Region | MD5 |
+|-|-|-|-|-|-|
+| 2717 | 5026 | 5.1.5.1 | [5.1.5.1](./china/k75cn/k75cn_5.1.5.1.bin) | CHINA | 0fea7e6e04f6540bc2cf4db1b4ee53ef |
+| 2717 | 502b | 5.3.3.9 | [5.3.3.9](./global/k75g/k75g_5.3.3.9.bin) | GLOBAL | 8a099f6fcd0108e244c9070369ddb772 |
+
 # Xiaomi Buds 4
 | VID | PID | Version | Link | Region | MD5 |
 |-|-|-|-|-|-|
@@ -108,6 +150,8 @@
 # Xiaomi Buds 4 Pro
 | VID | PID | Version | Link | Region | MD5 |
 |-|-|-|-|-|-|
+| 2717 | 5035 | 2.5.5.7 | [2.5.5.7](./china/l71c/l71c_2.5.5.7.bin) | CHINA | 8d2fdde70ec97af04eca688d504ffe0e |
+| 2717 | 5035 | 2.5.7.3 | [2.5.7.3](./china/l71c/l71c_2.5.7.3.bin) | CHINA | 795d26b278c40cf77460be4a1626dd37 |
 | 2717 | 5035 | 2.5.7.4 | [2.5.7.4](./china/l71c/l71c_2.5.7.4.bin) | CHINA | 5647e11608b61261b5dabc49208671d3 |
 | 2717 | 503b | 4.5.6.3 | [4.5.6.3](./global/l71g/l71g_4.5.6.3.bin) | GLOBAL | d5273bd33f28395534046fc1cdfd7be2 |
 
