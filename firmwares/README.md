@@ -115,6 +115,7 @@
 # REDMI Buds 8 Pro
 | VID | PID | Version | Link | Region | MD5 |
 |-|-|-|-|-|-|
+| 2717 | 50e3 | 1.2.3.7 | [1.2.3.7](./china/p76c/p76c_1.2.3.7.bin) | CHINA | 3c8181c6d81106799189b62b7f3c34e8 |
 | 2717 | 50e3 | 1.2.3.6 | [1.2.3.6](./china/p76c/p76c_1.2.3.6.bin) | CHINA | e822b34c355e3b6b354a8573369d0f08 |
 | 2717 | 50e5 | 3.2.2.6 | [3.2.2.6](./global/p76gl/p76gl_3.2.2.6.bin) | GLOBAL | 6313cadbf54dd0372ab4489a1c63db63 |
 
