@@ -115,8 +115,8 @@
 # REDMI Buds 8 Pro
 | VID | PID | Version | Link | Region | MD5 |
 |-|-|-|-|-|-|
-| 2717 | 50e3 | 1.2.3.7 | [1.2.3.7](./china/p76c/p76c_1.2.3.7.bin) | CHINA | 3c8181c6d81106799189b62b7f3c34e8 |
 | 2717 | 50e3 | 1.2.3.6 | [1.2.3.6](./china/p76c/p76c_1.2.3.6.bin) | CHINA | e822b34c355e3b6b354a8573369d0f08 |
+| 2717 | 50e3 | 1.2.3.7 | [1.2.3.7](./china/p76c/p76c_1.2.3.7.bin) | CHINA | 3c8181c6d81106799189b62b7f3c34e8 |
 | 2717 | 50e5 | 3.2.2.6 | [3.2.2.6](./global/p76gl/p76gl_3.2.2.6.bin) | GLOBAL | 6313cadbf54dd0372ab4489a1c63db63 |
 
 # REDMI Buds 8 活力版
@@ -128,6 +128,11 @@
 | VID | PID | Version | Link | Region | MD5 |
 |-|-|-|-|-|-|
 | 2717 | 50ee | 2.1.0.7 | [2.1.0.7](./china/p79ac/p79ac_2.1.0.7.bin) | CHINA | 2742d925b65f4c528a0e4e43c3059826 |
+
+# REDMI Buds 8S
+| VID | PID | Version | Link | Region | MD5 |
+|-|-|-|-|-|-|
+| 2717 | 511c | 1.0.9.0 | [1.0.9.0](./china/q77sc/q77sc_1.0.9.0.bin) | CHINA | 6967f502f321ae3d25324e84bb924b2c |
 
 # REDMI Headphones Neo
 | VID | PID | Version | Link | Region | MD5 |
