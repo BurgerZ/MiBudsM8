@@ -1,9 +1,6 @@
-# Privacy Policy for My Buds M8
+# Privacy Policy
 
 **Last Updated:** November 1, 2026
-
-**Developer:** Andrei Zhukouski
-**Contact:** contact@zaa.bz
 
 ---
 
