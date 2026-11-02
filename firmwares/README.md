@@ -134,6 +134,11 @@
 |-|-|-|-|-|-|
 | 2717 | 511c | 1.0.9.0 | [1.0.9.0](./china/q77sc/q77sc_1.0.9.0.bin) | CHINA | 6967f502f321ae3d25324e84bb924b2c |
 
+# REDMI Clip Neo
+| VID | PID | Version | Link | Region | MD5 |
+|-|-|-|-|-|-|
+| 2717 | 511e | 1.1.5.5 | [1.1.5.5](./china/q74cc/q74cc_1.1.5.5.bin) | CHINA | e27299bce0ef86b6ab711ecc58fd43ea |
+
 # REDMI Headphones Neo
 | VID | PID | Version | Link | Region | MD5 |
 |-|-|-|-|-|-|

@@ -1,6 +1,6 @@
 # Earbuds Models
 
-Total models: 26
+Total models: 27
 
 | Model | Name | Code | VID | PID | Case | Buds | Dynamic | Guide |
 |------------|-------------|------|-----|-----|------|------|---------|-------|
@@ -28,5 +28,6 @@ Total models: 26
 | M2437E1 | Xiaomi Buds 5 Pro | o71btg | 2717 | 50b4 | <img src="./static/o71btg_1_static.png" width="100" alt="static_1"/> <sub>1</sub><br><img src="./static/o71btg_2_static.png" width="100" alt="static_2"/> <sub>2</sub> | <img src="./static/o71btg_1_static_buds.png" width="100" alt="static_buds_1"/> <sub>1</sub><br><img src="./static/o71btg_2_static_buds.png" width="100" alt="static_buds_2"/> <sub>2</sub> | — | [guide_1](./guide/o71btg_1_guide.json)<br>[guide_2](./guide/o71btg_2_guide.json) |
 | M2438E1 | Xiaomi Buds 5 Pro Wi-Fi | o71g | 2717 | 50ac | <img src="./static/o71g_1_static.png" width="100" alt="static_1"/> <sub>1</sub> | <img src="./static/o71g_1_static_buds.png" width="100" alt="static_buds_1"/> <sub>1</sub> | — | [guide_1](./guide/o71g_1_guide.json) |
 | M2540E1 | Xiaomi Buds 6 | p75g | 2717 | 50eb | <img src="./static/p75g_1_static.png" width="100" alt="static_1"/> <sub>1</sub><br><img src="./static/p75g_2_static.png" width="100" alt="static_2"/> <sub>2</sub><br><img src="./static/p75g_3_static.png" width="100" alt="static_3"/> <sub>3</sub><br><img src="./static/p75g_4_static.png" width="100" alt="static_4"/> <sub>4</sub> | — | — | [guide_1](./guide/p75g_1_guide.json)<br>[guide_2](./guide/p75g_2_guide.json)<br>[guide_3](./guide/p75g_3_guide.json)<br>[guide_4](./guide/p75g_4_guide.json) |
+| M2529E1 | Xiaomi Clip | q74ugl | 2717 | 50dc | <img src="./static/q74ugl_1_static.png" width="100" alt="static_1"/> <sub>1</sub><br><img src="./static/q74ugl_2_static.png" width="100" alt="static_2"/> <sub>2</sub><br><img src="./static/q74ugl_3_static.png" width="100" alt="static_3"/> <sub>3</sub><br><img src="./static/q74ugl_4_static.png" width="100" alt="static_4"/> <sub>4</sub> | — | — | [guide_1](./guide/q74ugl_1_guide.json)<br>[guide_2](./guide/q74ugl_2_guide.json)<br>[guide_3](./guide/q74ugl_3_guide.json)<br>[guide_4](./guide/q74ugl_4_guide.json) |
 | M2319E1 | Xiaomi OpenWear Stereo | n74ag | 2717 | 5080 | <img src="./static/n74ag_1_static.png" width="100" alt="static_1"/> <sub>1</sub><br><img src="./static/n74ag_2_static.png" width="100" alt="static_2"/> <sub>2</sub> | — | — | [guide_2](./guide/n74ag_2_guide.json) |
 | M2503E1 | Xiaomi OpenWear Stereo Pro | o74g | 2717 | 50d7 | <img src="./static/o74g_1_static.png" width="100" alt="static_1"/> <sub>1</sub><br><img src="./static/o74g_2_static.png" width="100" alt="static_2"/> <sub>2</sub><br><img src="./static/o74g_3_static.png" width="100" alt="static_3"/> <sub>3</sub> | — | — | [guide_1](./guide/o74g_1_guide.json) |
