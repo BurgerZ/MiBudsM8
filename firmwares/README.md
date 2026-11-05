@@ -100,6 +100,7 @@
 | VID | PID | Version | Link | Region | MD5 |
 |-|-|-|-|-|-|
 | 2717 | 50f2 | 1.2.1.8 | [1.2.1.8](./china/p77c/p77c_1.2.1.8.bin) | CHINA | e6e59c8169769d7445fc8f6fc0e9695f |
+| 2717 | 50f2 | 1.2.2.0 | [1.2.2.0](./china/p77c/p77c_1.2.2.0.bin) | CHINA | b8b542eba454010deacaf3bcaee320fc |
 | 2717 | 50f3 | 5.2.0.2 | [5.2.0.2](./global/p77g/p77g_5.2.0.2.bin) | GLOBAL | f5834e6408746c1595c51b8419e6a917 |
 
 # REDMI Buds 8 Active
@@ -212,6 +213,7 @@
 | VID | PID | Version | Link | Region | MD5 |
 |-|-|-|-|-|-|
 | 2717 | 50db | 1.5.1.2 | [1.5.1.2](./china/q74ucn/q74ucn_1.5.1.2.bin) | CHINA | bb0ad069907d52cff67ef9507df01ec4 |
+| 2717 | 50db | 1.5.1.4 | [1.5.1.4](./china/q74ucn/q74ucn_1.5.1.4.bin) | CHINA | 6909e395bfe642250b42a1aa369bea8d |
 
 # Xiaomi 骨传导耳机2
 | VID | PID | Version | Link | Region | MD5 |
