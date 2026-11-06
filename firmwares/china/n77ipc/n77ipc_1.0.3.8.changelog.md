@@ -1,0 +1,8 @@
+# Firmware 1.0.3.8
+
+- **MD5:** `c66d1aef1b183675b9f35730664a6313`
+- **File:** `n77ipc_1.0.3.8.bin`
+
+## Changelog
+
+• Improve user experience
