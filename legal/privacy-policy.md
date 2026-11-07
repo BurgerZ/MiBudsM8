@@ -12,7 +12,7 @@ This Privacy Policy applies to the My Buds M8 mobile application (the "App"). We
 
 ### A. Location Data (Earbuds Last Seen)
 
-With your permission, the App accesses your device's location to save the last known location of your earbuds when they disconnect from your phone.
+With your permission, the App accesses your device's location to save the last known location of your earbuds when they disconnect, and to show your current position on the map while the "Find Earbuds" screen is open.
 
 - **Storage:** This location data (latitude, longitude, and timestamp) is stored **exclusively on your local device** within the App's private storage (DataStore).
 - **No Upload:** We do **not** transmit, upload, or share this location data with us or any third parties. It never leaves your phone.
@@ -56,9 +56,9 @@ We use the accessed data strictly for the following purposes:
 
 ## 6. Permissions Explained
 
-- **Location (Fine / Coarse / Background):** Required by Android to scan for Bluetooth devices and to save the "last seen" location when the earbuds disconnect. Background location is used *only* if you enable the "Track earbuds location" feature, so the App can save the location even if the App is closed.
+- **Location (Fine / Coarse / Background):** Required to save the "last seen" location of your earbuds when they disconnect, so you can find them later. Background location is used only if you enable the "Track earbuds location" feature, so the App can save the location even if the App is closed. Bluetooth scanning on modern Android does not require location access.
 - **Bluetooth (Connect / Scan):** Required to communicate with your earbuds.
-- **Notifications:** Required to show the persistent battery / ANC controls.
+- **Notifications:** Required to show the persistent battery and ANC controls.
 
 ---
 
