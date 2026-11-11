@@ -11,7 +11,7 @@
 
 ## Download
 
-<!--a href="https://play.google.com/store/apps/details?id=bz.zaa.mibudsm8"><img alt="Get it on Google Play" src="images/googleplay-black-en.svg" width="135" height="40"/></a-->
+<a href="https://play.google.com/store/apps/details?id=bz.zaa.mibudsm8"><img alt="Get it on Google Play" src="images/googleplay-black-en.svg" width="135" height="40"/></a>
 <!--a href="https://appgallery.huawei.com/app/C106054801"><img alt="Get it on Huawei AppGallery" src="images/appgallery-black-en.svg" width="135" height="40"/></a-->
 Discussion and app beta version: [Telegram](https://t.me/mibudsm8).
 
