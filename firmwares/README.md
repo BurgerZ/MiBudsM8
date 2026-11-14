@@ -150,6 +150,11 @@
 |-|-|-|-|-|-|
 | 2717 | 50fb | 2.1.2.9 | [2.1.2.9](./china/o70cc/o70cc_2.1.2.9.bin) | CHINA | 93fb54e2de59fc0d201902a67652392d |
 
+# Xiaomi Air 5
+| VID | PID | Version | Link | Region | MD5 |
+|-|-|-|-|-|-|
+| 2717 | 5113 | 1.1.1.7 | [1.1.1.7](./china/p76sc/p76sc_1.1.1.7.bin) | CHINA | 322eb51290de59febe96ce52428e105c |
+
 # Xiaomi Buds 3
 | VID | PID | Version | Link | Region | MD5 |
 |-|-|-|-|-|-|
