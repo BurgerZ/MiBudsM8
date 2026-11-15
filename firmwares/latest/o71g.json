@@ -5,6 +5,6 @@
     "version": "5.3.2.3",
     "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/global/o71g/o71g_5.3.2.3.bin",
     "md5": "d4f2f9c77b2122bd3219f86339cee37c",
-    "changeLog": ""
+    "changeLog": "1.Add: Personalized Dimensional Audio\n2.Optimize: Adaptive Noise Cancellation\n3.Improve user experience"
   }
 }

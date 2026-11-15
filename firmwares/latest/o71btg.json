@@ -5,6 +5,6 @@
     "version": "3.3.5.2",
     "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/global/o71btg/o71btg_3.3.5.2.bin",
     "md5": "0374ce08084715b2a8f9bd9b6f6b76e3",
-    "changeLog": ""
+    "changeLog": "Optimize Spatial Audio effects\nImprove  prompt sound effects\nOptimize Harman AudioEFX tuning"
   }
 }

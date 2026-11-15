@@ -5,6 +5,6 @@
     "version": "2.1.0.7",
     "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/china/p79ac/p79ac_2.1.0.7.bin",
     "md5": "2742d925b65f4c528a0e4e43c3059826",
-    "changeLog": ""
+    "changeLog": "\u2022 Optimized the audio experience in ANC and Transparency modes.\n\u2022 Improved the stability of multi-device connection switching.\n\u2022 Improved the battery life and charging stability of the charging case.\n\u2022 Fixed known issues."
   }
 }

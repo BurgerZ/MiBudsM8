@@ -5,6 +5,6 @@
     "version": "3.1.0.5",
     "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/global/o74g/o74g_3.1.0.5.bin",
     "md5": "3d6899f1653850363857770ada9c6d3e",
-    "changeLog": ""
+    "changeLog": "\u2022 Optimize the partial experience of connect to two devices."
   }
 }

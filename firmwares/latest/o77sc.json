@@ -5,6 +5,6 @@
     "version": "2.0.6.0",
     "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/china/o77sc/o77sc_2.0.6.0.bin",
     "md5": "4e9388f5f81d67913ab5825dd9a1e233",
-    "changeLog": ""
+    "changeLog": "\u2022 Fix security vulnerabilities."
   }
 }

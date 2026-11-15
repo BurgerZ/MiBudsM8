@@ -5,6 +5,6 @@
     "version": "1.8.9.5",
     "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/china/p75cn/p75cn_1.8.9.5.bin",
     "md5": "cb00562648ef71cb3060a495efac2154",
-    "changeLog": ""
+    "changeLog": "\u2022 Add prompt tones at the start and end of translation;\n\u2022 Fix known issues and improve user experience."
   }
 }

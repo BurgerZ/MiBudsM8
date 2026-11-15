@@ -5,6 +5,6 @@
     "version": "1.1.0.7",
     "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/global/p79ag/p79ag_1.1.0.7.bin",
     "md5": "86f3ac92ba7548a0e896e0eac42cff0f",
-    "changeLog": ""
+    "changeLog": "\u2022 Optimized Bluetooth connection stability.\n\u2022 Improved multi-device connection experience.\n\u2022 Improved system stability."
   }
 }

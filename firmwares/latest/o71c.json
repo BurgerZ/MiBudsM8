@@ -5,6 +5,6 @@
     "version": "2.3.9.2",
     "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/china/o71c/o71c_2.3.9.2.bin",
     "md5": "95dc15a71d62e370798129c56457fc71",
-    "changeLog": ""
+    "changeLog": "\u2022 Optimize noise reduction algorithms to enhance noise cancellation performance across various wearing conditions and different noise environments."
   }
 }

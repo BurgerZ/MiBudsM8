@@ -5,6 +5,6 @@
     "version": "1.0.3.6",
     "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/china/o73cn/o73cn_1.0.3.6.bin",
     "md5": "7fe88fdc21d64d889336d66872ac1c6f",
-    "changeLog": ""
+    "changeLog": "1. Optimize the partial experience of connect to two devices.\n2. Optimize the partial experience of the prompt sound."
   }
 }
