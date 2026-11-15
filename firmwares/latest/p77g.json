@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "5.2.0.2",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/global/p77g/p77g_5.2.0.2.bin",
+    "md5": "f5834e6408746c1595c51b8419e6a917",
+    "changeLog": ""
+  }
+}

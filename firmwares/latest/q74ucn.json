@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "1.5.1.4",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/china/q74ucn/q74ucn_1.5.1.4.bin",
+    "md5": "6909e395bfe642250b42a1aa369bea8d",
+    "changeLog": "\u2022 Optimized the earbuds experience;\n\u2022 Fixed known issues."
+  }
+}

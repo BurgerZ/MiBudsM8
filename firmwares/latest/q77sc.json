@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "1.0.9.0",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/china/q77sc/q77sc_1.0.9.0.bin",
+    "md5": "6967f502f321ae3d25324e84bb924b2c",
+    "changeLog": "\u2022 Added gesture control for ANC when not connected to a phone;\n\u2022 Improved system stability."
+  }
+}

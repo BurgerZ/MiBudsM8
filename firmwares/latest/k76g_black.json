@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "1.1.1.1",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/global/k76g_black/k76g_black_1.1.1.1.bin",
+    "md5": "b076b2b2e266625006ae4f3ba1947e91",
+    "changeLog": "\u2022 Increased sound volume\n\u2022 Wider sound scene\n\u2022 Save ANC/transparency mode after use"
+  }
+}

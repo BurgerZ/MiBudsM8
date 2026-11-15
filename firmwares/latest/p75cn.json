@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "1.8.9.5",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/china/p75cn/p75cn_1.8.9.5.bin",
+    "md5": "cb00562648ef71cb3060a495efac2154",
+    "changeLog": ""
+  }
+}

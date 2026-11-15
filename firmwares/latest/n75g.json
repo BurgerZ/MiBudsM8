@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "3.1.0.2",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/global/n75g/n75g_3.1.0.2.bin",
+    "md5": "ecc888785f343ed9c3034704fd8418ff",
+    "changeLog": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "1.2.3.7",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/china/p76c/p76c_1.2.3.7.bin",
+    "md5": "3c8181c6d81106799189b62b7f3c34e8",
+    "changeLog": "\u2022 Improved connection and reconnection stability;\n\u2022 Optimized the audio playback experience in certain scenarios;\n\u2022 Improved system stability;\n\u2022 Fixed known issues."
+  }
+}

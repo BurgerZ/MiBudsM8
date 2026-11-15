@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "1.0.3.15",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/china/k77scn/k77scn_1.0.3.15.bin",
+    "md5": "7011fc57c9b948ef96a98a65fdc83378",
+    "changeLog": "\u2022 Bug fixes, optimizations, and product experience improvements\n\u2022 This version takes a long time to upgrade, about 5-10 minutes depending on environmental factors, please wait patiently"
+  }
+}

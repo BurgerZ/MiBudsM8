@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "5.3.3.9",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/global/k75g/k75g_5.3.3.9.bin",
+    "md5": "8a099f6fcd0108e244c9070369ddb772",
+    "changeLog": "\u2022 Optimize ANC performance.\n\u2022 Update mode saving function.\n\u2022 Save ANC/transparency mode after use."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "5.1.5.1",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/china/k75cn/k75cn_5.1.5.1.bin",
+    "md5": "0fea7e6e04f6540bc2cf4db1b4ee53ef",
+    "changeLog": "\u2022 Solve the problem with no sound from one earpod during phone calls\n\u2022 Lower the wearing threshold\n\u2022 Solve the problems with charging\n\u2022 Fix the problem when the music does not play when wearing a single earpod, and then wearing the slave earpod\n\u2022 Optimize master-slave switching"
+  }
+}

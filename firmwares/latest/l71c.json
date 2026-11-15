@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "2.5.7.4",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/china/l71c/l71c_2.5.7.4.bin",
+    "md5": "5647e11608b61261b5dabc49208671d3",
+    "changeLog": "\u2022 Various bug fixes and performance improvements."
+  }
+}

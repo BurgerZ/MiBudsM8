@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "4.5.6.3",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/global/l71g/l71g_4.5.6.3.bin",
+    "md5": "d5273bd33f28395534046fc1cdfd7be2",
+    "changeLog": "\u2022 Fix some known issues\n\u2022 Support Google Fast Pair Service"
+  }
+}

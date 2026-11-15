@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "1.1.1.6",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/china/l76c/l76c_1.1.1.6.bin",
+    "md5": "894e9442db8a6e5121a204e10af9bcc6",
+    "changeLog": "\u2022 Optimizations and user experience improvements."
+  }
+}

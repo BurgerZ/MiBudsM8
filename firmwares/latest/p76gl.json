@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "3.2.2.6",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/global/p76gl/p76gl_3.2.2.6.bin",
+    "md5": "6313cadbf54dd0372ab4489a1c63db63",
+    "changeLog": ""
+  }
+}

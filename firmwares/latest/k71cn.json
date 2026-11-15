@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "7.6.3.15",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/china/k71cn/k71cn_7.6.3.15.bin",
+    "md5": "e834621da146e6d6840cf7cd876e0a85",
+    "changeLog": "\u2022 Optimized headset usage experience"
+  }
+}

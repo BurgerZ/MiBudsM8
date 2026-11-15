@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "4.0.3.9",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/china/m75acn/m75acn_4.0.3.9.bin",
+    "md5": "3c5fcbd14353fdb14653c72f624790ca",
+    "changeLog": "\u2022 Various bug fixes and performance improvements."
+  }
+}

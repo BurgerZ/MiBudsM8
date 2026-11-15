@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "1.2.2.0",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/china/p77c/p77c_1.2.2.0.bin",
+    "md5": "b8b542eba454010deacaf3bcaee320fc",
+    "changeLog": "\u2022 Optimized the smoothness of the wind noise reduction mode;\n\u2022 Optimized the connection experience when opening or closing the charging case;\n\u2022 Optimized audio switching when two devices are connected;\n\u2022 Optimized the connection and battery display experience of the earbuds."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "5.0.9.3",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/global/p75g/p75g_5.0.9.3.bin",
+    "md5": "03bd593836fdc029fff201b3c61639b6",
+    "changeLog": ""
+  }
+}

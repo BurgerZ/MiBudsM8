@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "1.0.3.8",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/china/n77cn/n77cn_1.0.3.8.bin",
+    "md5": "c66d1aef1b183675b9f35730664a6313",
+    "changeLog": "\u2022 Improve user experience"
+  }
+}

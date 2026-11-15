@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "8.6.2.0",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/global/k71g/k71g_8.6.2.0.bin",
+    "md5": "feaddcaf8d2306b9822c57ef2d6f2e82",
+    "changeLog": "\u2022 Bug fixes"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "2.0.2.2",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/global/l76g/l76g_2.0.2.2.bin",
+    "md5": "716e00dbf58bd7bf56a9ad2ff905af76",
+    "changeLog": "\u2022 Various bug fixes and performance improvements."
+  }
+}

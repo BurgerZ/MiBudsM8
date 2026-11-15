@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "1.1.5.5",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/china/q74cc/q74cc_1.1.5.5.bin",
+    "md5": "e27299bce0ef86b6ab711ecc58fd43ea",
+    "changeLog": "\u2022 Added a shortcut gesture for taking photos;\n\u2022 Optimized sound quality;\n\u2022 Optimized the connection experience between the earbuds and your phone;\n\u2022 Fixed known issues."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "",
+  "result": {
+    "version": "2.1.0.7",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/china/p79ac/p79ac_2.1.0.7.bin",
+    "md5": "2742d925b65f4c528a0e4e43c3059826",
+    "changeLog": ""
+  }
+}
