@@ -1,12 +1,8 @@
 **Last Updated:** November 1, 2026
 
----
-
 ## 1. Introduction
 
 This Privacy Policy applies to the My Buds M8 mobile application (the "App"). We respect your privacy and are committed to protecting it. This policy explains what information the App accesses, how it is used, and your rights regarding that data.
-
----
 
 ## 2. Information We Access and Process
 
@@ -30,8 +26,6 @@ If enabled, the App uses notifications to display battery status and noise contr
 
 If the App crashes, it may generate a local log file to help you report the issue. This log is stored locally and is only shared if you explicitly choose to send it to us for support purposes.
 
----
-
 ## 3. How We Use Your Information
 
 We use the accessed data strictly for the following purposes:
@@ -39,20 +33,14 @@ We use the accessed data strictly for the following purposes:
 - **Core Functionality:** To connect to your earbuds, display battery levels, adjust settings, and save the last known location for the "Find Earbuds" feature.
 - **Improvement:** To diagnose crashes (only if you choose to share the log).
 
----
-
 ## 4. Data Sharing and Disclosure
 
 **We do not sell, trade, or rent your personal data.** Because the location data is stored locally on your device, we have no access to it. We do not share any data with third-party advertisers or analytics companies.
-
----
 
 ## 5. Data Retention and Deletion
 
 - **Location:** Retained on your device until you delete it. You can delete it by clearing the App's data in Android Settings or by using the in-app "Track earbuds location" toggle.
 - **Crash Logs:** Retained locally until you clear them or uninstall the App.
-
----
 
 ## 6. Permissions Explained
 
@@ -60,19 +48,13 @@ We use the accessed data strictly for the following purposes:
 - **Bluetooth (Connect / Scan):** Required to communicate with your earbuds.
 - **Notifications:** Required to show the persistent battery and ANC controls.
 
----
-
 ## 7. Children's Privacy
 
 The App is not intended for children under the age of 13. We do not knowingly collect personal information from children.
 
----
-
 ## 8. Changes to This Policy
 
 We may update this policy from time to time. Any changes will be reflected by the "Last Updated" date at the top of this document. Continued use of the App after changes constitutes acceptance of the new policy.
-
----
 
 ## 9. Contact Us
 
