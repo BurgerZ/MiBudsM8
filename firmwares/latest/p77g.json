@@ -2,9 +2,9 @@
   "code": 0,
   "message": "",
   "result": {
-    "version": "5.2.0.2",
-    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/global/p77g/p77g_5.2.0.2.bin",
-    "md5": "f5834e6408746c1595c51b8419e6a917",
-    "changeLog": "\u2022 Added support for LHDC HD Bluetooth audio codec."
+    "version": "5.2.0.4",
+    "url": "https://cdn.jsdelivr.net/gh/BurgerZ/MiBudsM8@master/firmwares/global/p77g/p77g_5.2.0.4.bin",
+    "md5": "0e4cd6b6baafcb9fa74eeb822553b3cf",
+    "changeLog": "\u2022 Optimized the switching experience of the wind noise reduction mode;\n\u2022 Optimized audio switching when two devices are connected;\n\u2022 Improved the connection stability between the earbuds and your phone;\n\u2022 Fixed known issues."
   }
 }
