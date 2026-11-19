@@ -102,6 +102,7 @@
 | 2717 | 50f2 | 1.2.1.8 | [1.2.1.8](./china/p77c/p77c_1.2.1.8.bin) | CHINA | e6e59c8169769d7445fc8f6fc0e9695f |
 | 2717 | 50f2 | 1.2.2.0 | [1.2.2.0](./china/p77c/p77c_1.2.2.0.bin) | CHINA | b8b542eba454010deacaf3bcaee320fc |
 | 2717 | 50f3 | 5.2.0.2 | [5.2.0.2](./global/p77g/p77g_5.2.0.2.bin) | GLOBAL | f5834e6408746c1595c51b8419e6a917 |
+| 2717 | 50f3 | 5.2.0.4 | [5.2.0.4](./global/p77g/p77g_5.2.0.4.bin) | GLOBAL | 0e4cd6b6baafcb9fa74eeb822553b3cf |
 
 # REDMI Buds 8 Active
 | VID | PID | Version | Link | Region | MD5 |
