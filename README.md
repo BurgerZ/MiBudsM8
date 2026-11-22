@@ -20,6 +20,9 @@ Discussion and app beta version: [Telegram](https://t.me/mibudsm8).
 
 My Buds M8 is an independent third-party tool developed by a sole developer and is not affiliated with, endorsed by, or sponsored by Xiaomi Inc., Redmi, or POCO. All product names, trademarks, and registered trademarks belong to their respective owners.
 
+**Ownership of image and firmware assets:**
+
+The major part of image and firmware assets located in the "models" and "firmwares" folders within this repository are the property of Xiaomi Inc.
 
 ## Copyright
 My Buds M8 © 2016-2026 [**zaa.bz**](https://zaa.bz/mibudsm8)
